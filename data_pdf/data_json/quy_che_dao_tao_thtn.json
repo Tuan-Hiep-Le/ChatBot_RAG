@@ -1,0 +1,993 @@
+{
+    "phan_1_thong_tin_chung": {
+        "1_mot_so_thong_tin_chuong_trinh_dao_tao": {
+            "ten_chuong_trinh_vi": "Chương trình tài năng",
+            "ten_chuong_trinh_en": "Talented Program",
+            "ten_nganh_vi": "Toán học",
+            "ten_nganh_en": "Mathematics",
+            "ma_so": "7460101",
+            "trinh_do": "Đại học",
+            "ngon_ngu_dao_tao": "Tiếng Việt",
+            "thoi_gian_dao_tao": "4 năm"
+        },
+        "2_muc_tieu": {
+            "2_1_muc_tieu_chung": "Chương trình đào tạo cử nhân tài năng ngành Toán học có mục tiêu đào tạo nguồn nhân lực chất lượng cao, có trách nhiệm với xã hội, có khả năng đổi mới sáng tạo Sinh viên được trang bị các kiến thức chung về khoa học tự nhiên và khoa học xã hội, các kiến thức chuyên sâu về lĩnh vực toán học. Sinh viên có kỹ năng nghề nghiệp, có khả năng hướng dẫn, phổ biến kiến thức và giải quyết những vấn đề thuộc lĩnh vực Toán học.",
+            "2_2_muc_tieu_cu_the": "Về kiến thức: Cử nhân tài năng ngành Toán học được trang bị kiến thức chung về khoa học tự nhiên, kinh tế, chính trị, khoa học xã hội, kiến thức chuyên sâu về Toán học, có nền tảng văn hóa khoa học, có khả năng tiếp cận các vấn đề thời sự và hiện đại của toán học thế giới và bắt đầu hình thành khả năng sáng tạo. Sinh viên được trang bị các kiến thức, kỹ năng và phẩm chất cần thiết để sau khi tốt nghiệp có thể đảm nhận các công việc có sử dụng kiến thức Toán học ở trình độ cao như giảng dạy, nghiên cứu, và ứng dụng Toán học vào các lĩnh vực khoa học, công nghệ, kinh tế, xã hội. Cử nhân Toán học có đủ kiến thức và năng lực chuyên môn để tiếp tục học sau đại học, và có thể chuyển tiếp học thẳng chương trình tiến sĩ tại các cơ sở giáo dục và nghiên cứu có uy tín trong nước và quốc tế.\nVề kỹ năng: Có các kỹ năng nghề nghiệp, kỹ năng khai thác thông tin, tài liệu sử dụng thành thạo các phương pháp, công cụ và phần mềm toán học phục vụ cho việc giảng dạy và nghiên cứu có khả năng giao tiếp và sử dụng được tiếng Anh trong học tập, nghiên cứu và trong công việc sau khi tốt nghiệp.\nMức độ tự chủ và trách nhiệm: Có khả năng làm việc độc lập và làm việc theo nhóm tự chủ và sáng tạo trong học tập và nghiên cứu, sẵn sàng chia sẻ kiến thức, hỗ trợ cộng đồng phát triển Toán học có đạo đức nghề nghiệp, chịu trách nhiệm cá nhân trước tập thể."
+        },
+        "3_thong_tin_chuyen_sinh": {
+            "3_1_hinh_thuc_tuyen_sinh": "Xét tuyển đối với các sinh viên đang theo học tại Trường Đại học Khoa học Tự nhiên, đáp ứng các quy định và tiêu chuẩn về đào tạo tài năng Toán học của Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội.",
+            "3_2_doi_tuong_du_tuyen": "Thí sinh đã trúng tuyển đại học và đang theo học các chương trình đào tạo trình độ đại học thuộc các ngành đào tạo Trường Đại học Khoa học Tự nhiên.",
+            "3_3_du_kien_quy_mo_tuyen_sinh": "Quy mô tuyển sinh theo chỉ tiêu của Đại học Quốc gia Hà Nội giao hàng năm."
+        }
+    },
+    "phan_2_chuan_dau_ra": {
+        "1_chuan_dau_ra_ve_kien_thuc_pk": {
+            "PK1": "Vận dụng các kiến thức cơ bản về khoa học xã hội, khoa học chính trị, pháp luật, văn hóa, quốc phòng-an ninh, khoa học trái đất và sự sống trong nghề nghiệp và đời sống.",
+            "PK2": "Vận dụng các kiến thức về phân tích dữ liệu, hệ thống thông tin toàn cầu để áp dụng trong học tập, nghiên cứu và sản xuất, thích ứng cao với cuộc cách mạng công nghiệp 4.0.",
+            "PK3": "Áp dụng được các kiến thức cơ bản Toán học để mô hình hóa các bài toán thực tế theo ngôn ngữ toán học.",
+            "PK4": "Áp dụng kiến thức cơ sở về Toán học để giải quyết vấn đề của các bài toán thực tế cơ bản và để tiếp thu các kiến thức chuyên sâu ở mức độ cao của ngành Toán học.",
+            "PK5": "Xác định được kiến thức Toán học để giải quyết vấn đề lý thuyết và thực tế trong một số lĩnh vực chuyên biệt cần sử dụng Toán học.",
+            "PK6": "Phân tích được các kiến thức quan trọng để tìm hiểu các vấn đề Toán học chuyên sâu hoặc phát triển các vấn đề đó.",
+            "PK7": "Đánh giá được các kết quả và phương pháp Toán học được sử dụng trong giáo dục đại học và phổ thông."
+        },
+        "2_chuan_dau_ra_ve_ki_nang_ps": {
+            "PS1": "Lựa chọn phương thức giao tiếp và trình bày về lĩnh vực chuyên môn bằng các phương tiện truyền thông và hiện đại. Trình độ ngoại ngữ đạt chuẩn bậc 4 khung năng lực Ngoại ngữ 6 bậc dành cho Việt Nam.",
+            "PS2": "Tổ chức và sắp xếp công việc hợp lý khởi nghiệp và tạo việc làm cho mình và cho người khác.",
+            "PS3": "Khai thác và tổng hợp được các thông tin, tài liệu phù hợp bằng tiếng Anh phục vụ cho việc lập mô hình toán học và giải quyết bài toán thực tế.",
+            "PS4": "Sử dụng thành thạo các phương pháp và công cụ Toán học vào bài toán thực tiễn sử dụng tốt các phần mềm chuyên dụng phổ biến cho việc giảng dạy và nghiên cứu.",
+            "PS5": "Điều chỉnh được mục tiêu cá nhân phù hợp với năng lực và hoàn cảnh khách quan trong hội nhập và hợp tác quốc tế.",
+            "PS6": "Đánh giá được chất lượng công việc của bản thân hoặc của nhóm đã làm, biết cách phân tích kết quả thực hiện để rút kinh nghiệm hoặc phát huy cho các nhiệm vụ tiếp theo."
+        },
+        "3_muc_do_tu_chu_va_trach_nhiem": {
+            "PR1": "Tuân thủ hiến pháp, pháp luật, chủ trương, chính sách của tổ chức trách nhiệm cao với cộng đồng và xã hội.",
+            "PR2": "Duy trì học tập, rèn luyện thể chất và tác phong, phục vụ Tổ quốc sẵn sàng đương đầu với khó khăn và chấp nhận rủi ro.",
+            "PR3": "Cho thấy có thể chấp nhận và tôn trọng những quan điểm khác nhau về cùng một vấn đề sự tuân thủ đầy đủ các quy định về liêm chính khoa học.",
+            "PR4": "Sẵn sàng chia sẻ kiến thức, tham gia các hoạt động khoa học, hỗ trợ cộng đồng phát triển Toán học.",
+            "PR5": "Thể hiện sự tự chủ và đam mê trong học tập và nghiên cứu, tự định hướng, bảo vệ quan điểm cá nhân và đưa ra kết luận chuyên môn sẵn sàng chịu trách nhiệm cá nhân trước tập thể sẵn sàng tìm kiếm cơ hội học tập và làm việc trong môi trường quốc tế.",
+            "PR6": "Thích ứng với các yêu cầu làm việc độc lập và làm việc theo nhóm, thúc đẩy hoạt động nhóm và phát triển nhóm làm việc."
+        },
+        "4_vi_tri_viec_lam_sinh_vien": {
+            "mo_ta": "Sau khi tốt nghiệp, Sinh viên Cử nhân khoa học Tài năng ngành Toán học có năng lực và trình độ ở mức độ cao, có khả năng làm việc tại các trung tâm, các viện nghiên cứu phát triển, các cơ quan quản lý kinh tế, tài chính, các cơ sở sản xuất và kinh doanh, ngân hàng, tổ chức bảo hiểm... có sử dụng kiến thức Toán học. Sinh viên tốt nghiệp cũng có thể giảng dạy các môn liên quan tới ngành của mình tại các trường đại học, cao đẳng, trung học phổ thông."
+        },
+        "5_kha_nang_hoc_tap_nang_cao": {
+            "mo_ta": "Chương trình đào tạo Cử nhân Khoa học Tài năng ngành Toán học chủ yếu cung cấp cho sinh viên những kiến thức, kỹ năng cơ bản và quan trọng hơn cả là phương pháp tư duy logic, phương pháp lập luận, phân tích và giải quyết đề phương pháp tư duy trừu tượng, mô hình hóa phân tích, thiết lập bài toán và sử dụng công cụ toán học để giải quyết. Những kỹ năng này là tiền đề để mỗi cá nhân người học có thể tiếp tục học, nâng cao trình độ trong lĩnh vực chuyên môn của mình, phù hợp với nhu cầu của bản thân, của công việc và của nền kinh tế."
+        }
+    },
+    "phan_3_khung_chuong_trinh_dao_tao": {
+        "1_tom_tat_yeu_cau": {
+            "tong_so_tin_chi": "168 tín chỉ",
+            "ghi_chu": "chưa tính Giáo dục thể chất, Giáo dục quốc phòng - an ninh và Kỹ năng bổ trợ",
+            "khoi_kien_thuc_chung": "26 tín chỉ",
+            "khoi_kien_thuc_theo_linh_vuc": "5 tín chỉ (Bắt buộc: 0, Tự chọn: 5/13)",
+            "khoi_kien_thuc_theo_khoi_nganh": "7 tín chỉ",
+            "khoi_kien_thuc_theo_nhom_nganh": "55 tín chỉ (Bắt buộc: 52, Tự chọn: 3/12)",
+            "khoi_kien_thuc_nganh": "75 tín chỉ (Bắt buộc: 50, Tự chọn: 15/24, Khóa luận tốt nghiệp: 10)"
+        },
+        "2_danh_sach_hoc_phan": [
+            {
+                "ma_hp": "PHI1006",
+                "ten_hp_vi": "Triết học Mác - Lênin",
+                "ten_hp_en": "Marxist - Leninist Philosophy",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức chung",
+                "ly_thuyet": "42",
+                "thuc_hanh": "6",
+                "tu_hoc": "102",
+                "tien_quyet": ""
+            },
+            {
+                "ma_hp": "PEC1008",
+                "ten_hp_vi": "Kinh tế chính trị Mác - Lênin",
+                "ten_hp_en": "Marxist-Leninist Political Economy",
+                "tin_chi": "2",
+                "khoi_kien_thuc": "Khối kiến thức chung",
+                "ly_thuyet": "30",
+                "thuc_hanh": "0",
+                "tu_hoc": "70",
+                "tien_quyet": "PHI1006"
+            },
+            {
+                "ma_hp": "PHI1002",
+                "ten_hp_vi": "Chủ nghĩa xã hội khoa học",
+                "ten_hp_en": "Scientific socialism",
+                "tin_chi": "2",
+                "khoi_kien_thuc": "Khối kiến thức chung",
+                "ly_thuyet": "28",
+                "thuc_hanh": "4",
+                "tu_hoc": "68",
+                "tien_quyet": "PHI1006"
+            },
+            {
+                "ma_hp": "HIS1001",
+                "ten_hp_vi": "Lịch sử Đảng Cộng sản Việt Nam",
+                "ten_hp_en": "History of Vietnamese Communist Party",
+                "tin_chi": "2",
+                "khoi_kien_thuc": "Khối kiến thức chung",
+                "ly_thuyet": "28",
+                "thuc_hanh": "4",
+                "tu_hoc": "68",
+                "tien_quyet": ""
+            },
+            {
+                "ma_hp": "POL1001",
+                "ten_hp_vi": "Tư tưởng Hồ Chí Minh",
+                "ten_hp_en": "Ho Chi Minh's Ideology",
+                "tin_chi": "2",
+                "khoi_kien_thuc": "Khối kiến thức chung",
+                "ly_thuyet": "28",
+                "thuc_hanh": "4",
+                "tu_hoc": "68",
+                "tien_quyet": ""
+            },
+            {
+                "ma_hp": "THL1057",
+                "ten_hp_vi": "Nhà nước và pháp luật đại cương",
+                "ten_hp_en": "General State and Law",
+                "tin_chi": "2",
+                "khoi_kien_thuc": "Khối kiến thức chung",
+                "ly_thuyet": "30",
+                "thuc_hanh": "0",
+                "tu_hoc": "70",
+                "tien_quyet": ""
+            },
+            {
+                "ma_hp": "HUS1011",
+                "ten_hp_vi": "Tin học cơ sở",
+                "ten_hp_en": "General to Informatics",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức chung",
+                "ly_thuyet": "10",
+                "thuc_hanh": "40",
+                "tu_hoc": "100",
+                "tien_quyet": ""
+            },
+            {
+                "ma_hp": "FLF1107",
+                "ten_hp_vi": "Tiếng Anh B1",
+                "ten_hp_en": "English B1",
+                "tin_chi": "5",
+                "khoi_kien_thuc": "Khối kiến thức chung (Ngoại ngữ B1)",
+                "ly_thuyet": "25",
+                "thuc_hanh": "50",
+                "tu_hoc": "175",
+                "tien_quyet": ""
+            },
+            {
+                "ma_hp": "FLF1108",
+                "ten_hp_vi": "Tiếng Anh B2",
+                "ten_hp_en": "English B2",
+                "tin_chi": "5",
+                "khoi_kien_thuc": "Khối kiến thức chung (Ngoại ngữ B2)",
+                "ly_thuyet": "25",
+                "thuc_hanh": "50",
+                "tu_hoc": "175",
+                "tien_quyet": "FLF1107"
+            },
+            {
+                "ma_hp": "CME1000",
+                "ten_hp_vi": "Giáo dục quốc phòng-an ninh",
+                "ten_hp_en": "National Defence Education",
+                "tin_chi": "8",
+                "khoi_kien_thuc": "Khối kiến thức chung",
+                "ly_thuyet": "",
+                "thuc_hanh": "",
+                "tu_hoc": "",
+                "tien_quyet": ""
+            },
+            {
+                "ma_hp": "PES1000",
+                "ten_hp_vi": "Giáo dục thể chất",
+                "ten_hp_en": "Physical Education",
+                "tin_chi": "4",
+                "khoi_kien_thuc": "Khối kiến thức chung",
+                "ly_thuyet": "",
+                "thuc_hanh": "",
+                "tu_hoc": "",
+                "tien_quyet": ""
+            },
+            {
+                "ma_hp": "HUS1012",
+                "ten_hp_vi": "Kỹ năng bổ trợ",
+                "ten_hp_en": "Soft skills",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức chung",
+                "ly_thuyet": "31",
+                "thuc_hanh": "14",
+                "tu_hoc": "105",
+                "tien_quyet": ""
+            },
+            {
+                "ma_hp": "HUS1021",
+                "ten_hp_vi": "Khoa học Trái Đất và sự sống",
+                "ten_hp_en": "Earth and Life Sciences",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức theo lĩnh vực",
+                "ly_thuyet": "33",
+                "thuc_hanh": "24",
+                "tu_hoc": "93",
+                "tien_quyet": ""
+            },
+            {
+                "ma_hp": "HUS1022",
+                "ten_hp_vi": "Nhập môn Internet kết nối vạn vật",
+                "ten_hp_en": "Introduction to Internet of Things",
+                "tin_chi": "2",
+                "khoi_kien_thuc": "Khối kiến thức theo lĩnh vực",
+                "ly_thuyet": "24",
+                "thuc_hanh": "12",
+                "tu_hoc": "64",
+                "tien_quyet": ""
+            },
+            {
+                "ma_hp": "HUS1023",
+                "ten_hp_vi": "Nhập môn phân tích dữ liệu",
+                "ten_hp_en": "Introduction to Data Analysis",
+                "tin_chi": "2",
+                "khoi_kien_thuc": "Khối kiến thức theo lĩnh vực",
+                "ly_thuyet": "20",
+                "thuc_hanh": "20",
+                "tu_hoc": "60",
+                "tien_quyet": ""
+            },
+            {
+                "ma_hp": "HUS1024",
+                "ten_hp_vi": "Nhập môn Robotic",
+                "ten_hp_en": "Introduction to Robotics",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức theo lĩnh vực",
+                "ly_thuyet": "30",
+                "thuc_hanh": "20",
+                "tu_hoc": "100",
+                "tien_quyet": ""
+            },
+            {
+                "ma_hp": "HIS1056",
+                "ten_hp_vi": "Cơ sở văn hóa Việt Nam",
+                "ten_hp_en": "Introduction to Vietnamese Culture",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức theo lĩnh vực",
+                "ly_thuyet": "42",
+                "thuc_hanh": "6",
+                "tu_hoc": "102",
+                "tien_quyet": ""
+            },
+            {
+                "ma_hp": "MAT1076",
+                "ten_hp_vi": "Cơ học lý thuyết",
+                "ten_hp_en": "Theoretical Mechanics",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức theo khối ngành",
+                "ly_thuyet": "30",
+                "thuc_hanh": "30",
+                "tu_hoc": "90",
+                "tien_quyet": "MAT2302"
+            },
+            {
+                "ma_hp": "PHY1066",
+                "ten_hp_vi": "Cơ sở vật lý hiện đại",
+                "ten_hp_en": "Introduction to Modern Physics",
+                "tin_chi": "4",
+                "khoi_kien_thuc": "Khối kiến thức theo khối ngành",
+                "ly_thuyet": "45",
+                "thuc_hanh": "30",
+                "tu_hoc": "125",
+                "tien_quyet": ""
+            },
+            {
+                "ma_hp": "MAT2320",
+                "ten_hp_vi": "Đại số tuyến tính 1",
+                "ten_hp_en": "Linear Algebra 1",
+                "tin_chi": "5",
+                "khoi_kien_thuc": "Khối kiến thức theo nhóm ngành - Bắt buộc",
+                "ly_thuyet": "50",
+                "thuc_hanh": "50",
+                "tu_hoc": "150",
+                "tien_quyet": ""
+            },
+            {
+                "ma_hp": "MAT2321",
+                "ten_hp_vi": "Đại số tuyến tính 2",
+                "ten_hp_en": "Linear Algebra 2",
+                "tin_chi": "5",
+                "khoi_kien_thuc": "Khối kiến thức theo nhóm ngành - Bắt buộc",
+                "ly_thuyet": "50",
+                "thuc_hanh": "50",
+                "tu_hoc": "150",
+                "tien_quyet": "MAT2320"
+            },
+            {
+                "ma_hp": "MAT2302",
+                "ten_hp_vi": "Giải tích 1",
+                "ten_hp_en": "Analysis 1",
+                "tin_chi": "5",
+                "khoi_kien_thuc": "Khối kiến thức theo nhóm ngành - Bắt buộc",
+                "ly_thuyet": "45",
+                "thuc_hanh": "60",
+                "tu_hoc": "145",
+                "tien_quyet": ""
+            },
+            {
+                "ma_hp": "MAT2303",
+                "ten_hp_vi": "Giải tích 2",
+                "ten_hp_en": "Analysis 2",
+                "tin_chi": "5",
+                "khoi_kien_thuc": "Khối kiến thức theo nhóm ngành - Bắt buộc",
+                "ly_thuyet": "45",
+                "thuc_hanh": "60",
+                "tu_hoc": "145",
+                "tien_quyet": "MAT2302"
+            },
+            {
+                "ma_hp": "MAT2322",
+                "ten_hp_vi": "Giải tích 3",
+                "ten_hp_en": "Analysis 3",
+                "tin_chi": "5",
+                "khoi_kien_thuc": "Khối kiến thức theo nhóm ngành - Bắt buộc",
+                "ly_thuyet": "45",
+                "thuc_hanh": "60",
+                "tu_hoc": "145",
+                "tien_quyet": "MAT2303"
+            },
+            {
+                "ma_hp": "MAT2314",
+                "ten_hp_vi": "Phương trình vi phân",
+                "ten_hp_en": "Differential Equations",
+                "tin_chi": "4",
+                "khoi_kien_thuc": "Khối kiến thức theo nhóm ngành - Bắt buộc",
+                "ly_thuyet": "45",
+                "thuc_hanh": "30",
+                "tu_hoc": "125",
+                "tien_quyet": "MAT2301 / MAT2321 / MAT2303"
+            },
+            {
+                "ma_hp": "MAT2313",
+                "ten_hp_vi": "Phương trình đạo hàm riêng 1",
+                "ten_hp_en": "Partial Differential Equations 1",
+                "tin_chi": "4",
+                "khoi_kien_thuc": "Khối kiến thức theo nhóm ngành - Bắt buộc",
+                "ly_thuyet": "45",
+                "thuc_hanh": "30",
+                "tu_hoc": "125",
+                "tien_quyet": "MAT2322 / MAT2314"
+            },
+            {
+                "ma_hp": "MAT2307",
+                "ten_hp_vi": "Giải tích số 1",
+                "ten_hp_en": "Numerical Analysis 1",
+                "tin_chi": "4",
+                "khoi_kien_thuc": "Khối kiến thức theo nhóm ngành - Bắt buộc",
+                "ly_thuyet": "45",
+                "thuc_hanh": "30",
+                "tu_hoc": "125",
+                "tien_quyet": "MAT2314 / MAT2316 / MAT2505 / MAT2318 / MAT2319"
+            },
+            {
+                "ma_hp": "MAT2308",
+                "ten_hp_vi": "Xác suất 1",
+                "ten_hp_en": "Probability 1",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức theo nhóm ngành - Bắt buộc",
+                "ly_thuyet": "30",
+                "thuc_hanh": "30",
+                "tu_hoc": "90",
+                "tien_quyet": "MAT2300 / MAT2320 / MAT2302"
+            },
+            {
+                "ma_hp": "MAT2407",
+                "ten_hp_vi": "Tối ưu hóa",
+                "ten_hp_en": "Optimization",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức theo nhóm ngành - Bắt buộc",
+                "ly_thuyet": "30",
+                "thuc_hanh": "30",
+                "tu_hoc": "90",
+                "tien_quyet": "MAT2301 / MAT2321 / MAT2400 / MAT2303 / MAT2502"
+            },
+            {
+                "ma_hp": "MAT2310",
+                "ten_hp_vi": "Hình học giải tích",
+                "ten_hp_en": "Analytic Geometry",
+                "tin_chi": "2",
+                "khoi_kien_thuc": "Khối kiến thức theo nhóm ngành - Bắt buộc",
+                "ly_thuyet": "20",
+                "thuc_hanh": "20",
+                "tu_hoc": "60",
+                "tien_quyet": "MAT2301 / MAT2321"
+            },
+            {
+                "ma_hp": "MAT2311",
+                "ten_hp_vi": "Thống kê ứng dụng",
+                "ten_hp_en": "Applied Statistics",
+                "tin_chi": "4",
+                "khoi_kien_thuc": "Khối kiến thức theo nhóm ngành - Bắt buộc",
+                "ly_thuyet": "45",
+                "thuc_hanh": "30",
+                "tu_hoc": "125",
+                "tien_quyet": "MAT2308"
+            },
+            {
+                "ma_hp": "MAT2315",
+                "ten_hp_vi": "Phương pháp nghiên cứu khoa học",
+                "ten_hp_en": "Research Methodology",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức theo nhóm ngành - Bắt buộc",
+                "ly_thuyet": "15",
+                "thuc_hanh": "60",
+                "tu_hoc": "75",
+                "tien_quyet": ""
+            },
+            {
+                "ma_hp": "MAT2316",
+                "ten_hp_vi": "Lập trình C/C++",
+                "ten_hp_en": "C/C++ Programming",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức theo nhóm ngành - Tự chọn",
+                "ly_thuyet": "22",
+                "thuc_hanh": "46",
+                "tu_hoc": "82",
+                "tien_quyet": "HUS1011"
+            },
+            {
+                "ma_hp": "MAT2505",
+                "ten_hp_vi": "Lập trình cơ bản",
+                "ten_hp_en": "Introduction to Programming",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức theo nhóm ngành - Tự chọn",
+                "ly_thuyet": "22",
+                "thuc_hanh": "46",
+                "tu_hoc": "82",
+                "tien_quyet": "HUS1011"
+            },
+            {
+                "ma_hp": "MAT2318",
+                "ten_hp_vi": "Lập trình Python",
+                "ten_hp_en": "Python Programming",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức theo nhóm ngành - Tự chọn",
+                "ly_thuyet": "22",
+                "thuc_hanh": "46",
+                "tu_hoc": "82",
+                "tien_quyet": "HUS1011"
+            },
+            {
+                "ma_hp": "MAT2319",
+                "ten_hp_vi": "Lập trình Julia",
+                "ten_hp_en": "Julia Programming",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức theo nhóm ngành - Tự chọn",
+                "ly_thuyet": "22",
+                "thuc_hanh": "46",
+                "tu_hoc": "82",
+                "tien_quyet": "HUS1011"
+            },
+            {
+                "ma_hp": "MAT3300",
+                "ten_hp_vi": "Đại số đại cương",
+                "ten_hp_en": "Abstract Algebra",
+                "tin_chi": "4",
+                "khoi_kien_thuc": "Khối kiến thức ngành - Bắt buộc",
+                "ly_thuyet": "45",
+                "thuc_hanh": "30",
+                "tu_hoc": "125",
+                "tien_quyet": "MAT2301 / MAT2321"
+            },
+            {
+                "ma_hp": "MAT3340",
+                "ten_hp_vi": "Giải tích hàm",
+                "ten_hp_en": "Functional Analysis",
+                "tin_chi": "4",
+                "khoi_kien_thuc": "Khối kiến thức ngành - Bắt buộc",
+                "ly_thuyet": "45",
+                "thuc_hanh": "30",
+                "tu_hoc": "125",
+                "tien_quyet": "MAT2321 / MAT2322"
+            },
+            {
+                "ma_hp": "MAT3302",
+                "ten_hp_vi": "Toán rời rạc",
+                "ten_hp_en": "Discrete Mathematics",
+                "tin_chi": "4",
+                "khoi_kien_thuc": "Khối kiến thức ngành - Bắt buộc",
+                "ly_thuyet": "45",
+                "thuc_hanh": "30",
+                "tu_hoc": "125",
+                "tien_quyet": ""
+            },
+            {
+                "ma_hp": "MAT3344",
+                "ten_hp_vi": "Giải tích phức",
+                "ten_hp_en": "Complex Analysis",
+                "tin_chi": "4",
+                "khoi_kien_thuc": "Khối kiến thức ngành - Bắt buộc",
+                "ly_thuyet": "45",
+                "thuc_hanh": "30",
+                "tu_hoc": "125",
+                "tien_quyet": "MAT2301 / MAT2321 / MAT2304 / MAT2322"
+            },
+            {
+                "ma_hp": "MAT3305",
+                "ten_hp_vi": "Tôpô đại cương",
+                "ten_hp_en": "General Topology",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức ngành - Bắt buộc",
+                "ly_thuyet": "45",
+                "thuc_hanh": "0",
+                "tu_hoc": "105",
+                "tien_quyet": "MAT2302"
+            },
+            {
+                "ma_hp": "MAT3306",
+                "ten_hp_vi": "Cơ sở hình học vi phân",
+                "ten_hp_en": "Introduction to Differential Geometry",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức ngành - Bắt buộc",
+                "ly_thuyet": "45",
+                "thuc_hanh": "0",
+                "tu_hoc": "105",
+                "tien_quyet": "MAT2300 / MAT2320 / MAT2305"
+            },
+            {
+                "ma_hp": "MAT3307",
+                "ten_hp_vi": "Lý thuyết độ đo và tích phân",
+                "ten_hp_en": "Measure and Integration theory",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức ngành - Bắt buộc",
+                "ly_thuyet": "45",
+                "thuc_hanh": "0",
+                "tu_hoc": "105",
+                "tien_quyet": "MAT2304 / MAT2322"
+            },
+            {
+                "ma_hp": "MAT3304",
+                "ten_hp_vi": "Thực hành tính toán",
+                "ten_hp_en": "Practicum in Computing",
+                "tin_chi": "2",
+                "khoi_kien_thuc": "Khối kiến thức ngành - Bắt buộc",
+                "ly_thuyet": "15",
+                "thuc_hanh": "30",
+                "tu_hoc": "55",
+                "tien_quyet": "MAT2307"
+            },
+            {
+                "ma_hp": "MAT3347",
+                "ten_hp_vi": "Lý thuyết Galois",
+                "ten_hp_en": "Galois theory",
+                "tin_chi": "4",
+                "khoi_kien_thuc": "Khối kiến thức ngành - Bắt buộc",
+                "ly_thuyet": "60",
+                "thuc_hanh": "0",
+                "tu_hoc": "140",
+                "tien_quyet": "MAT3300"
+            },
+            {
+                "ma_hp": "MAT3339",
+                "ten_hp_vi": "Đại số tuyến tính 3",
+                "ten_hp_en": "Linear Algebra 3",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức ngành - Bắt buộc",
+                "ly_thuyet": "45",
+                "thuc_hanh": "0",
+                "tu_hoc": "105",
+                "tien_quyet": "MAT2301 / MAT2321"
+            },
+            {
+                "ma_hp": "MAT3318",
+                "ten_hp_vi": "Giải tích trên đa tạp",
+                "ten_hp_en": "Analysis on Manifolds",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức ngành - Bắt buộc",
+                "ly_thuyet": "45",
+                "thuc_hanh": "0",
+                "tu_hoc": "105",
+                "tien_quyet": "MAT3339 / MAT3305"
+            },
+            {
+                "ma_hp": "MAT3341",
+                "ten_hp_vi": "Giải tích điều hòa",
+                "ten_hp_en": "Harmonic Analysis",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức ngành - Bắt buộc",
+                "ly_thuyet": "45",
+                "thuc_hanh": "0",
+                "tu_hoc": "105",
+                "tien_quyet": "MAT3307"
+            },
+            {
+                "ma_hp": "MAT3322",
+                "ten_hp_vi": "Xác suất 2",
+                "ten_hp_en": "Probability 2",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức ngành - Bắt buộc",
+                "ly_thuyet": "45",
+                "thuc_hanh": "0",
+                "tu_hoc": "105",
+                "tien_quyet": "MAT2308 / MAT3307"
+            },
+            {
+                "ma_hp": "MAT3363",
+                "ten_hp_vi": "Xêmina 1",
+                "ten_hp_en": "Seminar 1",
+                "tin_chi": "2",
+                "khoi_kien_thuc": "Khối kiến thức ngành - Bắt buộc",
+                "ly_thuyet": "15",
+                "thuc_hanh": "30",
+                "tu_hoc": "55",
+                "tien_quyet": ""
+            },
+            {
+                "ma_hp": "MAT3364",
+                "ten_hp_vi": "Xêmina 2",
+                "ten_hp_en": "Seminar 2",
+                "tin_chi": "2",
+                "khoi_kien_thuc": "Khối kiến thức ngành - Bắt buộc",
+                "ly_thuyet": "15",
+                "thuc_hanh": "30",
+                "tu_hoc": "55",
+                "tien_quyet": ""
+            },
+            {
+                "ma_hp": "MAT3359",
+                "ten_hp_vi": "Thực tập chuyên ngành",
+                "ten_hp_en": "Professional internship",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức ngành - Bắt buộc",
+                "ly_thuyet": "15",
+                "thuc_hanh": "60",
+                "tu_hoc": "75",
+                "tien_quyet": "(MAT1202 / MAT3507) / MAT3304"
+            },
+            {
+                "ma_hp": "MAT3310",
+                "ten_hp_vi": "Cơ sở tôpô đại số",
+                "ten_hp_en": "Introduction to Algebraic Topology",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức chuyên sâu về Toán lý thuyết",
+                "ly_thuyet": "45",
+                "thuc_hanh": "0",
+                "tu_hoc": "105",
+                "tien_quyet": "MAT3300 / MAT3305"
+            },
+            {
+                "ma_hp": "MAT3311",
+                "ten_hp_vi": "Lý thuyết nhóm và biểu diễn nhóm",
+                "ten_hp_en": "Theory of Groups and Group Representations",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức chuyên sâu về Toán lý thuyết",
+                "ly_thuyet": "45",
+                "thuc_hanh": "0",
+                "tu_hoc": "105",
+                "tien_quyet": "MAT3300"
+            },
+            {
+                "ma_hp": "MAT3313",
+                "ten_hp_vi": "Lý thuyết số",
+                "ten_hp_en": "Number Theory",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức chuyên sâu về Toán lý thuyết",
+                "ly_thuyet": "45",
+                "thuc_hanh": "0",
+                "tu_hoc": "105",
+                "tien_quyet": "MAT2301 / MAT2321 / MAT2304 / MAT2322"
+            },
+            {
+                "ma_hp": "MAT3316",
+                "ten_hp_vi": "Giải tích phổ toán tử",
+                "ten_hp_en": "Spectral Theory of Operators",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức chuyên sâu về Toán lý thuyết",
+                "ly_thuyet": "45",
+                "thuc_hanh": "0",
+                "tu_hoc": "105",
+                "tien_quyet": "MAT3340"
+            },
+            {
+                "ma_hp": "MAT3317",
+                "ten_hp_vi": "Phương trình đạo hàm riêng 2",
+                "ten_hp_en": "Partial Differential Equations 2",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức chuyên sâu về Toán lý thuyết",
+                "ly_thuyet": "45",
+                "thuc_hanh": "0",
+                "tu_hoc": "105",
+                "tien_quyet": "MAT3301 / MAT3340 / MAT3307"
+            },
+            {
+                "ma_hp": "MAT3345",
+                "ten_hp_vi": "Lý thuyết ổn định của phương trình vi phân",
+                "ten_hp_en": "Stability theory of Differential Equations",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức chuyên sâu về Toán lý thuyết",
+                "ly_thuyet": "45",
+                "thuc_hanh": "0",
+                "tu_hoc": "105",
+                "tien_quyet": "MAT2314"
+            },
+            {
+                "ma_hp": "MAT3101",
+                "ten_hp_vi": "Hệ động lực",
+                "ten_hp_en": "Introduction to Dynamical Systems",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức chuyên sâu về Toán lý thuyết",
+                "ly_thuyet": "45",
+                "thuc_hanh": "0",
+                "tu_hoc": "105",
+                "tien_quyet": "MAT2314"
+            },
+            {
+                "ma_hp": "MAT3325",
+                "ten_hp_vi": "Lịch sử Toán học",
+                "ten_hp_en": "History of Mathematics",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức chuyên sâu về Toán lý thuyết",
+                "ly_thuyet": "45",
+                "thuc_hanh": "0",
+                "tu_hoc": "105",
+                "tien_quyet": "MAT2304 / MAT2322 / MAT2314"
+            },
+            {
+                "ma_hp": "MAT3327",
+                "ten_hp_vi": "Điều khiển tối ưu",
+                "ten_hp_en": "Optimal Control Theory",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức chuyên sâu về Toán ứng dụng",
+                "ly_thuyet": "45",
+                "thuc_hanh": "0",
+                "tu_hoc": "105",
+                "tien_quyet": "MAT2306 / MAT2313 / MAT3365 / MAT2311 / MAT2406"
+            },
+            {
+                "ma_hp": "MAT3329",
+                "ten_hp_vi": "Giải tích số 2",
+                "ten_hp_en": "Numerical Analysis 2",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức chuyên sâu về Toán ứng dụng",
+                "ly_thuyet": "45",
+                "thuc_hanh": "0",
+                "tu_hoc": "105",
+                "tien_quyet": "MAT2307"
+            },
+            {
+                "ma_hp": "MAT3360",
+                "ten_hp_vi": "Tối ưu hoá nâng cao",
+                "ten_hp_en": "Advanced Optimization",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức chuyên sâu về Toán ứng dụng",
+                "ly_thuyet": "45",
+                "thuc_hanh": "0",
+                "tu_hoc": "105",
+                "tien_quyet": "MAT2407"
+            },
+            {
+                "ma_hp": "MAT3323",
+                "ten_hp_vi": "Tối ưu rời rạc",
+                "ten_hp_en": "Discrete Optimization",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức chuyên sâu về Toán ứng dụng",
+                "ly_thuyet": "45",
+                "thuc_hanh": "0",
+                "tu_hoc": "105",
+                "tien_quyet": "MAT2407 / MAT3302 / MAT3500"
+            },
+            {
+                "ma_hp": "MAT3321",
+                "ten_hp_vi": "Quá trình ngẫu nhiên",
+                "ten_hp_en": "Stochastic Proccesses",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức chuyên sâu về Toán ứng dụng",
+                "ly_thuyet": "45",
+                "thuc_hanh": "0",
+                "tu_hoc": "105",
+                "tien_quyet": "MAT2311"
+            },
+            {
+                "ma_hp": "MAT3333",
+                "ten_hp_vi": "Các mô hình toán ứng dụng 1",
+                "ten_hp_en": "Mathematical Modelling 1",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức chuyên sâu về Toán ứng dụng",
+                "ly_thuyet": "45",
+                "thuc_hanh": "0",
+                "tu_hoc": "105",
+                "tien_quyet": "MAT2304 / MAT2308 / MAT2405"
+            },
+            {
+                "ma_hp": "MAT3334",
+                "ten_hp_vi": "Các mô hình toán ứng dụng 2",
+                "ten_hp_en": "Mathematical Modelling 2",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức chuyên sâu về Toán ứng dụng",
+                "ly_thuyet": "45",
+                "thuc_hanh": "0",
+                "tu_hoc": "105",
+                "tien_quyet": "MAT2314 / MAT2311 / MAT2406"
+            },
+            {
+                "ma_hp": "MAT3452",
+                "ten_hp_vi": "Phân tích thống kê nhiều chiều",
+                "ten_hp_en": "Multivariate Statistical Analysis",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức chuyên sâu về Toán ứng dụng",
+                "ly_thuyet": "30",
+                "thuc_hanh": "30",
+                "tu_hoc": "90",
+                "tien_quyet": "MAT2311 / MAT2406 / MAT2323"
+            },
+            {
+                "ma_hp": "MAT3335",
+                "ten_hp_vi": "Đại số máy tính",
+                "ten_hp_en": "Computer Algebra",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức chuyên sâu về Toán ứng dụng",
+                "ly_thuyet": "45",
+                "thuc_hanh": "0",
+                "tu_hoc": "105",
+                "tien_quyet": "MAT2316 / MAT2505 / MAT2318 / MAT2319 / MAT2302"
+            },
+            {
+                "ma_hp": "MAT3539",
+                "ten_hp_vi": "Mật mã và an toàn dữ liệu",
+                "ten_hp_en": "Cryptography and Data Security",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức chuyên sâu về Toán ứng dụng",
+                "ly_thuyet": "30",
+                "thuc_hanh": "30",
+                "tu_hoc": "90",
+                "tien_quyet": "MAT2301 / MAT2400 / MAT2316 / MAT2505 / MAT2318 / MAT2319"
+            },
+            {
+                "ma_hp": "MAT3324",
+                "ten_hp_vi": "Tổ hợp",
+                "ten_hp_en": "Combinatorics",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức chuyên sâu về Toán ứng dụng",
+                "ly_thuyet": "45",
+                "thuc_hanh": "0",
+                "tu_hoc": "105",
+                "tien_quyet": "MAT3302"
+            },
+            {
+                "ma_hp": "MAT3401",
+                "ten_hp_vi": "Phép tính biến phân",
+                "ten_hp_en": "Calculus of Variations",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức chuyên sâu về Cơ học",
+                "ly_thuyet": "30",
+                "thuc_hanh": "30",
+                "tu_hoc": "90",
+                "tien_quyet": "MAT2304 / MAT2314"
+            },
+            {
+                "ma_hp": "MAT3361",
+                "ten_hp_vi": "Cơ học lý thuyết nâng cao",
+                "ten_hp_en": "Advanced Theoretical Mechanics",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức chuyên sâu về Cơ học",
+                "ly_thuyet": "30",
+                "thuc_hanh": "30",
+                "tu_hoc": "90",
+                "tien_quyet": "MAT2304 / MAT1076"
+            },
+            {
+                "ma_hp": "MAT3423",
+                "ten_hp_vi": "Cơ học môi trường liên tục",
+                "ten_hp_en": "Continuum Mechanics",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức chuyên sâu về Cơ học",
+                "ly_thuyet": "30",
+                "thuc_hanh": "30",
+                "tu_hoc": "90",
+                "tien_quyet": "MAT2314 / MAT3402"
+            },
+            {
+                "ma_hp": "MAT3396",
+                "ten_hp_vi": "Sức bền vật liệu",
+                "ten_hp_en": "Strength of Material",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức chuyên sâu về Cơ học",
+                "ly_thuyet": "30",
+                "thuc_hanh": "30",
+                "tu_hoc": "90",
+                "tien_quyet": "MAT2314 / MAT1076"
+            },
+            {
+                "ma_hp": "MAT3406",
+                "ten_hp_vi": "Lý thuyết dao động",
+                "ten_hp_en": "Theory of Vibration",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức chuyên sâu về Cơ học",
+                "ly_thuyet": "30",
+                "thuc_hanh": "30",
+                "tu_hoc": "90",
+                "tien_quyet": "MAT2306 / MAT3361"
+            },
+            {
+                "ma_hp": "MAT3407",
+                "ten_hp_vi": "Lý thuyết đàn hồi",
+                "ten_hp_en": "Theory of Elasticity",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức chuyên sâu về Cơ học",
+                "ly_thuyet": "30",
+                "thuc_hanh": "30",
+                "tu_hoc": "90",
+                "tien_quyet": "MAT2306 / MAT3423"
+            },
+            {
+                "ma_hp": "MAT3408",
+                "ten_hp_vi": "Cơ học chất lỏng",
+                "ten_hp_en": "Mechanics of Fluid",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức chuyên sâu về Cơ học",
+                "ly_thuyet": "30",
+                "thuc_hanh": "30",
+                "tu_hoc": "90",
+                "tien_quyet": "MAT2306 / MAT3423"
+            },
+            {
+                "ma_hp": "MAT3411",
+                "ten_hp_vi": "Phương pháp phần tử hữu hạn",
+                "ten_hp_en": "Finite Element Method",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức chuyên sâu về Cơ học",
+                "ly_thuyet": "30",
+                "thuc_hanh": "30",
+                "tu_hoc": "90",
+                "tien_quyet": "MAT3396"
+            },
+            {
+                "ma_hp": "MAT3412",
+                "ten_hp_vi": "Lý thuyết dẻo",
+                "ten_hp_en": "Theory of Plasticity",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức chuyên sâu về Cơ học",
+                "ly_thuyet": "30",
+                "thuc_hanh": "30",
+                "tu_hoc": "90",
+                "tien_quyet": "MAT3407"
+            },
+            {
+                "ma_hp": "MAT3413",
+                "ten_hp_vi": "Cơ học giải tích",
+                "ten_hp_en": "Analytical Mechanics",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức chuyên sâu về Cơ học",
+                "ly_thuyet": "30",
+                "thuc_hanh": "30",
+                "tu_hoc": "90",
+                "tien_quyet": "MAT3361"
+            },
+            {
+                "ma_hp": "MAT3415",
+                "ten_hp_vi": "Cơ học vật liệu composite",
+                "ten_hp_en": "Mechanics of Composite Materials",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức chuyên sâu về Cơ học",
+                "ly_thuyet": "30",
+                "thuc_hanh": "30",
+                "tu_hoc": "90",
+                "tien_quyet": "MAT3423"
+            },
+            {
+                "ma_hp": "MAT3418",
+                "ten_hp_vi": "Phương pháp số trong cơ học",
+                "ten_hp_en": "Numerical methods in mechanics",
+                "tin_chi": "3",
+                "khoi_kien_thuc": "Khối kiến thức chuyên sâu về Cơ học",
+                "ly_thuyet": "30",
+                "thuc_hanh": "30",
+                "tu_hoc": "90",
+                "tien_quyet": "MAT2307 / MAT2316 / MAT2505 / MAT2318 / MAT2319"
+            },
+            {
+                "ma_hp": "MAT4074",
+                "ten_hp_vi": "Khóa luận tốt nghiệp",
+                "ten_hp_en": "Graduation Thesis",
+                "tin_chi": "10",
+                "khoi_kien_thuc": "Khóa luận tốt nghiệp",
+                "ly_thuyet": "75",
+                "thuc_hanh": "70",
+                "tu_hoc": "355",
+                "tien_quyet": ""
+            }
+        ]
+    }
+}
