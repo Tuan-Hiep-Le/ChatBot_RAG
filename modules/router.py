@@ -24,7 +24,7 @@ def get_hybrid_intent(user_query, client):
     prompt = f"""
     Phân loại câu hỏi sinh viên vào 1 nhóm:
     - MAJOR_TOTAL: Hỏi về tổng tín chỉ, thời gian học, tổng quan ngành.
-    - MAJOR_SUBJECT: Hỏi về môn học cụ thể, mã môn, kiến thức môn học.
+    - MAJOR_SUBJECT: Hỏi về môn học cụ thể, mã môn, kiến thức môn học,liệt kê các môn học.
     - MAJOR_CAREER: Hỏi về cơ hội việc làm, đầu ra, mục tiêu ngành.
     - POLICY: Quy chế học vụ, điểm rèn luyện, chứng chỉ.
     - GENERAL: Chào hỏi, khen ngợi.
@@ -44,8 +44,8 @@ def get_retrieval_config_hybrid(user_query, client):
 
     mapping = {
         "MAJOR_TOTAL":   {"n": 5,  "filter": "tong_quan_tin_chi"},
-        "MAJOR_SUBJECT": {"n": 20, "filter": "mon_hoc"},
-        "MAJOR_CAREER":  {"n": 8,  "filter": "thong_tin_chung"},
+        "MAJOR_SUBJECT": {"n": 20, "filter": "hoc_phan_dao_tao"},
+        "MAJOR_CAREER":  {"n": 8,  "filter": "quy_che_van_ban"},
         "POLICY":        {"n": 15, "filter": "quy_che_chung"},
         "GENERAL":       {"n": 1,  "filter": None}
     }

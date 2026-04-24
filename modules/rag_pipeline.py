@@ -16,26 +16,78 @@ def rag_pipeline(user_query, collection, client):
     2. Lọc và ưu tiên các Chunk thuộc đúng ngành (target_branch).
     3. Trích xuất thông tin bằng Gemini với JSON Schema chuẩn.
     """
-    synonyms = {"khoa học máy tính": "khmt", "khoa học dữ liệu": "khdl"}
+    # 1. Định nghĩa mapping để nhận diện ngành và chuẩn hóa source
+    branch_map = {
+        "khoa học máy tính": "Khoa học máy tính và thông tin",
+        "khoa học dữ liệu": "Khoa học dữ liệu",
+        "toán học": "Toán học",
+        "toán tin": "Toán tin",
+        "khmt": "Khoa học máy tính và thông tin",
+        "khdl": "Khoa học dữ liệu"
+    }
+
     processed_query = user_query.lower()
-    for long_form, short_form in synonyms.items():
-        processed_query = processed_query.replace(long_form, short_form)
+    found_sources = []
+    target_block = None
+    # 1. TRÍCH XUẤT TẤT CẢ CÁC NGÀNH XUẤT HIỆN
+    for key, full_name in branch_map.items():
+        if key in processed_query:
+            if full_name not in found_sources:
+                found_sources.append(full_name)
+   
+    if "chung" in processed_query:
+        target_block = "Khối kiến thức chung"
+    elif "lĩnh vực" in processed_query:
+        target_block = "Khối kiến thức theo lĩnh vực"
+    elif "nhóm ngành" in processed_query:
+        target_block = "Khối kiến thức theo nhóm ngành"
+    elif "khối ngành" in processed_query:
+        target_block = "Khối kiến thức theo khối ngành"
+    elif "kiến thức ngành" in processed_query:
+        target_block = "Khối kiến thức ngành"
+
+    # 2. XÁC ĐỊNH CÓ PHẢI CÂU HỎI SO SÁNH KHÔNG
+    is_comparison = any(word in processed_query for word in ["so sánh", "khác", "phân biệt", "đối chiếu"])
+    
+    # Nếu không phải so sánh thì mới xóa tên ngành để tránh nhiễu
+    if not is_comparison and len(found_sources) == 1:
+        search_query = f"Học phần {target_block if target_block else ''} ngành {found_sources[0]} {processed_query}"
+    else:
+        search_query = user_query 
     # 1. TRUY VẤN CHROMADB
     # Thay vì tính toán thủ công, ta dùng hàm query của collection
     config = get_retrieval_config_hybrid(processed_query, client)
-
+     # Phải có dòng này trước khi gán where
     search_params = {
-        "query_texts": [processed_query],
+        "query_texts": [search_query],
         "n_results": config["n"],
-        "include": ["documents", "metadatas"]
+        "include": ["documents", "metadatas", "distances"]
     }
 
-    # 2. Thực hiện "Trỏ" dữ liệu (Filtering)
+    where_clauses = []
     if config["filter"]:
-        # ChromaDB dùng tham số 'where' để lọc metadata
-        search_params["where"] = {"type": config["filter"]}
-        print(f"🎯 Đang trỏ tìm kiếm vào nhóm: {config['filter']}")
+        where_clauses.append({"type": config["filter"]})
+    
+    if found_sources:
+        if len(found_sources) > 1:
+            where_clauses.append({"source": {"$in": found_sources}})
+        else:
+            where_clauses.append({"source": found_sources[0]})
 
+    if target_block:
+        # Lưu ý: ChromaDB dùng $contains để tìm chuỗi con trong metadata
+        where_clauses.append({"khoi_kien_thuc": target_block})
+
+    # Gộp filter
+    if len(where_clauses) > 1:
+        search_params["where"] = {"$and": where_clauses}
+    elif len(where_clauses) == 1:
+        search_params["where"] = where_clauses[0]
+    else:
+        # Trường hợp không có filter nào
+        search_params.pop("where", None)
+
+    print(f"🎯 Đang trỏ tìm kiếm với filter: {search_params.get('where')}")
     results = collection.query(
         **search_params
     )
@@ -81,6 +133,24 @@ Nội dung quy chế:
 
 Câu hỏi của sinh viên: {user_query}
 """
+
+    
+    # --- ĐOẠN DEBUG CHUẨN (Dùng kết quả đã Filter) ---
+    print("\n" + "="*30 + " [KIỂM TRA DỮ LIỆU THỰC TẾ GỬI CHO GEMINI] " + "="*30)
+    # Sử dụng kết quả từ lần query đầu tiên (đã có search_params)
+    if results['documents'] and len(results['documents'][0]) > 0:
+        for i in range(len(results['documents'][0])):
+            raw_content = results['documents'][0][i] 
+            meta = results['metadatas'][0][i]
+            dist = results['distances'][0][i] if 'distances' in results else "N/A"
+        
+            print(f"📍 Mảnh dữ liệu {i+1} [Khoảng cách: {dist:.4f}]")
+            print(f"   📄 Nội dung thô: {raw_content[:200]}...") 
+            print(f"   🏷️ Metadata: {meta}")
+            print("-" * 40)
+        else:
+            print("⚠️ ChromaDB trống rỗng, không tìm thấy gì!")
+        print("="*80 + "\n")
 
     # 4. GỌI GEMINI VÀ XỬ LÝ KẾT QUẢ
     try:

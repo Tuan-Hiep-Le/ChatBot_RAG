@@ -14,35 +14,20 @@ Căn cứ Nghị định số 32/2008/NĐ-CP ngày 19 tháng 3 năm 2008 của C
 Căn cứ Nghị định số 75/2006/NĐ-CP ngày 02 tháng 8 năm 2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Giáo dục; Nghị định số 31/2011/NĐ-CP ngày 11 tháng 5 năm 2011 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 75/2006/NĐ-CP ngày 02 tháng 8 năm 2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật giáo dục; Nghị định số 07/2013/NĐ-CP ngày 09 tháng 01 năm 2013 của Chính phủ sửa đổi điểm b khoản 13 Điều 1 của Nghị định số 31/2011/NĐ-CP ngày 11 tháng 5 năm 2011 sửa đổi, bổ sung một số điều của Nghị định số 75/2006/NĐ-CP ngày 02 tháng 8 năm 2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Giáo dục;
 Căn cứ Nghị định số 141/2013/NĐ-CP ngày 24/10/2013 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật giáo dục đại học;
 Theo đề nghị của Vụ trưởng Vụ Công tác học sinh, sinh viên;
-Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Thông tư ban hành Quy chế đánh giá kết quả rèn luyện của người học được đào tạo trình độ đại học hệ chính quy.
+Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Thông tư ban hành Quy chế đánh giá kết quả rèn luyện của người học được đào tạo trình độ đại học hệ chính quy
 
-## Điều 1. Ban hành kèm theo Thông tư này Quy chế đánh giá kết quả rèn luyện của người học được đào tạo trình độ đại học hệ chính quy.
+Điều 1. Ban hành kèm theo Thông tư này Quy chế đánh giá kết quả rèn luyện của người học được đào tạo trình độ đại học hệ chính quy.
 
-## Điều 2. Thông tư này có hiệu lực thi hành kể từ ngày 28 tháng 9 năm 2015 và thay thế những quy định đánh giá kết quả rèn luyện của người học được đào tạo trình độ đại học hệ chính quy tại Quyết định số 60/2007/QĐ-BGDĐT ngày 16 tháng 10 năm 2007 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế đánh giá kết quả rèn luyện của học sinh, sinh viên các cơ sở giáo dục đại học và trường trung cấp chuyên nghiệp hệ chính quy.
+Điều 2. Thông tư này có hiệu lực thi hành kể từ ngày 28 tháng 9 năm 2015 và thay thế những quy định đánh giá kết quả rèn luyện của người học được đào tạo trình độ đại học hệ chính quy tại Quyết định số 60/2007/QĐ-BGDĐT ngày 16 tháng 10 năm 2007 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế đánh giá kết quả rèn luyện của học sinh, sinh viên các cơ sở giáo dục đại học và trường trung cấp chuyên nghiệp hệ chính quy.
 
-## Điều 3. Chánh Văn phòng, Vụ trưởng Vụ Công tác học sinh, sinh viên, Thủ trưởng các đơn vị có liên quan thuộc Bộ Giáo dục và Đào tạo, Giám đốc các đại học, học viện, Hiệu trưởng các trường đại học chịu trách nhiệm thi hành Thông tư này./.
-
-Nơi nhận:
-- Văn phòng Chính phủ;
-- Văn phòng Quốc hội;
-- Ban tuyên giáo TƯ;
-- Ủy ban VH, GD, TN, TN&NĐ của QH;
-- Hội đồng Quốc gia Giáo dục và Phát triển nhân lực;
-- Kiểm toán nhà nước;
-- Cục KTVBQPPL (Bộ Tư pháp);
-- Công báo;
-- Như Điều 3 (để thực hiện);
-- Website Chính phủ;
-- Website Bộ GD&ĐT;
-- Lưu: VT, Vụ PC, Vụ CTHSSV.
+Điều 3. Chánh Văn phòng, Vụ trưởng Vụ Công tác học sinh, sinh viên, Thủ trưởng các đơn vị có liên quan thuộc Bộ Giáo dục và Đào tạo, Giám đốc các đại học, học viện, Hiệu trưởng các trường đại học chịu trách nhiệm thi hành Thông tư này./.
 
 KT. BỘ TRƯỞNG
 THỨ TRƯỞNG
 Nguyễn Thị Nghĩa
 
-***
-
-BỘ GIÁO DỤC VÀ ĐÀO TẠO CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+BỘ GIÁO DỤC VÀ ĐÀO TẠO
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 
 QUY CHẾ
@@ -119,14 +104,14 @@ VÀ QUY TRÌNH ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN
 1. Kết quả rèn luyện được phân thành các loại: xuất sắc, tốt, khá, trung bình, yếu và kém.
 2. Phân loại kết quả rèn luyện:
 
-| Khoảng điểm           | Phân loại    |
-|----------------------|--------------|
-| Từ 90 đến 100 điểm   | Xuất sắc     |
-| Từ 80 đến dưới 90 điểm | Tốt          |
-| Từ 65 đến dưới 80 điểm | Khá          |
-| Từ 50 đến dưới 65 điểm | Trung bình   |
-| Từ 35 đến dưới 50 điểm | Yếu          |
-| Dưới 35 điểm         | Kém          |
+| Điểm số | Phân loại |
+| :------ | :-------- |
+| Từ 90 đến 100 điểm | xuất sắc |
+| Từ 80 đến dưới 90 điểm | tốt |
+| Từ 65 đến dưới 80 điểm | khá |
+| Từ 50 đến dưới 65 điểm | trung bình |
+| Từ 35 đến dưới 50 điểm | yếu |
+| Dưới 35 điểm | kém |
 
 ## Điều 10. Phân loại để đánh giá
 1. Trong thời gian người học bị kỷ luật mức khiển trách, khi đánh giá kết quả rèn luyện không được vượt quá loại khá.
@@ -193,5 +178,9 @@ TỔ CHỨC THỰC HIỆN
 
 ## Điều 16. Tổ chức thực hiện
 1. Hiệu trưởng các cơ sở giáo dục đại học ban hành văn bản hướng dẫn chi tiết việc thực hiện Quy chế này; Hàng năm, kiểm tra, đánh giá và sửa đổi bổ sung kịp thời cho phù hợp với điều kiện, phạm vi của nhà trường, ngành học và địa phương.
-2. Văn bản hướng dẫn thực hiện của các cơ sở giáo dục đại học phải quy định rõ trách nhiệm, quyền hạn, chức năng của hội đồng đánh giá, trách nhiệm của các phòng, ban, khoa, lớp, giáo viên chủ nhiệm cố vấn học tập và trách nhiệm của người học trong nhà trường; thể hiện rõ, chi tiết các nội dung, tiêu chí, thang điểm và hình thức đánh giá, đối tượng đánh giá phù hợp theo từng năm, phù hợp với đặc thù và điều kiện thực tiễn nhà trường, phù hợp với các nội dung đánh giá theo khung điểm quy định của Quy chế này.
+2. Văn bản hướng dẫn thực hiện của các cơ sở giáo dục đại học phải quy định rõ trách nhiệm, quyền hạn, chức năng của hội đồng đánh giá, trách nhiệm của các phòng, ban, khoa, lớp, giáo viên chủ nhiệm/cố vấn học tập và trách nhiệm của người học trong nhà trường; thể hiện rõ, chi tiết các nội dung, tiêu chí, thang điểm và hình thức đánh giá, đối tượng đánh giá phù hợp theo từng năm, phù hợp với đặc thù và điều kiện thực tiễn nhà trường, phù hợp với các nội dung đánh giá theo khung điểm quy định của Quy chế này.
 3. Kết thúc năm học, cơ sở giáo dục đại học đánh giá, tổng kết và báo cáo công tác thực hiện Quy chế này về Bộ Giáo dục và Đào tạo và cơ quan quản lý trực tiếp.
+
+KT. BỘ TRƯỞNG
+THỨ TRƯỞNG
+Nguyễn Thị Nghĩa

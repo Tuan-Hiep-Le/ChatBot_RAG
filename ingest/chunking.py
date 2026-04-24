@@ -48,12 +48,12 @@ def chunk_from_json(json_data):
 
         # --- Tạo chuỗi văn bản (Tối ưu cho Vector Search) ---
         mon_text = (
-            f"Chương trình đào tạo ngành: {ten_nganh}. "
-            f"Học phần: {ten_vi} ({ten_en}). "
-            f"Mã số: {ma_hp}. "
+            f"DANH SÁCH MÔN HỌC- HC PHẦN ĐÀO TẠO NGÀNH: {ten_nganh}. "
+            f"Tên môn học: {ten_vi} ({ten_en}). "
+            f"Mã học phần: {ma_hp}. "
             f"Số tín chỉ: {so_tc}. "
             f"Chi tiết thời lượng: {lt} giờ lý thuyết, {th} giờ thực hành, {tu_hoc} giờ tự học. "
-            f"Thuộc khối kiến thức: {khoi_kt}. "
+            f"Nằm trong nhóm : {khoi_kt}. "
             f"Điều kiện tiên quyết: {tien_quyet}."
         ).strip()
 
@@ -62,7 +62,7 @@ def chunk_from_json(json_data):
         # --- Metadata chi tiết (Tối ưu cho Filtering) ---
         metadata.append({
             "source": ten_nganh,
-            "type": "mon_hoc",
+            "type": "hoc_phan_dao_tao",
             "ma_hp": ma_hp,
             "ten_hp_vn": ten_vi,
             "so_tin_chi": int(so_tc) if str(so_tc).isdigit() else 0,
@@ -91,7 +91,7 @@ def chunk_from_json(json_data):
 
                     full_text = f"Ngành {ten_nganh} - {label} ({key}): {text}"
                     chunks.append(full_text)
-                    metadata.append({"source": ten_nganh, "type": "thong_tin_chung", "sub_type": label})
+                    metadata.append({"source": ten_nganh, "type": "quy_che_van_ban", "sub_type": label})
 
     return chunks, metadata
 

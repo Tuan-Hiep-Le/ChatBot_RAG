@@ -22,7 +22,7 @@ class VietnameseSBERTEmbedding(EmbeddingFunction):
 
 # 2. Khởi tạo Client lưu trên ổ cứng
 # Đảm bảo bạn dùng PersistentClient
-client_chromadb = chromadb.PersistentClient(path="./vnu_vector_db")
+client_chromadb = chromadb.PersistentClient(path="./vnu_vector_db_vs2")
 
 
 # 3. Khởi tạo hàm embedding với model_sbert bạn đã có
@@ -30,7 +30,7 @@ viet_em_fn = VietnameseSBERTEmbedding(model=model_sbert)
 
 # 4. Lấy hoặc tạo Collection (Sửa lỗi AttributeError)
 collection = client_chromadb.get_or_create_collection(
-    name="vnu_regulation_rag",
+    name="vnu_regulation",
     embedding_function=viet_em_fn
 )
 
@@ -76,9 +76,9 @@ def setup_database():
     model_sbert = SentenceTransformer("keepitreal/vietnamese-sbert", device="cpu")
     viet_em_fn = VietnameseSBERTEmbedding(model=model_sbert)
     
-    client_chromadb = chromadb.PersistentClient(path="./vnu_vector_db")
+    client_chromadb = chromadb.PersistentClient(path="./vnu_vector_db_vs2")
     collection = client_chromadb.get_or_create_collection(
-        name="vnu_regulation_rag",
+        name="vnu_regulation",
         embedding_function=viet_em_fn
     )
     return collection
