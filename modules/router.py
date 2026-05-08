@@ -41,7 +41,7 @@ def get_hybrid_intent(user_query, client):
 
 def get_retrieval_config_hybrid(user_query, client):
     intent = get_hybrid_intent(user_query, client)
-
+    print("Intent: ",intent)
     mapping = {
         "MAJOR_TOTAL":   {"n": 5,  "filter": "tong_quan_tin_chi"},
         "MAJOR_SUBJECT": {"n": 20, "filter": "hoc_phan_dao_tao"},
