@@ -1,0 +1,18 @@
+[
+    {
+        "timestamp": "2026-05-07T15:47:19.330624",
+        "chat_title": "0507_Cuoc_tro_chuyen",
+        "rewritten_query": "xin chào",
+        "user": "xin chào",
+        "bot": "Chào bạn, rất vui được hỗ trợ bạn. Bạn có câu hỏi gì về quy chế đào tạo, đặc biệt là liên quan đến ngành Ngoại ngữ không? Hãy cho tôi biết nhé!",
+        "filter": null
+    },
+    {
+        "timestamp": "2026-05-07T15:48:08.176952",
+        "chat_title": "0507_các_cơ_sở_cung_cấp_chứng_chỉ_n",
+        "rewritten_query": "Đâu là các cơ sở cung cấp chứng chỉ ngoại ngữ dành cho sinh viên ngành Ngoại ngữ?",
+        "user": "các cơ sở cung cấp chứng chỉ ngoại ngữ",
+        "bot": "Chào bạn,\n\nĐể giải đáp thắc mắc của bạn về các cơ sở cung cấp minh chứng/chứng chỉ ngoại ngữ, đặc biệt là dành cho sinh viên ngành Ngoại ngữ, tôi xin cung cấp thông tin dựa trên quy chế như sau:\n\n1.  **Đối với sinh viên tốt nghiệp ngành ngôn ngữ nước ngoài hoặc sư phạm tiếng nước ngoài:**\n    *   Quy chế quy định rằng \"Bằng tốt nghiệp đại học ngành ngôn ngữ nước ngoài hoặc sư phạm tiếng nước ngoài do các cơ sở đào tạo của Việt Nam cấp\" được công nhận là minh chứng về trình độ ngoại ngữ để đạt chuẩn đầu ra (CĐR).\n    *   Điều này có nghĩa là, nếu bạn là sinh viên ngành Ngoại ngữ và đã tốt nghiệp, chính tấm bằng đại học của bạn từ các cơ sở đào tạo của Việt Nam sẽ là minh chứng xác nhận năng lực ngoại ngữ, không cần phải có thêm chứng chỉ ngoại ngữ khác cho ngôn ngữ chuyên ngành của bạn.\n\n2.  **Đối với việc sử dụng chứng chỉ ngoại ngữ (bao gồm cả sinh viên ngành Ngoại ngữ nếu cần chứng chỉ cho một ngoại ngữ khác hoặc cho các mục đích khác):**\n    *   Sinh viên có thể nộp \"Chứng chỉ ngoại ngữ tương ứng với yêu cầu về CĐR của CTĐT theo KNLNNVN cấp bởi các cơ sở giáo dục được Bộ Giáo dục và Đào tạo và ĐHQGHN công nhận\".\n    *   **Phụ lục 3** của Quy chế cung cấp danh sách các cơ sở cấp chứng chỉ Ngoại ngữ (tiếng Anh) theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam. Các chứng chỉ từ các cơ sở này được ĐHQGHN công nhận.\n        *   Danh sách này bao gồm 27 trường đại học và học viện, ví dụ như:\n            *   Đại học Thái Nguyên\n            *   Học viện An ninh Nhân dân\n            *   Học viện Báo chí và Tuyên truyền\n            *   Học viện Cảnh sát nhân dân\n            *   Học viện Khoa học quân sự\n            *   Đại học Bách khoa Hà Nội\n            *   Trường Đại học Cần Thơ\n            *   ... (và nhiều trường khác trong Phụ lục 3)\n    *   **Đối với các ngoại ngữ khác tiếng Anh:**\n        *   Quy chế cũng công nhận một số chứng chỉ ngoại ngữ quốc tế như TOPIK (tiếng Hàn), JLPT, NAT-TEST, J-TEST (tiếng Nhật), TCF (Tiếng Pháp). Các chứng chỉ này phải có đủ phần thi cho 4 kỹ năng Nghe - Nói - Đọc - Viết (hoặc 3 kỹ năng Nghe - Đọc - Viết đối với các chứng chỉ cụ thể được liệt kê).\n        *   Đối với một số chứng chỉ ngoại ngữ quốc tế không thông dụng khác, các đơn vị có thể gửi chứng chỉ đến Trường ĐHNN để xác định việc quy đổi tương đương.\n\n**Tóm lại:**\n*   Nếu bạn là sinh viên ngành Ngoại ngữ, bằng tốt nghiệp của bạn đã có thể được xem là minh chứng đạt CĐR về ngoại ngữ.\n*   Nếu bạn cần một chứng chỉ ngoại ngữ riêng biệt (ví dụ, cho một ngoại ngữ thứ hai, hoặc muốn sử dụng chứng chỉ thay vì bằng cấp), bạn có thể thi lấy chứng chỉ tại các cơ sở được liệt kê trong Phụ lục 3 (đối với tiếng Anh) hoặc các chứng chỉ quốc tế được công nhận cho các ngôn ngữ khác.\n\nHy vọng thông tin này hữu ích cho bạn!",
+        "filter": "quy_che_chung"
+    }
+]

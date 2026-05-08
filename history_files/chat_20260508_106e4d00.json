@@ -1,0 +1,42 @@
+[
+    {
+        "timestamp": "2026-05-08T00:34:44.331504",
+        "chat_title": "0508_Cuoc_tro_chuyen",
+        "rewritten_query": "xin chào",
+        "user": "xin chào",
+        "bot": "Chào bạn! Rất vui được hỗ trợ bạn. Bạn có thắc mắc gì về quy chế đào tạo hay các thông tin liên quan đến chứng chỉ ngoại ngữ cần mình giải đáp không?",
+        "filter": null
+    },
+    {
+        "timestamp": "2026-05-08T00:35:16.102009",
+        "chat_title": "0508_chứng_chỉ_tiếng_anh_có_được_cô",
+        "rewritten_query": "Chứng chỉ tiếng Anh có được công nhận làm chuẩn đầu ra ngoại ngữ theo quy chế đào tạo không?",
+        "user": "chứng chỉ tiếng anh có được công nhận làm chuẩn đầu ra không?",
+        "bot": "Chào bạn, dựa trên quy chế đào tạo mà bạn cung cấp, mình xin giải đáp thắc mắc về việc công nhận chứng chỉ tiếng Anh làm chuẩn đầu ra (CĐR) ngoại ngữ như sau:\n\n**Có**, chứng chỉ tiếng Anh **được công nhận** để xét đạt chuẩn đầu ra ngoại ngữ, tuy nhiên cần đáp ứng các điều kiện và quy định cụ thể sau:\n\n*   **Điều kiện về chứng chỉ:**\n    *   Chứng chỉ phải tương ứng với yêu cầu về CĐR của chương trình đào tạo theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam (VSTEP) hoặc các chứng chỉ quốc tế tương đương được ĐHQGHN công nhận.\n    *   Chứng chỉ phải được cấp bởi các cơ sở giáo dục được Bộ Giáo dục và Đào tạo và ĐHQGHN công nhận (danh sách 27 cơ sở đào tạo tại Phụ lục 3 của quy chế).\n    *   Chứng chỉ phải **còn giá trị sử dụng** tại thời điểm nộp minh chứng.\n\n*   **Về quyền lợi khi nộp chứng chỉ:**\n    *   **Nếu nộp trong vòng 30 ngày kể từ khi nhập học:** Sinh viên được xét công nhận đạt CĐR, đồng thời được miễn học, miễn thi và được quy đổi điểm tương đương (Bậc 3 tương đương 9 điểm, Bậc 4 tương đương 10 điểm theo thang điểm 10).\n    *   **Nếu nộp sau 30 ngày kể từ khi nhập học:** Sinh viên chỉ được xét công nhận đạt CĐR mà không được miễn học, miễn thi hay quy đổi điểm cho các học phần ngoại ngữ trong khối kiến thức chung.\n\n*   **Thủ tục nộp:**\n    *   Sinh viên nộp bản sao công chứng chứng chỉ cho đơn vị đào tạo để thẩm định tính xác thực.\n    *   Văn bằng, chứng chỉ hợp lệ sẽ có giá trị trong toàn khóa học.\n\n*   **Lưu ý quan trọng:** ĐHQGHN **không công nhận** các chứng chỉ ngoại ngữ thi theo hình thức online.\n\nHy vọng những thông tin trên giúp ích cho bạn trong việc chuẩn bị hồ sơ minh chứng ngoại ngữ!",
+        "filter": "quy_che_chung"
+    },
+    {
+        "timestamp": "2026-05-08T00:36:24.108262",
+        "chat_title": "0508_chứng_chỉ_tiếng_anh_có_được_cô",
+        "rewritten_query": "Chuẩn đầu ra ngoại ngữ của ngành Khoa học máy tính được quy định như thế nào?",
+        "user": "chuẩn đầu ra ngành khoa học máy tính",
+        "bot": "Tôi không tìm thấy thông tin liên quan trong cơ sở dữ liệu.",
+        "filter": "quy_che_van_ban"
+    },
+    {
+        "timestamp": "2026-05-08T00:36:59.138737",
+        "chat_title": "0508_chứng_chỉ_tiếng_anh_có_được_cô",
+        "rewritten_query": "Tổng số tín chỉ của ngành Khoa học máy tính là bao nhiêu?",
+        "user": "tổng số tín chỉ ngành khoa học máy tính",
+        "bot": "Chào bạn, dựa trên quy chế đào tạo của ngành Khoa học máy tính và thông tin, tôi xin giải đáp thắc mắc của bạn như sau:\n\nTổng số tín chỉ của chương trình đào tạo ngành Khoa học máy tính và thông tin là **129 tín chỉ**. \n\n**Lưu ý:** Con số này chưa bao gồm các học phần:\n*   Giáo dục thể chất.\n*   Giáo dục quốc phòng - an ninh.\n*   Kỹ năng bổ trợ.\n\nCụ thể, cấu trúc khối lượng kiến thức được phân bổ như sau:\n*   **Khối kiến thức chung:** 21 tín chỉ.\n*   **Khối kiến thức theo lĩnh vực:** 5 tín chỉ.\n*   **Khối kiến thức theo khối ngành:** 3 tín chỉ.\n*   **Khối kiến thức theo nhóm ngành:** 28 tín chỉ.\n*   **Khối kiến thức ngành:** 72 tín chỉ (bao gồm 49 tín chỉ bắt buộc, 16 tín chỉ tự chọn và 7 tín chỉ khóa luận tốt nghiệp hoặc học phần thay thế).",
+        "filter": "tong_quan_tin_chi"
+    },
+    {
+        "timestamp": "2026-05-08T00:38:47.857525",
+        "chat_title": "0508_chứng_chỉ_tiếng_anh_có_được_cô",
+        "rewritten_query": "Các môn học thuộc khối kiến thức chung của ngành Khoa học máy tính và thông tin là gì?",
+        "user": "các môn học thuộc khối kiến thức chung của ngành này",
+        "bot": "Chào bạn, dựa trên quy chế đào tạo của ngành **Khoa học máy tính và thông tin**, các môn học thuộc **Khối kiến thức chung** bao gồm các học phần sau:\n\n*   **Triết học Mác - Lênin**: Mã HP PHI1006 (3 tín chỉ).\n*   **Kinh tế chính trị Mác - Lênin**: Mã HP PEC1008 (2 tín chỉ) - *Điều kiện tiên quyết: PHI1006*.\n*   **Chủ nghĩa xã hội khoa học**: Mã HP PHI1002 (2 tín chỉ) - *Điều kiện tiên quyết: PHI1006*.\n*   **Tư tưởng Hồ Chí Minh**: Mã HP POL1001 (2 tín chỉ).\n*   **Lịch sử Đảng Cộng sản Việt Nam**: Mã HP HIS1001 (2 tín chỉ).\n*   **Nhà nước và pháp luật đại cương**: Mã HP THL1057 (2 tín chỉ).\n*   **Kỹ năng bổ trợ**: Mã HP HUS1012 (3 tín chỉ).\n*   **Tin học cơ sở**: Mã HP HUS1011 (3 tín chỉ).\n*   **Giáo dục thể chất**: Mã HP PES1000 (4 tín chỉ).\n*   **Giáo dục quốc phòng-an ninh**: Mã HP CME1000 (8 tín chỉ).\n\nNếu bạn cần thêm thông tin chi tiết về thời lượng học hay điều kiện tiên quyết của từng môn, đừng ngần ngại đặt câu hỏi nhé!",
+        "filter": "hoc_phan_dao_tao"
+    }
+]
