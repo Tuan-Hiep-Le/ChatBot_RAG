@@ -1,14 +1,13 @@
 ĐẠI HỌC QUỐC GIA HÀ NỘI
+Số: 32 /QĐ-ĐHQGHN
+
 CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 
-Số: 32 /QĐ-ĐHQGHN
-
 Hà Nội, ngày 05 tháng 01 năm 2017
 
-QUYẾT ĐỊNH
-
-Về việc ban hành Quy chế Công tác sinh viên tại Đại học Quốc gia Hà Nội
+# QUYẾT ĐỊNH
+## Về việc ban hành Quy chế Công tác sinh viên tại Đại học Quốc gia Hà Nội
 
 GIÁM ĐỐC ĐẠI HỌC QUỐC GIA HÀ NỘI
 
@@ -17,28 +16,25 @@ Căn cứ Quyết định số 26/2014/QĐ-TTg ngày 26/3/2014 của Thủ tư�
 Căn cứ Quy chế công tác sinh viên đối với chương trình đào tạo đại học hệ chính quy được ban hành kèm theo Thông tư số 10/2016/TT-BGDĐT ngày 5/4/2016 của Bộ trưởng Bộ Giáo dục và Đào tạo;
 Xét đề nghị của Trưởng Ban Chính trị và Công tác Học sinh Sinh viên,
 
-QUYẾT ĐỊNH:
+**QUYẾT ĐỊNH:**
 
-Điều 1. Ban hành kèm theo Quyết định này Quy chế Công tác sinh viên tại Đại học Quốc gia Hà Nội.
-Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 5248/QĐ-ĐHQGHN ngày 27/12/2014 của Giám đốc ĐHQGHN về việc ban hành Quy chế công tác sinh viên tại ĐHQGHN.
-Điều 3. Chánh Văn phòng, trưởng ban chức năng, thủ trưởng đơn vị thành viên, đơn vị trực thuộc và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.
+**Điều 1.** Ban hành kèm theo Quyết định này Quy chế Công tác sinh viên tại Đại học Quốc gia Hà Nội.
+**Điều 2.** Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 5248/QĐ-ĐHQGHN ngày 27/12/2014 của Giám đốc ĐHQGHN về việc ban hành Quy chế công tác sinh viên tại ĐHQGHN.
+**Điều 3.** Chánh Văn phòng, trưởng ban chức năng, thủ trưởng đơn vị thành viên, đơn vị trực thuộc và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.
 
-Nơi nhận:
-- Như điều 3;
-- Giám đốc (để báo cáo);
-- Đoàn TN - Hội SV ĐHQGHN (để t/h);
-- Lưu: VT, Ban CT&CTHSSV, Tr.55.
-
+KT. GIÁM ĐỐC
 PHÓ GIÁM ĐỐC
+(Đã ký)
 Lê Quân
 
-QUY CHẾ
-Công tác sinh viên tại Đại học Quốc gia Hà Nội
-(Ban hành kèm theo Quyết định số 32/QĐ-ĐHQGHN, ngày 05/01/2017
-của Giám đốc Đại học Quốc gia Hà Nội)
+---
+
+# QUY CHẾ
+## Công tác sinh viên tại Đại học Quốc gia Hà Nội
+(Ban hành kèm theo Quyết định số 32/QĐ-ĐHQGHN, ngày 05/01/2017 của Giám đốc Đại học Quốc gia Hà Nội)
 
 # Chương I
-QUY ĐỊNH CHUNG
+# QUY ĐỊNH CHUNG
 
 ## Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
 1. Quy chế này quy định về công tác sinh viên đối với chương trình đào tạo đại học hệ chính quy tại Đại học Quốc gia Hà Nội (ĐHQGHN), bao gồm: Quyền và nghĩa vụ của sinh viên; hệ thống tổ chức, quản lý; công tác quản lý, hỗ trợ và dịch vụ sinh viên; đánh giá công tác sinh viên; đánh giá kết quả rèn luyện; khen thưởng và kỷ luật sinh viên.
@@ -54,7 +50,7 @@ QUY ĐỊNH CHUNG
 3. Công tác sinh viên phải đảm bảo dân chủ, khách quan, công bằng, công khai, minh bạch trong các vấn đề liên quan đến sinh viên.
 
 # Chương II
-QUYỀN VÀ NGHĨA VỤ CỦA SINH VIÊN
+# QUYỀN VÀ NGHĨA VỤ CỦA SINH VIÊN
 
 ## Điều 4. Quyền của sinh viên
 1. Được nhận vào học đúng ngành đã trúng tuyển, được cấp thẻ sinh viên, được cấp tài khoản thông tin riêng phục vụ hoạt động học tập.
@@ -70,7 +66,7 @@ QUYỀN VÀ NGHĨA VỤ CỦA SINH VIÊN
 11. Được thực tập, thực tế tại các cơ quan, đơn vị trong và ngoài nước (nếu Thủ trưởng đơn vị đào tạo cho phép); được tư vấn, định hướng nghề nghiệp, giới thiệu việc làm.
 12. Được cung cấp các giấy tờ cần thiết, hỗ trợ các thủ tục tìm kiếm việc làm sau khi tốt nghiệp.
 13. Được hưởng đầy đủ các chế độ, chính sách theo quy định hiện hành của Nhà nước và của ĐHQGHN.
-14. Được đăng ký ở ký túc xá (nếu đáp ứng các điều kiện và có nguyện vọng) hoặc hỗ trợ tìm kiếm chỗ ở, được chăm lo, bảo vệ sức khỏe theo chế độ hiện hành của Nhà nước và của ĐHQGHN.
+14. Được đăng ký ở ký túc xá (nếu đáp ứng điều kiện và có nguyện vọng) hoặc hỗ trợ tìm kiếm chỗ ở, được chăm lo, bảo vệ sức khỏe theo chế độ hiện hành của Nhà nước và của ĐHQGHN.
 
 ## Điều 5. Nghĩa vụ của sinh viên
 1. Chấp hành nghiêm túc chủ trương, đường lối của Đảng, chính sách, pháp luật của Nhà nước, các quy định của ĐHQGHN, đơn vị đào tạo và các đơn vị hỗ trợ đào tạo.
@@ -93,7 +89,7 @@ QUYỀN VÀ NGHĨA VỤ CỦA SINH VIÊN
 Thực hiện theo quy định tại Điều 88 Luật Giáo dục, Điều 61 Luật Giáo dục đại học và các văn bản quy phạm pháp luật khác có liên quan.
 
 # Chương III
-HỆ THỐNG TỔ CHỨC, QUẢN LÝ CÔNG TÁC SINH VIÊN
+# HỆ THỐNG TỔ CHỨC, QUẢN LÝ CÔNG TÁC SINH VIÊN
 
 ## Điều 7. Cấp ĐHQGHN
 1. Giám đốc ĐHQGHN chịu trách nhiệm chỉ đạo thực hiện các nội dung công tác sinh viên trong toàn ĐHQGHN.
@@ -108,139 +104,149 @@ HỆ THỐNG TỔ CHỨC, QUẢN LÝ CÔNG TÁC SINH VIÊN
 ## Điều 8. Các đơn vị đào tạo
 1. Các đơn vị đào tạo phải có phòng hoặc bộ phận Chính trị và Công tác Sinh viên chuyên trách. Thủ trưởng các đơn vị đào tạo chịu trách nhiệm về công tác sinh viên trong đơn vị; bố trí các nguồn lực nhằm bảo đảm thực hiện tốt nội dung công tác sinh viên nêu tại Quy chế này.
 2. Trách nhiệm
-    a) Công tác chính trị, tư tưởng
-        Tổ chức thực hiện các chủ trương, chính sách của Đảng, pháp luật của Nhà nước, các quy định của ĐHQGHN và đơn vị;
-        Tổ chức lễ khai giảng/bế giảng; tuần sinh hoạt công dân đầu năm học và các hoạt động khác; nắm bắt dư luận, tâm tư, nguyện vọng và giải quyết kịp thời những thắc mắc của sinh viên;
-        Phối hợp với Đoàn Thanh niên Cộng sản Hồ Chí Minh, Hội Sinh viên của đơn vị và các đơn vị khác tổ chức các hoạt động nhằm nâng cao ý thức chính trị - tư tưởng, giáo dục truyền thống, rèn luyện đạo đức, ý thức tổ chức, nếp sống văn minh cho sinh viên.
-    b) Công tác quản lý sinh viên
-        Tiếp nhận, sắp xếp thí sinh trúng tuyển vào lớp học theo đúng ngành học. Thẩm định và quyết định việc tiếp nhận sinh viên chuyển từ các đơn vị đào tạo khác đến học tại đơn vị;
-        Tổ chức in, cấp phát, quản lý Thẻ sinh viên cho sinh viên của đơn vị theo quy định của ĐHQGHN;
-        Quản lý sinh viên trong quá trình học tập theo Quy chế đào tạo đại học tại ĐHQGHN;
-        Phối hợp với cơ quan chức năng của địa phương trong việc quản lý sinh viên ngoại trú theo đúng các quy định hiện hành.
-    c) Công tác hỗ trợ sinh viên
-        Triển khai các hoạt động hợp tác quốc tế, giao lưu, trao đổi sinh viên với các tổ chức giáo dục, đào tạo nước ngoài;
-        Rèn luyện, phát triển kỹ năng mềm cho sinh viên thông qua công tác đào tạo chuyên môn, nghiệp vụ, thực tập nghề nghiệp, các hoạt động xã hội;
-        Phát triển, khai thác, xét duyệt và cấp học bổng ngoài ngân sách của các tổ chức, cá nhân trong và ngoài nước do đơn vị quản lý; xét và đề nghị sinh viên đủ tiêu chuẩn nhận học bổng ngoài ngân sách do ĐHQGHN quản lý;
-        Thực hiện tốt công tác hướng nghiệp, tư vấn việc làm cho sinh viên;
-        Xây dựng cơ sở dữ liệu sinh viên các khóa sau khi tốt nghiệp, triển khai hiệu quả công tác cựu sinh viên, phát triển các nguồn lực từ cựu sinh viên để hỗ trợ cho công tác đào tạo, nghiên cứu khoa học, xây dựng đơn vị.
-    d) Công tác thực hiện chế độ chính sách
-        Phối hợp với Trung tâm Hỗ trợ Sinh viên, Bệnh viện ĐHQGHN trong việc sắp xếp chỗ ở nội trú, làm thủ tục đăng ký tạm trú, tổ chức khám sức khỏe, triển khai công tác bảo hiểm y tế, bảo hiểm thân thể cho sinh viên;
-        Thực hiện đầy đủ, kịp thời, chính xác các chế độ, chính sách của Nhà nước, ĐHQGHN và đơn vị đối với sinh viên.
-    e) Công tác kiểm tra, đánh giá, báo cáo
-        Tổ chức thực hiện đánh giá kết quả học tập, rèn luyện, tham gia các hoạt động xã hội của sinh viên;
-        Chỉ đạo thực hiện công tác thanh tra, kiểm tra, giám sát đối với công tác sinh viên của đơn vị;
-        Thực hiện chế độ báo cáo theo quy định của ĐHQGHN.
+a) Công tác chính trị, tư tưởng
+Tổ chức thực hiện các chủ trương, chính sách của Đảng, pháp luật của Nhà nước, các quy định của ĐHQGHN và đơn vị;
+Tổ chức lễ khai giảng/bế giảng; tuần sinh hoạt công dân đầu năm học và các hoạt động khác; nắm bắt dư luận, tâm tư, nguyện vọng và giải quyết kịp thời những thắc mắc của sinh viên;
+Phối hợp với Đoàn Thanh niên Cộng sản Hồ Chí Minh, Hội Sinh viên của đơn vị và các đơn vị khác tổ chức các hoạt động nhằm nâng cao ý thức chính trị - tư tưởng, giáo dục truyền thống, rèn luyện đạo đức, ý thức tổ chức, nếp sống văn minh cho sinh viên.
+b) Công tác quản lý sinh viên
+Tiếp nhận, sắp xếp thí sinh trúng tuyển vào lớp học theo đúng ngành học. Thẩm định và quyết định tiếp nhận sinh viên chuyển từ các đơn vị đào tạo khác đến học tại đơn vị;
+Tổ chức in, cấp phát, quản lý Thẻ sinh viên cho sinh viên của đơn vị theo quy định của ĐHQGHN;
+Quản lý sinh viên trong quá trình học tập theo Quy chế đào tạo đại học tại ĐHQGHN;
+Phối hợp với cơ quan chức năng của địa phương trong việc quản lý sinh viên ngoại trú theo đúng quy định hiện hành.
+c) Công tác hỗ trợ sinh viên
+Triển khai các hoạt động hợp tác quốc tế, giao lưu, trao đổi sinh viên với các tổ chức giáo dục, đào tạo nước ngoài;
+Rèn luyện, phát triển kỹ năng mềm cho sinh viên thông qua công tác đào tạo chuyên môn, nghiệp vụ, thực tập nghề nghiệp, các hoạt động xã hội;
+Phát triển, khai thác, xét duyệt và cấp học bổng ngoài ngân sách của các tổ chức, cá nhân trong và ngoài nước do đơn vị quản lý; xét và đề nghị sinh viên đủ tiêu chuẩn nhận học bổng ngoài ngân sách do ĐHQGHN quản lý;
+Thực hiện tốt các hướng nghiệp, tư vấn việc làm cho sinh viên;
+Xây dựng cơ sở dữ liệu sinh viên các khóa sau khi tốt nghiệp, triển khai hiệu quả công tác cựu sinh viên, phát triển các nguồn lực từ cựu sinh viên để hỗ trợ cho công tác đào tạo, nghiên cứu khoa học, xây dựng đơn vị.
+d) Công tác thực hiện chế độ chính sách
+Phối hợp với Trung tâm Hỗ trợ Sinh viên, Bệnh viện ĐHQGHN trong việc sắp xếp chỗ ở nội trú, làm thủ tục đăng ký tạm trú, tổ chức khám sức khỏe, triển khai công tác bảo hiểm y tế, bảo hiểm thân thể cho sinh viên;
+Thực hiện đầy đủ, kịp thời, chính xác các chế độ, chính sách của Nhà nước, ĐHQGHN và đơn vị đối với sinh viên.
+e) Công tác kiểm tra, đánh giá, báo cáo
+Tổ chức thực hiện đánh giá kết quả học tập, rèn luyện, tham gia các hoạt động xã hội của sinh viên;
+Chỉ đạo thực hiện công tác thanh tra, kiểm tra, giám sát đối với công tác sinh viên của đơn vị;
+Thực hiện chế độ báo cáo theo quy định của ĐHQGHN.
 
 ## Điều 9. Các đơn vị hỗ trợ đào tạo
 1. Trung tâm Hỗ trợ Sinh viên
-    a) Thực hiện công tác tiếp nhận, quản lý và phục vụ sinh viên trong nước, sinh viên quốc tế đến ở tại các Ký túc xá theo quy định của ĐHQGHN;
-    b) Cung cấp các dịch vụ nâng cao đời sống, chăm sóc sức khỏe, hỗ trợ học tập và nghiên cứu khoa học cho sinh viên; Phối hợp với các đơn vị thành viên, trực thuộc có liên quan đánh giá điểm rèn luyện cho sinh viên;
-    c) Tổ chức hoặc phối hợp tổ chức các hoạt động hướng nghiệp, tư vấn việc làm cho sinh viên;
-    d) Phối hợp với các đơn vị thành viên, trực thuộc có liên quan, Đoàn Thanh niên Cộng sản Hồ Chí Minh, Hội Sinh viên, chính quyền địa phương thực hiện những nhiệm vụ được giao về công tác sinh viên;
-    e) Thực hiện công tác báo cáo định kỳ công tác sinh viên nội trú về ĐHQGHN (qua Ban Chính trị và Công tác Học sinh Sinh viên).
+a) Thực hiện công tác tiếp nhận, quản lý và phục vụ sinh viên trong nước, sinh viên quốc tế đến ở tại các Ký túc xá theo quy định của ĐHQGHN;
+b) Cung cấp các dịch vụ nâng cao đời sống, chăm sóc sức khỏe, hỗ trợ học tập và nghiên cứu khoa học cho sinh viên; Phối hợp với các đơn vị thành viên, trực thuộc có liên quan đánh giá điểm rèn luyện cho sinh viên;
+c) Tổ chức hoặc phối hợp tổ chức các hoạt động hướng nghiệp, tư vấn việc làm cho sinh viên;
+d) Phối hợp với các đơn vị thành viên, trực thuộc có liên quan, Đoàn Thanh niên Cộng sản Hồ Chí Minh, Hội Sinh viên, chính quyền địa phương thực hiện những nhiệm vụ được giao về công tác sinh viên;
+e) Thực hiện công tác báo cáo định kỳ công tác sinh viên nội trú về ĐHQGHN (qua Ban Chính trị và Công tác Học sinh Sinh viên).
 2. Bệnh viện ĐHQGHN
-    a) Chịu trách nhiệm về công tác y tế và chăm sóc sức khoẻ ban đầu cho sinh viên;
-    b) Phối hợp với các đơn vị thành viên, trực thuộc có liên quan thực hiện các chính sách về bảo hiểm y tế cho sinh viên theo quy định của Nhà nước và ĐHQGHN;
-    c) Tổ chức hoặc phối hợp tổ chức các hoạt động tư vấn, chăm sóc sức khỏe, khám chữa bệnh cho sinh viên.
+a) Chịu trách nhiệm về công tác y tế và chăm sóc sức khoẻ ban đầu cho sinh viên;
+b) Phối hợp với các đơn vị thành viên, trực thuộc có liên quan thực hiện các chính sách về bảo hiểm y tế cho sinh viên theo quy định của Nhà nước và ĐHQGHN;
+c) Tổ chức hoặc phối hợp tổ chức các hoạt động tư vấn, chăm sóc sức khỏe, khám chữa bệnh cho sinh viên.
 3. Trung tâm Thông tin Thư viện
-    a) Tổ chức xây dựng, quản lý và phục vụ khai thác nguồn học liệu đáp ứng tốt cho công tác đào tạo, nghiên cứu khoa học;
-    b) Phối hợp với các đơn vị đào tạo, các đơn vị hỗ trợ đào tạo liên quan phổ biến các quy định và hướng dẫn cho sinh viên các kỹ năng khai thác, sử dụng nguồn học liệu và thực hiện những nhiệm vụ khác được giao về công tác sinh viên.
+a) Tổ chức xây dựng, quản lý và phục vụ khai thác nguồn học liệu đáp ứng tốt cho công tác đào tạo, nghiên cứu khoa học;
+b) Phối hợp với các đơn vị đào tạo, các đơn vị hỗ trợ đào tạo liên quan phổ biến các quy định và hướng dẫn cho sinh viên các kỹ năng khai thác, sử dụng nguồn học liệu và thực hiện nhiệm vụ khác được giao về công tác sinh viên.
 4. Trung tâm Dự báo và Phát triển nguồn nhân lực
-    a) Tổ chức triển khai các hoạt động nghiên cứu, dự báo về thị trường lao động, việc làm cho sinh viên;
-    b) Phối hợp với các đơn vị đào tạo, các đơn vị hỗ trợ đào tạo liên quan tổ chức các chương trình hướng nghiệp, tư vấn việc làm cho sinh viên.
+a) Tổ chức triển khai các hoạt động nghiên cứu, dự báo về thị trường lao động, việc làm cho sinh viên;
+b) Phối hợp với các đơn vị đào tạo, các đơn vị hỗ trợ đào tạo liên quan tổ chức các chương trình hướng nghiệp, tư vấn việc làm cho sinh viên.
 5. Các đơn vị khác: Trung tâm Giáo dục quốc phòng - An ninh, Trung tâm Giáo dục Thể chất và Thể thao, Trung tâm Phát triển ĐHQGHN và các đơn vị liên quan có trách nhiệm cụ thể hoá công tác sinh viên phù hợp với chức năng nhiệm vụ được giao, triển khai thực hiện tại đơn vị mình.
 
 ## Điều 10. Các đơn vị, cá nhân phụ trách công tác sinh viên thuộc đơn vị đào tạo
-1. Căn cứ quy định của ĐHQGHN, trên cơ sở thực tiễn, Thủ trưởng đơn vị đào tạo quyết định thành lập và quy định chức năng, nhiệm vụ của khoa cũng như bộ phận phụ trách các nội dung công tác sinh viên của đơn vị mình và giao cho Phòng/Bộ phận phụ trách Công tác sinh viên giữ vai trò chủ trì tham mưu, tổng hợp giúp Thủ trưởng đơn vị về công tác sinh viên của đơn vị.
+1. Căn cứ quy định của ĐHQGHN, trên cơ sở thực tiễn, Thủ trưởng đơn vị đào tạo quyết định thành lập và quy định chức năng, nhiệm vụ của khoa cũng như bộ phận phụ trách các nội dung công tác sinh viên của đơn vị mình và giao cho Phòng/Bộ phận phụ trách Công tác sinh viên giữ vai trò chủ trì tham mưu, tổng hợp giúp Thủ trưởng đơn vị về công tác sinh viên.
 2. Chủ nhiệm lớp khóa học do Thủ trưởng đơn vị đào tạo hoặc Chủ nhiệm Khoa chuyên môn phân công giảng viên, viên chức của đơn vị đảm nhiệm để hỗ trợ quản lý, hướng dẫn các hoạt động học tập, rèn luyện của lớp khóa học.
 3. Cố vấn học tập do Thủ trưởng đơn vị đào tạo hoặc Chủ nhiệm Khoa chuyên môn phân công giảng viên kiêm nhiệm công tác cố vấn học tập để tư vấn, hướng dẫn sinh viên thực hiện tốt quy chế, quy định về đào tạo. Đơn vị có thể phân công một giảng viên kiêm nhiệm công tác cố vấn học tập và chủ nhiệm lớp khóa học.
 
 ## Điều 11. Lớp khóa học
 1. Khái niệm về lớp khóa học được quy định theo Quy chế đào tạo đại học tại ĐHQGHN.
 2. Ban cán sự lớp khóa học gồm:
-    a) Lớp trưởng và các lớp phó do tập thể sinh viên trong lớp bầu, Thủ trưởng đơn vị đào tạo (hoặc Chủ nhiệm khoa, Phòng/Bộ phận phụ trách công tác sinh viên theo phân cấp của Thủ trưởng đơn vị) công nhận. Nhiệm kỳ ban cán sự lớp khóa học theo năm học.
-    b) Nhiệm vụ của ban cán sự lớp khóa học:
-        Tổ chức thực hiện các nhiệm vụ học tập, rèn luyện, các hoạt động sinh hoạt, đời sống và các hoạt động xã hội theo kế hoạch của đơn vị đào tạo;
-        Đôn đốc sinh viên trong lớp chấp hành nghiêm chỉnh nội quy, quy chế về học tập, rèn luyện. Xây dựng nền nếp tự quản trong lớp;
-        Tổ chức, động viên giúp đỡ những sinh viên gặp khó khăn trong học tập, rèn luyện. Thay mặt cho sinh viên của lớp liên hệ với chủ nhiệm lớp và các giảng viên bộ môn; đề nghị các khoa, đơn vị phụ trách công tác sinh viên và lãnh đạo đơn vị đào tạo giải quyết những vấn đề có liên quan đến nhiệm vụ và quyền của sinh viên trong lớp;
-        Phối hợp chặt chẽ, thường xuyên với Đoàn Thanh niên Cộng sản Hồ Chí Minh, Hội Sinh viên để triển khai các hoạt động của lớp;
-        Báo cáo đầy đủ, chính xác tình hình học tập, rèn luyện theo học kỳ, năm học và những việc đột xuất của lớp với khoa hoặc phòng/bộ phận phụ trách công tác sinh viên.
-    c) Quyền lợi của ban cán sự lớp khóa học: Được ưu tiên cộng điểm rèn luyện và các chế độ khác theo quy định của đơn vị đào tạo.
-    d) Ban cán sự lớp khóa học không được lợi dụng chức trách, nhiệm vụ, danh nghĩa để làm những việc sai trái có ảnh hưởng đến tập thể lớp và đơn vị.
+a) Lớp trưởng và các lớp phó do tập thể sinh viên trong lớp bầu, Thủ trưởng đơn vị đào tạo (hoặc Chủ nhiệm khoa, Phòng/Bộ phận phụ trách công tác sinh viên theo phân cấp của Thủ trưởng đơn vị) công nhận. Nhiệm kỳ ban cán sự lớp khóa học theo năm học.
+b) Nhiệm vụ của ban cán sự lớp khóa học:
+Tổ chức thực hiện các nhiệm vụ học tập, rèn luyện, các hoạt động sinh hoạt, đời sống và các hoạt động xã hội theo kế hoạch của đơn vị đào tạo;
+Đôn đốc sinh viên trong lớp chấp hành nghiêm chỉnh nội quy, quy chế về học tập, rèn luyện. Xây dựng nếp tự quản trong lớp;
+Tổ chức, động viên giúp đỡ những sinh viên gặp khó khăn trong học tập, rèn luyện. Thay mặt cho sinh viên của lớp liên hệ với chủ nhiệm lớp và các giảng viên bộ môn; đề nghị các khoa, đơn vị phụ trách công tác sinh viên và lãnh đạo đơn vị đào tạo giải quyết những vấn đề có liên quan đến nhiệm vụ và quyền của sinh viên trong lớp; phối hợp chặt chẽ, thường xuyên với Đoàn Thanh niên cộng sản Hồ Chí Minh, Hội Sinh viên để triển khai các hoạt động của lớp;
+Báo cáo đầy đủ, chính xác tình hình học tập, rèn luyện theo học kỳ, năm học và những việc đột xuất của lớp với khoa hoặc phòng/bộ phận phụ trách công tác sinh viên.
+c) Quyền lợi của ban cán sự lớp khóa học: Được ưu tiên cộng điểm rèn luyện và các chế độ khác theo quy định của đơn vị đào tạo.
+d) Ban cán sự lớp khóa học không được lợi dụng chức trách, nhiệm vụ, danh nghĩa để làm những việc sai trái có ảnh hưởng đến tập thể lớp và đơn vị.
 
 ## Điều 12. Lớp học phần
-1. Khái niệm về về lớp học phần được quy định theo Quy chế đào tạo đại học tại ĐHQGHN.
-2. Ban cán sự lớp học phần gồm lớp trưởng và các lớp phó do đơn vị đào tạo chỉ định. Nhiệm kỳ của ban cán sự lớp học phần theo thời gian học của học phần. Ban cán sự lớp học phần có trách nhiệm báo cáo việc chấp hành nội quy, quy chế của sinh viên trong lớp với khoa, phòng/bộ phận phụ trách công tác sinh viên của đơn vị. Ban cán sự lớp học phần được ưu tiên cộng điểm rèn luyện và các chế độ khác theo quy định của đơn vị đào tạo.
+1. Khái niệm về lớp học phần được quy định theo Quy chế đào tạo đại học tại ĐHQGHN.
+2. Ban cán sự lớp học phần gồm lớp trưởng và các lớp phó do đơn vị đào tạo chỉ định. Nhiệm kỳ của ban cán sự lớp học phần theo thời gian học của học phần. Ban cán sự lớp học phần có trách nhiệm thông báo các cấp hành nội quy, quy chế của sinh viên trong lớp với khoa, phòng/bộ phận phụ trách công tác sinh viên của đơn vị. Ban cán sự lớp học phần được ưu tiên cộng điểm rèn luyện và các chế độ khác theo quy định của đơn vị đào tạo.
 3. Ban cán sự lớp học phần không được lợi dụng chức trách, nhiệm vụ, danh nghĩa để làm những việc sai trái có ảnh hưởng đến tập thể lớp và đơn vị.
 
 # Chương IV
-QUẢN LÝ, HỖ TRỢ VÀ DỊCH VỤ SINH VIÊN
+# QUẢN LÝ, HỖ TRỢ VÀ DỊCH VỤ SINH VIÊN
 
 ## Điều 13. Tổ chức các hoạt động giáo dục, tuyên truyền
 1. Giáo dục chính trị tư tưởng
-    a) Giáo dục, tuyên truyền để sinh viên nắm vững và thực hiện đúng chủ trương, đường lối của Đảng, hình thành bản lĩnh chính trị, yếu tố quốc Việt Nam xã hội chủ nghĩa, cảnh giác và biết phê phán những luận điểm xuyên tạc, hành động chống phá Đảng và Nhà nước;
-    b) Phối hợp với Đoàn Thanh niên Cộng sản Hồ Chí Minh, Hội Sinh viên và các tổ chức chính trị - xã hội khác có liên quan trong các hoạt động rèn luyện của sinh viên. Tạo môi trường để sinh viên rèn luyện phấn đấu, được xét kết nạp vào Đảng.
+a) Giáo dục, tuyên truyền để sinh viên nắm vững và thực hiện đúng chủ trương, đường lối của Đảng, hình thành bản lĩnh chính trị, yêu tổ quốc Việt Nam xã hội chủ nghĩa, cảnh giác và biết phê phán những luận điệu xuyên tạc, hành động chống phá Đảng và Nhà nước;
+b) Phối hợp với Đoàn Thanh niên Cộng sản Hồ Chí Minh, Hội Sinh viên và các tổ chức chính trị - xã hội khác có liên quan trong các hoạt động rèn luyện của sinh viên. Tạo môi trường để sinh viên rèn luyện phấn đấu, được xét kết nạp vào Đảng.
 2. Giáo dục đạo đức, lối sống
-    a) Giáo dục, tuyên truyền cho sinh viên những giá trị, truyền thống đạo đức tốt đẹp của dân tộc Việt Nam, những chuẩn mực đạo đức chung của xã hội và đạo đức nghề nghiệp; biết phê phán những hành vi không phù hợp với chuẩn mực đạo đức;
-    b) Định hướng, giáo dục lối sống lành mạnh, văn minh, tiến bộ phù hợp với bản sắc văn hóa dân tộc Việt Nam; giáo dục ý thức trách nhiệm của cá nhân sinh viên đối với tập thể và cộng đồng.
+a) Giáo dục, tuyên truyền cho sinh viên những giá trị, truyền thống đạo đức tốt đẹp của dân tộc Việt Nam, những chuẩn mực đạo đức chung của xã hội và đạo đức nghề nghiệp; biết phê phán những hành vi không phù hợp với chuẩn mực đạo đức;
+b) Định hướng, giáo dục lối sống lành mạnh, văn minh, tiến bộ phù hợp với bản sắc văn hóa dân tộc Việt Nam; giáo dục ý thức trách nhiệm của cá nhân sinh viên đối với tập thể và cộng đồng.
 3. Giáo dục, tuyên truyền phổ biến pháp luật
-    a) Giáo dục, tuyên truyền nâng cao nhận thức và ý thức tuân thủ pháp luật, thói quen sống và làm việc theo pháp luật;
-    b) Nội dung giáo dục pháp luật đối với sinh viên tập trung vào các quy chế, quy định về học tập và rèn luyện; pháp luật về phòng chống tội phạm, tệ nạn xã hội; đảm bảo trật tự an toàn giao thông và các Luật khác có liên quan.
+a) Giáo dục, tuyên truyền nâng cao nhận thức và ý thức tuân thủ pháp luật, thói quen sống và làm việc theo pháp luật;
+b) Nội dung giáo dục pháp luật đối với sinh viên tập trung vào các quy chế, quy định về học tập và rèn luyện; pháp luật về phòng chống tội phạm, tệ nạn xã hội; đảm bảo trật tự an toàn giao thông và các Luật khác có liên quan.
 4. Giáo dục kỹ năng: Kỹ năng sống, kỹ năng nghề nghiệp, việc làm...
 5. Giáo dục thể chất
-    a) Giáo dục, hướng dẫn sinh viên về kỹ thuật, phương pháp luyện tập và tổ chức cho sinh viên tham gia các hoạt động thể dục, thể thao theo quy định của ĐHQGHN, Bộ Giáo dục và Đào tạo;
-    b) Phổ biến, tuyên truyền nâng cao nhận thức cho sinh viên về ăn uống đảm bảo dinh dưỡng, vệ sinh an toàn thực phẩm, sinh hoạt điều độ, không lạm dụng rượu, bia, sử dụng chất kích thích, gây nghiện; kiến thức và kỹ năng chăm sóc sức khỏe, phòng chống dịch, bệnh, tai nạn thương tích...; Tổ chức và triển khai hoạt động chăm sóc sức khỏe toàn diện cho sinh viên theo quy định hiện hành của Nhà nước và của ĐHQGHN.
+a) Giáo dục, hướng dẫn sinh viên về kỹ thuật, phương pháp luyện tập và tổ chức cho sinh viên tham gia các hoạt động thể dục, thể thao theo quy định của ĐHQGHN, Bộ Giáo dục và Đào tạo;
+b) Phổ biến, tuyên truyền nâng cao nhận thức cho sinh viên về ăn uống đảm bảo dinh dưỡng, vệ sinh an toàn thực phẩm, sinh hoạt điều độ, không lạm dụng rượu, bia, sử dụng chất kích thích, gây nghiện; kiến thức và kỹ năng chăm sóc sức khỏe, phòng chống dịch, bệnh, tai nạn thương tích...; Tổ chức và triển khai hoạt động chăm sóc sức khỏe toàn diện cho sinh viên theo quy định hành của Nhà nước và của ĐHQGHN.
 6. Giáo dục thẩm mỹ
-    a) Giáo dục kiến thức, kỹ năng để sinh viên biết yêu và cảm thụ cái đẹp trong tự nhiên, cuộc sống xã hội và trong nghệ thuật.
-    b) Hình thành năng lực phán đoán và đánh giá thẩm mỹ; hình thành thị hiếu thẩm mỹ đúng đắn; hình thành năng lực sáng tạo nghệ thuật, lòng đam mê và khả năng chuyển tải cái đẹp vào đời sống học tập, lao động và ứng xử. Có thái độ phê phán cái xấu, phản thẩm mỹ trong tâm hồn, trong hành vi ứng xử, hình dáng, trang phục...
+a) Giáo dục kiến thức, kỹ năng để sinh viên biết yêu và cảm thụ cái đẹp trong tự nhiên, cuộc sống xã hội và trong nghệ thuật.
+b) Hình thành năng lực phán đoán và đánh giá thẩm mỹ; hình thành thị hiếu thẩm mỹ đúng đắn; hình thành năng lực sáng tạo nghệ thuật, lòng đam mê và khả năng chuyển tải cái đẹp vào đời sống học tập, lao động và ứng xử. Có thái độ phê phán cái xấu, phản thẩm mỹ trong tâm hồn, trong hành vi ứng xử, hình dáng, trang phục...
 
 ## Điều 14. Công tác quản lý sinh viên
-1. Quản lý thông tin sinh viên
-    a) Hồ sơ sinh viên khi nhập trường: Sinh viên khi nhập trường phải nộp đầy đủ hồ sơ theo quy định. Trường hợp đặc biệt, sinh viên được phép nộp bổ sung nhưng không vượt quá 15 ngày kể từ ngày nhập học.
-    b) Hồ sơ theo dõi quá trình học tập, rèn luyện của sinh viên gồm: Kết quả học tập, rèn luyện (điểm học tập, điểm kiểm tra/thi kết thúc môn học, kết quả thi hoặc bảo vệ khoá luận tốt nghiệp, luận văn, luận án, điểm rèn luyện theo học kỳ, năm học, khoá học); Kết quả các hoạt động xã hội đã tham gia trong từng học kỳ, năm học; Hình thức khen thưởng mà sinh viên đạt được trong học tập, nghiên cứu khoa học, đoàn thể; Hình thức kỷ luật và trách nhiệm pháp lý khác mà sinh viên bị áp dụng (nếu có); Những thay đổi của sinh viên chuyển ngành, chuyển trường, lưu ban, nghỉ học có thời hạn, thôi học; Địa chỉ, điện thoại nơi cư trú và việc chấp hành quy định nơi cư trú; Tình hình đóng học phí, bảo hiểm y tế của sinh viên; Các học bổng đã được nhận; Các giấy tờ, chứng chỉ khác của sinh viên (nếu có).
-    c) Hồ sơ tốt nghiệp của sinh viên bao gồm các loại giấy tờ được quy định tại mục a, b thuộc khoản 1, Điều 14 của Quy chế này cùng với Giấy xác nhận thanh toán tài liệu do Trung tâm Thông tin - Thư viện cấp.
-    d) Hồ sơ nhập trường và hồ sơ theo dõi quá trình học tập, rèn luyện của sinh viên được lập chậm nhất 02 tuần sau khi sinh viên làm thủ tục nhập trường và phải được cập nhật lên cổng thông tin sinh viên của ĐHQGHN chậm nhất 01 tháng sau khi sinh viên nhập học. Hồ sơ tốt nghiệp của sinh viên được hoàn thiện chậm nhất 01 tuần trước khi tổ chức Lễ tốt nghiệp cho khoá sinh viên đó.
-    e) Hồ sơ sinh viên được lưu trữ, quản lý dưới dạng văn bản và dạng file điện tử theo mẫu quy định hiện hành và được cập nhật đầy đủ, thường xuyên lên cổng thông tin sinh viên của ĐHQGHN.
-    g) Trách nhiệm của các đơn vị đào tạo trong việc thực hiện công tác quản lý thông tin sinh viên: Lập hồ sơ cho từng sinh viên; Cấp tài khoản email, tổ chức cho sinh viên cập nhật thông tin vào các trường dữ liệu trên cổng thông tin sinh viên; Tổng hợp tình hình sinh viên, cập nhật thông tin lên cổng thông tin ít nhất 1 lần/ kỳ học và báo cáo bằng văn bản về ĐHQGHN (qua Ban Chính trị và Công tác Học sinh Sinh viên); Thực hiện chia sẻ thông tin cần thiết giữa các đơn vị trong ĐHQGHN; Đảm bảo đầy đủ các nguồn lực, nhân lực thực hiện các nội dung nêu trên.
-2. Công tác khen thưởng và kỷ luật
-    a) Theo dõi, đánh giá ý thức học tập; tổ chức đánh giá kết quả rèn luyện của sinh viên; phân loại, xếp loại sinh viên cuối mỗi học kỳ, năm học, khóa học theo Quy chế đào tạo đại học và Quy chế Công tác Sinh viên hiện hành của ĐHQGHN;
-    b) Phát động, tổ chức các phong trào thi đua trong sinh viên; Tổ chức đánh giá, bình bầu và khen thưởng cho tập thể, cá nhân sinh viên đạt thành tích cao trong học tập và rèn luyện; tổ chức cho sinh viên nghiên cứu khoa học, thi Olympic các môn học, thi sáng tạo tài năng trẻ và các hoạt động khuyến khích học tập khác;
-    c) Hướng dẫn, kiểm tra, giám sát việc thực hiện các quy chế, quy định về học tập và rèn luyện đối với sinh viên;
-    d) Tham mưu, theo dõi và tổng hợp việc xử lý kỷ luật sinh viên vi phạm theo quy định.
-3. Công tác sinh viên nội trú, ngoại trú: Trung tâm Hỗ trợ Sinh viên phối hợp với các đơn vị đào tạo tổ chức thực hiện các nội dung, cách thức triển khai công tác sinh viên nội trú, ngoại trú theo quy định hiện hành của Bộ Giáo dục và Đào tạo và ĐHQGHN.
-4. Công tác bảo đảm an ninh, trật tự học đường
-    a) Các đơn vị chủ động ban hành nội quy, quy định, xây dựng kế hoạch, tổ chức kiểm tra, giám sát việc thực hiện các văn bản chỉ đạo, văn bản quy phạm pháp luật của Đảng, Nhà nước, hướng dẫn của ĐHQGHN về công tác bảo đảm an ninh, trật tự an toàn xã hội, phòng chống tội phạm, tệ nạn xã hội trong sinh viên. Phối hợp với công an địa phương thực hiện các biện pháp bảo đảm an ninh, trật tự học đường;
-    b) Xây dựng môi trường giáo dục lành mạnh, đảm bảo an toàn cho các hoạt động học tập, rèn luyện của sinh viên. Theo dõi, nắm bắt diễn biến tư tưởng, hành vi của sinh viên để có sự định hướng, giáo dục; phối hợp ngăn chặn việc kích động, lôi kéo sinh viên tham gia các hoạt động chống phá Đảng, Nhà nước, tham gia các tệ nạn xã hội, truyền đạo trái phép và các hành vi vi phạm pháp luật; phối hợp xử lý các vụ việc về an ninh, trật tự học đường và các vụ việc liên quan đến sinh viên ở trong và ngoài đơn vị đào tạo.
-5. Thực hiện các chế độ, chính sách đối với sinh viên: Tuyên truyền, hướng dẫn, theo dõi, tổng hợp và giải quyết các chế độ, chính sách của Nhà nước liên quan đến sinh viên theo quy định.
+### 1. Quản lý thông tin sinh viên
+a) Hồ sơ sinh viên khi nhập trường: Sinh viên khi nhập trường phải nộp đầy đủ hồ sơ theo quy định. Trường hợp đặc biệt, sinh viên được phép nộp bổ sung nhưng không vượt quá 15 ngày kể từ ngày nhập học.
+b) Hồ sơ theo dõi quá trình học tập, rèn luyện của sinh viên gồm: Kết quả học tập, rèn luyện (điểm học tập, điểm kiểm tra/thi kết thúc môn học, kết quả thi hoặc bảo vệ khoá luận tốt nghiệp, luận văn, luận án, điểm rèn luyện theo học kỳ, năm học, khoá học); Kết quả các hoạt động xã hội đã tham gia trong từng học kỳ, năm học; Hình thức khen thưởng mà sinh viên đạt được trong học tập, nghiên cứu khoa học, đoàn thể; Hình thức kỷ luật và trách nhiệm pháp lý khác mà sinh viên bị áp dụng (nếu có); Những thay đổi của sinh viên chuyển ngành, chuyển trường, lưu ban, nghỉ học có thời hạn, thôi học; Địa chỉ, điện thoại nơi cư trú và việc chấp hành quy định nơi cư trú; Tình hình đóng học phí, bảo hiểm y tế của sinh viên; Các học bổng đã nhận; Các giấy tờ, chứng chỉ khác của sinh viên (nếu có).
+c) Hồ sơ tốt nghiệp của sinh viên bao gồm các loại giấy tờ được quy định tại mục a, b thuộc khoản 1, Điều 14 của Quy chế này cùng với Giấy xác nhận thanh toán tài liệu do Trung tâm Thông tin - Thư viện cấp.
+d) Hồ sơ nhập trường và hồ sơ theo dõi quá trình học tập, rèn luyện của sinh viên được lập chậm nhất 02 tuần sau khi sinh viên làm thủ tục nhập trường và phải được cập nhật lên cổng thông tin sinh viên của ĐHQGHN chậm nhất 01 tháng sau khi sinh viên nhập học. Hồ sơ tốt nghiệp của sinh viên được hoàn thiện chậm nhất 01 tuần trước khi tổ chức Lễ tốt nghiệp cho khoá sinh viên đó.
+e) Hồ sơ sinh viên được lưu trữ, quản lý dưới dạng văn bản và dạng file điện tử theo mẫu quy định hiện hành và được cập nhật đầy đủ, thường xuyên lên cổng thông tin sinh viên của ĐHQGHN.
+g) Trách nhiệm của các đơn vị đào tạo trong việc thực hiện công tác quản lý thông tin sinh viên: Lập hồ sơ cho từng sinh viên; Cấp tài khoản email, tổ chức cho sinh viên cập nhật thông tin cá nhân vào các trường dữ liệu trên cổng thông tin sinh viên; Tổng hợp tình hình sinh viên, cập nhật thông tin lên cổng thông tin ít nhất 1 lần/ kỳ học và báo cáo bằng văn bản về ĐHQGHN (qua Ban Chính trị và Công tác Học sinh Sinh viên); Thực hiện chia sẻ thông tin cần thiết giữa các đơn vị trong ĐHQGHN; Đảm bảo đầy đủ các nguồn lực, nhân lực thực hiện các nội dung nêu trên.
+
+### 2. Công tác khen thưởng và kỷ luật
+a) Theo dõi, đánh giá ý thức học tập; tổ chức đánh giá kết quả rèn luyện của sinh viên; phân loại, xếp loại sinh viên cuối mỗi học kỳ, năm học, khóa học theo Quy chế đào tạo và Quy chế Công tác sinh viên hiện hành của ĐHQGHN;
+b) Phát động, tổ chức các phong trào thi đua trong sinh viên; Tổ chức đánh giá, bình bầu và khen thưởng cho tập thể, cá nhân sinh viên đạt thành tích cao trong học tập và rèn luyện; tổ chức cho sinh viên nghiên cứu khoa học, thi Olympic các môn học, thi sáng tạo tài năng trẻ và các hoạt động khuyến khích học tập khác;
+c) Hướng dẫn, kiểm tra, giám sát việc thực hiện các quy chế, quy định về học tập và rèn luyện đối với sinh viên;
+d) Tham mưu, theo dõi và tổng hợp việc xử lý kỷ luật sinh viên vi phạm theo quy định.
+
+### 3. Công tác sinh viên nội trú, ngoại trú
+Trung tâm Hỗ trợ Sinh viên phối hợp với các đơn vị đào tạo tổ chức thực hiện các nội dung, cách thức triển khai công tác sinh viên nội trú, ngoại trú theo quy định hiện hành của Bộ Giáo dục và Đào tạo và ĐHQGHN.
+
+### 4. Công tác bảo đảm an ninh, trật tự học đường
+a) Các đơn vị chủ động ban hành nội quy, quy định, xây dựng kế hoạch, tổ chức kiểm tra, giám sát việc thực hiện các văn bản chỉ đạo, văn bản quy phạm pháp luật của Đảng, Nhà nước, hướng dẫn của ĐHQGHN về công tác bảo đảm an ninh, trật tự an toàn xã hội, phòng chống tội phạm, tệ nạn xã hội trong sinh viên. Phối hợp với công an địa phương thực hiện các biện pháp bảo đảm an ninh, trật tự học đường;
+b) Xây dựng môi trường giáo dục lành mạnh, đảm bảo an toàn cho các hoạt động học tập, rèn luyện của sinh viên. Theo dõi, nắm bắt diễn biến tư tưởng, hành vi của sinh viên để có sự định hướng, giáo dục; phối hợp ngăn chặn việc kích động, lôi kéo sinh viên tham gia các hoạt động chống phá Đảng, Nhà nước, tham gia các tệ nạn xã hội, truyền đạo trái phép và các hành vi vi phạm pháp luật; phối hợp xử lý các vụ việc về an ninh, trật tự học đường và các vụ việc liên quan đến sinh viên ở trong và ngoài đơn vị đào tạo.
+
+### 5. Thực hiện các chế độ, chính sách đối với sinh viên
+Tuyên truyền, hướng dẫn, theo dõi, tổng hợp và giải quyết các chế độ, chính sách của Nhà nước liên quan đến sinh viên theo quy định.
 
 ## Điều 15. Hỗ trợ và dịch vụ sinh viên
-1. Tư vấn học tập:
+### 1. Tư vấn học tập
 Tư vấn, hỗ trợ sinh viên xây dựng kế hoạch, phương pháp học tập phù hợp với mục tiêu và năng lực; cung cấp thông tin về chương trình đào tạo, hướng dẫn sinh viên tiếp cận các nguồn lực (về học thuật, tài chính, kỹ thuật...) nhằm nâng cao khả năng, học tập, nghiên cứu hiệu quả.
-2. Công tác hướng nghiệp, tư vấn việc làm:
-    a) Công tác hướng nghiệp:
-        Tư vấn, giới thiệu về ngành, chuyên ngành đào tạo của đơn vị, cơ hội tìm việc làm cho sinh viên sau khi tốt nghiệp;
-        Tổ chức câu lạc bộ hướng nghiệp, hoạt động ngoại khoá, giao lưu với đơn vị sử dụng lao động để nâng cao khả năng có việc làm, nhanh chóng thích ứng, hoà nhập với môi trường làm việc sau khi tốt nghiệp.
-    b) Tư vấn, giới thiệu việc làm:
-        Thiết lập hệ thống thông tin về việc làm, thông tin hai chiều giữa đơn vị đào tạo và đơn vị sử dụng lao động để tư vấn, giới thiệu việc làm cho sinh viên; giúp các đơn vị có nhu cầu sử dụng lao động lựa chọn được sinh viên phù hợp;
-        Tổ chức, tham gia các cuộc giao lưu, hội thảo, hội nghị, hội chợ về việc làm;
-        Phối hợp với các cơ quan, đơn vị chức năng tổ chức các lớp đào tạo ngắn hạn nhằm trang bị cho sinh viên những kỹ năng cần thiết trước khi tốt nghiệp, trong đó có các kỹ năng liên quan khi tìm việc làm.
-    c) Công tác phối hợp với các tổ chức, cá nhân:
-        Phối hợp với các tổ chức, cá nhân, đơn vị sử dụng lao động trong việc bổ sung, đổi mới, chỉnh sửa chương trình, nội dung, phương thức đào tạo đáp ứng cao nhu cầu của xã hội, từng bước xây dựng chương trình đào tạo theo địa chỉ.
-        Phối hợp khảo sát, đánh giá nhu cầu nguồn nhân lực đối với ngành, nghề đang đào tạo và thông tin phản hồi của đơn vị sử dụng lao động về chất lượng, khả năng đáp ứng yêu cầu công việc của sinh viên sau khi tốt nghiệp.
-        Liên lạc, phối hợp với những người đã từng học tập tại trường, các tổ chức, cá nhân để triển khai các hoạt động thực tập, thực hành, hướng nghiệp, tư vấn việc làm và các hoạt động khác nhằm hỗ trợ sinh viên.
-        Phối hợp chặt chẽ giữa các đơn vị đào tạo, phục vụ đào tạo và các tổ chức đoàn thể liên quan trong việc tổ chức các hoạt động hướng nghiệp, tư vấn việc làm.
-3. Tư vấn tâm lý, chăm sóc sức khỏe
-    a) Tư vấn, hỗ trợ sinh viên khi gặp phải các vấn đề về tâm lý - xã hội; phối hợp tổ chức các dịch vụ tư vấn, chăm sóc sức khỏe để có sự hỗ trợ, can thiệp cần thiết khi sinh viên gặp phải các vấn đề ảnh hưởng đến thể chất và tinh thần;
-    b) Tổ chức khám sức khỏe đầu vào và định kỳ cho sinh viên; tư vấn, tổ chức cho sinh viên thực hiện Luật bảo hiểm y tế; sơ, cấp cứu, khám chữa bệnh ban đầu cho sinh viên.
-4. Hỗ trợ tài chính
+
+### 2. Công tác hướng nghiệp, tư vấn việc làm
+a) Công tác hướng nghiệp:
+Tư vấn, giới thiệu về ngành, chuyên ngành đào tạo của đơn vị, cơ hội tìm việc làm cho sinh viên sau khi tốt nghiệp;
+Tổ chức câu lạc bộ hướng nghiệp, hoạt động ngoại khoá, giao lưu với đơn vị sử dụng lao động để nâng cao khả năng có việc làm, nhanh chóng thích ứng, hoà nhập với môi trường làm việc sau khi tốt nghiệp.
+b) Tư vấn, giới thiệu việc làm:
+Thiết lập hệ thống thông tin về việc làm, thông tin hai chiều giữa đơn vị đào tạo và đơn vị sử dụng lao động để tư vấn, giới thiệu việc làm cho sinh viên; giúp các đơn vị có nhu cầu sử dụng lao động lựa chọn được sinh viên phù hợp;
+Tổ chức, tham gia các cuộc giao lưu, hội thảo, hội nghị, hội chợ về việc làm;
+Phối hợp với các cơ quan, đơn vị chức năng tổ chức các lớp đào tạo ngắn hạn nhằm trang bị cho sinh viên những kỹ năng cần thiết trước khi tốt nghiệp, trong đó có các kỹ năng liên quan khi tìm việc làm.
+c) Công tác phối hợp với các tổ chức, cá nhân:
+Phối hợp với các tổ chức, cá nhân, đơn vị sử dụng lao động trong việc bổ sung, đổi mới, chỉnh sửa chương trình, nội dung, phương thức đào tạo đáp ứng nhu cầu cầu của xã hội, từng bước xây dựng chương trình đào tạo theo địa chỉ.
+Phối hợp khảo sát, đánh giá nhu cầu nguồn nhân lực đối với ngành, nghề đang đào tạo và thông tin phản hồi của đơn vị sử dụng lao động về chất lượng, khả năng đáp ứng yêu cầu công việc của sinh viên sau khi tốt nghiệp.
+Liên lạc, phối hợp với những người đã từng học tập tại trường, các tổ chức, cá nhân để triển khai các hoạt động thực tập, thực hành, hướng nghiệp, tư vấn việc làm và các hoạt động khác nhằm hỗ trợ sinh viên.
+Phối hợp chặt chẽ với các đơn vị đào tạo, phục vụ đào tạo và các tổ chức đoàn thể liên quan trong việc tổ chức các hoạt động hướng nghiệp, tư vấn việc làm.
+
+### 3. Tư vấn tâm lý, chăm sóc sức khỏe
+a) Tư vấn, hỗ trợ sinh viên khi gặp phải các vấn đề về tâm lý - xã hội; phối hợp tổ chức các dịch vụ tư vấn, chăm sóc sức khỏe đối với các trường hợp cần thiết khi sinh viên gặp phải các vấn đề ảnh hưởng đến thể chất và tinh thần;
+b) Tổ chức khám sức khỏe đầu vào và định kỳ cho sinh viên; tư vấn, tổ chức cho sinh viên thực hiện Luật bảo hiểm y tế; sơ, cấp cứu, khám chữa bệnh ban đầu cho sinh viên.
+
+### 4. Hỗ trợ tài chính
 ĐHQGHN và các đơn vị đào tạo tăng cường khai thác, quản lý và sử dụng các quỹ học bổng ngoài ngân sách để trao cho các đối tượng sinh viên khác nhau, thực hiện theo quy định hiện hành của ĐHQGHN.
-5. Hỗ trợ đặc biệt
+
+### 5. Hỗ trợ đặc biệt
 Triển khai dịch vụ công tác xã hội tại các đơn vị đào tạo, tạo điều kiện giúp đỡ sinh viên khuyết tật, sinh viên diện chính sách, có hoàn cảnh đặc biệt khó khăn.
-6. Tổ chức, quản lý các dịch vụ sinh viên
+
+### 6. Tổ chức, quản lý các dịch vụ sinh viên
 Tổ chức dịch vụ cho sinh viên như: internet, điện thoại, nhà ăn, căng tin, trông giữ xe, sân chơi, bãi tập, thiết chế văn hóa...
 
 # Chương V
-ĐÁNH GIÁ CÔNG TÁC SINH VIÊN
+# ĐÁNH GIÁ CÔNG TÁC SINH VIÊN
 
 ## Điều 16. Mục đích
 1. Đảm bảo sự thống nhất, từng bước chuẩn hoá để thúc đẩy sự phát triển công tác sinh viên, góp phần nâng cao chất lượng giáo dục, hiệu quả đào tạo ở ĐHQGHN.
@@ -253,11 +259,11 @@ Tổ chức dịch vụ cho sinh viên như: internet, điện thoại, nhà ăn
 
 ## Điều 18. Trách nhiệm trong việc đánh giá công tác sinh viên
 1. ĐHQGHN
-    a) Chỉ đạo các đơn vị thành viên, trực thuộc có liên quan thực hiện việc tự đánh giá, xếp loại công tác sinh viên; thực hiện việc kiểm tra kết quả tự đánh giá, xếp loại công tác sinh viên đối với các đơn vị đào tạo theo từng năm học và gửi báo cáo kết quả cho các cơ quan chức năng liên quan (nếu được yêu cầu);
-    b) Chỉ đạo, hướng dẫn các đơn vị thành viên, trực thuộc có liên quan xây dựng kế hoạch để tăng cường công tác sinh viên theo các tiêu chuẩn đánh giá công tác sinh viên.
+a) Chỉ đạo các đơn vị thành viên, trực thuộc có liên quan thực hiện việc tự đánh giá, xếp loại công tác sinh viên; thực hiện việc kiểm tra kết quả tự đánh giá xếp loại công tác sinh viên đối với các đơn vị đào tạo theo từng năm học và gửi báo cáo kết quả cho các cơ quan chức năng liên quan (nếu được yêu cầu);
+b) Chỉ đạo, hướng dẫn các đơn vị thành viên, trực thuộc có liên quan xây dựng kế hoạch để tăng cường công tác sinh viên theo các tiêu chuẩn đánh giá công tác sinh viên.
 2. Các đơn vị thành viên, trực thuộc
-    a) Tổ chức thực hiện việc tự đánh giá, xếp loại công tác sinh viên của đơn vị và báo cáo kết quả về ĐHQGHN (qua Ban Chính trị và Công tác Học sinh Sinh viên);
-    b) Căn cứ hướng dẫn của ĐHQGHN và tình hình cụ thể của đơn vị để xây dựng chương trình, kế hoạch tăng cường công tác sinh viên theo các tiêu chuẩn đánh giá công tác sinh viên.
+a) Tổ chức thực hiện việc tự đánh giá, xếp loại công tác sinh viên của đơn vị và báo cáo kết quả về ĐHQGHN (qua Ban Chính trị và Công tác Học sinh Sinh viên);
+b) Căn cứ hướng dẫn của ĐHQGHN và tình hình cụ thể của đơn vị để xây dựng chương trình, kế hoạch tăng cường công tác sinh viên theo các tiêu chuẩn đánh giá công tác sinh viên.
 
 ## Điều 19. Các tiêu chuẩn đánh giá công tác sinh viên
 Các tiêu chuẩn đánh giá công tác sinh viên tại các đơn vị thành viên, trực thuộc liên quan gồm:
@@ -266,17 +272,17 @@ Các tiêu chuẩn đánh giá công tác sinh viên tại các đơn vị thàn
 3. Công tác giáo dục chính trị tư tưởng, đạo đức, lối sống và đánh giá kết quả rèn luyện của sinh viên.
 4. Công tác thực hiện chế độ, chính sách và chăm lo đời sống vật chất, tinh thần của sinh viên.
 5. Công tác khen thưởng và kỷ luật sinh viên tại đơn vị đào tạo.
-6. Công tác quản lý thông tin sinh viên.
+6. Công tác thông tin sinh viên.
 7. Công tác bảo đảm an ninh, trật tự học đường, giáo dục an toàn giao thông, phòng, chống tội phạm và tệ nạn xã hội.
 8. Các sáng kiến và thành tích đạt được về công tác sinh viên.
 
 ## Điều 20. Trình tự đánh giá
-Căn cứ hướng dẫn của ĐHQGHN về tự đánh giá, xếp loại công tác sinh viên, các đơn vị thành viên, trực thuộc có liên quan thực hiện theo các bước sau:
+Căn cứ hướng dẫn của ĐHQGHN về đánh giá, xếp loại công tác sinh viên, các đơn vị thành viên, trực thuộc có liên quan thực hiện theo các bước sau:
 Bước 1: Thành lập Ban đánh giá công tác sinh viên do Thủ trưởng (hoặc cá nhân được Thủ trưởng uỷ quyền) làm trưởng ban, uỷ viên thường trực là lãnh đạo Phòng phụ trách công tác sinh viên. Số lượng tối thiểu là 5 thành viên.
 Bước 2: Ban đánh giá công tác sinh viên tiến hành tự đánh giá xếp loại công tác sinh viên của đơn vị theo các tiêu chuẩn đánh giá công tác sinh viên của ĐHQGHN; tổng hợp kết quả, xếp loại công tác sinh viên và gửi công văn đề nghị về ĐHQGHN (qua Ban Chính trị và Công tác Học sinh Sinh viên).
 
 ## Điều 21. Thời gian tự đánh giá, xếp loại và gửi báo cáo
-1. Việc tự đánh giá, xếp loại công tác sinh viên của các đơn vị được tiến hành theo từng năm học, vào thời điểm từ 15/6 đến trước 10/7 hàng năm.
+1. Việc tự đánh giá, xếp loại công tác sinh viên của các đơn vị tiến hành theo từng năm học, vào thời điểm từ 15/6 đến trước 10/7 hàng năm.
 2. Các đơn vị gửi hồ sơ tự đánh giá, xếp loại công tác sinh viên về ĐHQGHN (qua Ban Chính trị và Công tác Học sinh Sinh viên) trước 20/7 hàng năm.
 3. ĐHQGHN kiểm tra kết quả tự đánh giá, xếp loại công tác sinh viên đối với các đơn vị theo từng năm học và gửi báo cáo kết quả về Bộ Giáo dục và Đào tạo (qua Vụ Công tác Học sinh Sinh viên) trước 31/7 hàng năm.
 
@@ -286,77 +292,76 @@ Bước 2: Ban đánh giá công tác sinh viên tiến hành tự đánh giá x
 3. Kết quả đánh giá, xếp loại công tác sinh viên là căn cứ để các đơn vị đào tạo đề nghị ĐHQGHN hoặc cơ quan quản lý cấp trên khen thưởng về công tác sinh viên và được xem xét, sử dụng trong công tác kiểm định chất lượng giáo dục.
 
 # Chương VI
-ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN
+# ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN
 
 ## Điều 23. Nội dung đánh giá
 1. Đánh giá kết quả rèn luyện là đánh giá ý thức, thái độ, phẩm chất chính trị, đạo đức, lối sống của từng sinh viên trên các mặt:
-    a) Thực hiện nghĩa vụ đào tạo và nghiên cứu khoa học: Ý thức và kết quả học tập, nghiên cứu khoa học;
-    b) Ý thức chấp hành nội quy, quy chế của ĐHQGHN, các đơn vị;
-    c) Ý thức tham gia các hoạt động chính trị - xã hội, văn hóa, văn nghệ, thể thao, phòng chống các tệ nạn xã hội;
-    d) Ý thức công dân, quan hệ với cộng đồng;
-    e) Ý thức, kết quả tham gia công tác của trường, khoa, lớp, các đoàn thể, tổ chức khác trong đơn vị.
+a) Thực hiện nghĩa vụ đào tạo và nghiên cứu khoa học: Ý thức và kết quả học tập, nghiên cứu khoa học;
+b) Ý thức chấp hành nội quy, quy chế của ĐHQGHN, các đơn vị;
+c) Ý thức tham gia các hoạt động chính trị - xã hội, văn hóa, văn nghệ, thể thao, phòng chống các tệ nạn xã hội;
+d) Ý thức công dân, quan hệ với cộng đồng;
+e) Ý thức, kết quả tham gia công tác của trường, khoa, lớp, các đoàn thể, tổ chức khác trong đơn vị.
 2. Điểm rèn luyện được đánh giá bằng thang điểm 100.
 3. Việc đánh giá kết quả rèn luyện của sinh viên được tiến hành định kỳ theo học kỳ, năm học và toàn khóa học: Điểm rèn luyện của học kỳ là tổng điểm đạt được của 5 nội dung đánh giá chi tiết tại Điều 24; Điểm rèn luyện của năm học là trung bình cộng của điểm rèn luyện các học kỳ của năm học đó; Điểm rèn luyện toàn khóa học là trung bình cộng của điểm rèn luyện các học kỳ của khóa học.
-4. Thủ trưởng các đơn vị căn cứ vào đặc điểm, điều kiện cụ thể của đơn vị mình xây dựng quy trình đánh giá, quy định các tiêu chí và mức điểm chi tiết cho phù hợp với các nội dung đánh giá và không vượt quá khung điểm quy định của Quy chế này.
 
 ## Điều 24. Khung điểm và các tiêu chí đánh giá
 1. Đánh giá về ý thức và kết quả học tập, nghiên cứu khoa học với khung điểm từ 0 đến 20 điểm tập trung vào các tiêu chí:
-    a) Ý thức và thái độ trong học tập;
-    b) Ý thức, thái độ tham gia các câu lạc bộ học thuật, các hoạt động học thuật, hoạt động ngoại khóa, hoạt động nghiên cứu khoa học;
-    c) Ý thức và thái độ tham gia các kỳ thi, cuộc thi;
-    d) Tinh thần vượt khó, phấn đấu vươn lên trong học tập;
-    e) Kết quả học tập, nghiên cứu.
+a) Ý thức và thái độ trong học tập;
+b) Ý thức, thái độ tham gia các câu lạc bộ học thuật, các hoạt động học thuật, hoạt động ngoại khóa, hoạt động nghiên cứu khoa học;
+c) Ý thức và thái độ tham gia các kỳ thi, cuộc thi;
+d) Tinh thần vượt khó, phấn đấu vươn lên trong học tập;
+e) Kết quả học tập, nghiên cứu.
 2. Đánh giá về ý thức chấp hành nội quy, quy chế và các yêu cầu, quy định có liên quan của đơn vị và của ĐHQGHN với khung điểm từ 0 đến 25 điểm tập trung vào các tiêu chí:
-    a) Ý thức chấp hành các văn bản chỉ đạo của Đảng, Nhà nước, Bộ Giáo dục và Đào tạo và ĐHQGHN;
-    b) Ý thức chấp hành các nội quy, quy chế, quy định của đơn vị đào tạo và các đơn vị liên quan.
+a) Ý thức chấp hành các văn bản chỉ đạo của Đảng, Nhà nước, Bộ Giáo dục và Đào tạo và ĐHQGHN;
+b) Ý thức chấp hành các nội quy, quy chế, quy định của đơn vị đào tạo và các đơn vị liên quan.
 3. Đánh giá về ý thức tham gia các hoạt động chính trị - xã hội, văn hoá, văn nghệ, thể thao, phòng chống các tệ nạn xã hội với khung điểm từ 0 đến 20 điểm tập trung vào các tiêu chí:
-    a) Ý thức và hiệu quả tham gia các hoạt động rèn luyện về chính trị, xã hội, văn hóa, nghệ thuật, thể thao;
-    b) Ý thức tham gia các hoạt động công ích, tình nguyện, công tác xã hội;
-    c) Tham gia tuyên truyền, phòng chống tội phạm và các tệ nạn xã hội.
+a) Ý thức và hiệu quả tham gia các hoạt động rèn luyện về chính trị, xã hội, văn hóa, nghệ thuật, thể thao;
+b) Ý thức tham gia các hoạt động công ích, tình nguyện, công tác xã hội;
+c) Tham gia tuyên truyền, phòng chống tội phạm và các tệ nạn xã hội.
 4. Đánh giá về ý thức công dân và quan hệ với cộng đồng với khung điểm từ 0 đến 25 điểm tập trung vào các tiêu chí:
-    a) Ý thức chấp hành và tham gia tuyên truyền các chủ trương của Đảng, chính sách, pháp luật của Nhà nước trong cộng đồng;
-    b) Ý thức tham gia các hoạt động xã hội có thành tích được ghi nhận, biểu dương, khen thưởng;
-    c) Có tinh thần chia sẻ, giúp đỡ người thân, người gặp khó khăn, hoạn nạn.
+a) Ý thức chấp hành và tham gia tuyên truyền các chủ trương của Đảng, chính sách, pháp luật của Nhà nước trong cộng đồng;
+b) Ý thức tham gia các hoạt động xã hội có thành tích được ghi nhận, biểu dương, khen thưởng;
+c) Có tinh thần chia sẻ, giúp đỡ người thân, người gặp khó khăn, hoạn nạn.
 5. Đánh giá về ý thức và kết quả khi tham gia công tác lớp, đoàn thể, các tổ chức khác trong đơn vị, các thành tích đặc biệt trong học tập, nghiên cứu khoa học, rèn luyện của sinh viên góp phần vào hoạt động nâng cao, quảng bá hình ảnh của ĐHQGHN với khung điểm từ 0 đến 10 điểm tập trung vào các tiêu chí:
-    a) Ý thức, tinh thần, thái độ, uy tín và hiệu quả công việc của sinh viên khi được phân công nhiệm vụ quản lý lớp, các tổ chức Đảng, Đoàn Thanh niên, Hội Sinh viên, các Câu lạc bộ và các tổ chức khác của đơn vị;
-    b) Kỹ năng tổ chức, quản lý lớp, quản lý các tổ chức Đảng, Đoàn Thanh niên, Hội Sinh viên, các Câu lạc bộ và các tổ chức khác của đơn vị;
-    c) Hỗ trợ và tham gia tích cực vào các hoạt động chung của lớp, tập thể, khoa và đơn vị đào tạo;
-    d) Thành tích đặc biệt trong học tập, rèn luyện của sinh viên.
+a) Ý thức, tinh thần, thái độ, uy tín và hiệu quả công việc của sinh viên khi được phân công nhiệm vụ quản lý lớp, các tổ chức Đảng, Đoàn Thanh niên, Hội Sinh viên, các Câu lạc bộ và các tổ chức khác của đơn vị;
+b) Kỹ năng tổ chức, quản lý lớp, quản lý các tổ chức Đảng, Đoàn Thanh niên, Hội Sinh viên, các Câu lạc bộ và các tổ chức khác của đơn vị;
+c) Hỗ trợ và tham gia tích cực vào các hoạt động chung của lớp, tập thể, khoa và đơn vị đào tạo;
+d) Thành tích đặc biệt trong học tập, rèn luyện của sinh viên.
 
 ## Điều 25. Phân loại kết quả rèn luyện
 1. Kết quả rèn luyện được phân thành các loại: xuất sắc, tốt, khá, trung bình, yếu và kém.
-    a) Từ 90 đến 100 điểm: loại xuất sắc;
-    b) Từ 80 đến dưới 90 điểm: loại tốt;
-    c) Từ 65 đến dưới 80 điểm: loại khá;
-    d) Từ 50 đến dưới 65 điểm: loại trung bình;
-    e) Từ 35 đến dưới 50 điểm: loại yếu;
-    g) Dưới 35 điểm: loại kém.
+- a) Từ 90 đến 100 điểm: loại xuất sắc;
+- b) Từ 80 đến dưới 90 điểm: loại tốt;
+- c) Từ 65 đến dưới 80 điểm: loại khá;
+- d) Từ 50 đến dưới 65 điểm: loại trung bình;
+- e) Từ 35 đến dưới 50 điểm: loại yếu;
+- g) Dưới 35 điểm: loại kém.
 2. Nếu sinh viên bị kỷ luật ở mức khiển trách thì kết quả rèn luyện không vượt quá loại khá. Sinh viên bị kỷ luật ở mức cảnh cáo thì kết quả rèn luyện không được vượt quá loại trung bình.
 3. Sinh viên bị kỷ luật ở mức đình chỉ học tập không được đánh giá rèn luyện trong thời gian bị đình chỉ. Đối với những trường hợp này tại thời điểm đã vi phạm kỷ luật nhưng chưa thi hành Quyết định kỷ luật, thì điểm rèn luyện do Hội đồng cấp đơn vị quyết định nhưng không vượt quá loại yếu.
 4. Sinh viên bị kỷ luật ở mức buộc thôi học không được đánh giá kết quả rèn luyện.
-5. Sinh viên hoàn thành chương trình học và tốt nghiệp chậm so với quy định của khóa học thì tiếp tục được đánh giá kết quả rèn luyện trong thời gian đang hoàn thành bổ sung chương trình học và tốt nghiệp, tùy thuộc vào nguyên nhân để quy định mức đánh giá rèn luyện tại kỳ bổ sung.
-6. Sinh viên khuyết tật, tàn tật, mồ côi cả cha lẫn mẹ hoặc cha hoặc mẹ, hoàn cảnh đặc biệt khó khăn có xác nhận của địa phương theo quy định đối với những hoạt động rèn luyện không có khả năng tham gia hoặc đáp ứng yêu cầu chung thì được ưu tiên, động viên, khuyến khích, cộng điểm khi đánh giá kết quả rèn luyện qua sự nỗ lực và tiến bộ của sinh viên tùy thuộc vào đối tượng và hoàn cảnh cụ thể.
+5. Sinh viên hoàn thành chương trình học và tốt nghiệp chậm so với quy định của khóa học thì tiếp tục được đánh giá kết quả rèn luyện trong thời gian đang hoàn thành bổ sung chương trình học và tốt nghiệp, tùy thuộc vào nguyên nhân để quy định mức đánh giá rèn luyện tại kỷ bộ sung.
+6. Sinh viên khuyết tật, tàn tật, mồ côi cả lẫn mẹ hoặc cha hoặc mẹ, hoàn cảnh đặc biệt khó khăn có xác nhận của địa phương theo quy định đối với những hoạt động rèn luyện không có khả năng tham gia hoặc đáp ứng yêu cầu chung thì được ưu tiên, động viên, khuyến khích, cộng điểm khi đánh giá kết quả rèn luyện qua sự nỗ lực và tiến bộ của sinh viên tùy thuộc vào đối tượng và hoàn cảnh cụ thể.
 7. Sinh viên nghỉ học tạm thời được bảo lưu kết quả rèn luyện sẽ được đánh giá kết quả rèn luyện khi tiếp tục trở lại học tập theo quy định.
 8. Sinh viên học đồng thời hai chương trình đào tạo sẽ được đánh giá kết quả rèn luyện tại đơn vị quản lý chương trình thứ nhất và lấy ý kiến nhận xét của đơn vị quản lý chương trình thứ hai làm căn cứ, cơ sở để đánh giá thêm. Trường hợp chương trình thứ nhất đã hoàn thành thì đơn vị quản lý chương trình thứ hai sẽ tiếp tục đánh giá kết quả rèn luyện của sinh viên.
-9. Sinh viên chuyển trường được sự đồng ý của lãnh đạo cả hai đơn vị đào tạo thì được bảo lưu kết quả rèn luyện của đơn vị đào tạo cũ khi học tại đơn vị đào tạo mới và tiếp tục được đánh giá kết quả rèn luyện ở các học kỳ tiếp theo.
+9. Sinh viên chuyển trường được sự đồng ý của lãnh đạo cả hai đơn vị đào tạo thì được bảo lưu kết quả rèn luyện của đơn vị đào tạo cũ khi học tại đơn vị đào tạo mới và tiếp tục đánh giá kết quả rèn luyện ở các học kỳ tiếp theo.
 
 ## Điều 26. Các bước đánh giá
-Sau mỗi học kỳ, sinh viên tự đánh giá theo “Phiếu cho điểm đánh giá kết quả rèn luyện” và nộp cho lớp trưởng lớp khóa học.
-Giáo viên chủ nhiệm, cố vấn học tập chỉ đạo họp lớp khóa học, tiến hành bình xét và thông qua mức điểm của từng sinh viên trên cơ sở các minh chứng xác nhận kết quả và phải được quá nửa ý kiến đồng ý của tập thể lớp khóa học. Giáo viên chủ nhiệm, cố vấn học tập xác nhận kết quả họp lớp và chuyển kết quả cùng biên bản lên Hội đồng đánh giá kết quả rèn luyện của sinh viên cấp khoa (đối với đơn vị đào tạo thành viên) hoặc cấp bộ môn (đối với đơn vị đào tạo trực thuộc). Hội đồng đánh giá cấp khoa/bộ môn họp xét, thống nhất, báo cáo Chủ nhiệm Khoa/Bộ môn thông qua và trình kết quả lên Hội đồng đánh giá kết quả rèn luyện của sinh viên cấp đơn vị đào tạo. Thủ trưởng đơn vị đào tạo thành lập Hội đồng đánh giá kết quả rèn luyện của sinh viên.
+Sau mỗi học kỳ, sinh viên tự đánh giá theo "Phiếu cho điểm đánh giá kết quả rèn luyện" và nộp cho lớp trưởng lớp khóa học.
+Giảng viên chủ nhiệm, cố vấn học tập chỉ đạo họp lớp khóa học, tiến hành bình xét và thông qua mức điểm của từng sinh viên trên cơ sở các minh chứng xác nhận kết quả và phải được quá nửa ý kiến đồng ý của tập thể lớp khóa học. Giáo viên chủ nhiệm, cố vấn học tập xác nhận kết quả họp lớp và chuyển kết quả cùng biên bản lên Hội đồng đánh giá kết quả rèn luyện cấp khoa (đối với đơn vị đào tạo thành viên) hoặc cấp bộ môn (đối với đơn vị đào tạo trực thuộc). Hội đồng đánh giá cấp khoa/bộ môn họp xét, thống nhất, báo cáo Chủ nhiệm Khoa/Bộ môn thông qua và trình kết quả lên Hội đồng đánh giá kết quả rèn luyện của sinh viên cấp đơn vị đào tạo. Thủ trưởng đơn vị đào tạo thành lập Hội đồng đánh giá kết quả rèn luyện của sinh viên cấp đơn vị đào tạo. Hội đồng đánh giá cấp đơn vị đào tạo trình Thủ trưởng đơn vị đào tạo ra quyết định công nhận kết quả rèn luyện của sinh viên.
 1. Đối với các đơn vị đào tạo thành viên
-    a) Hội đồng cấp khoa: Chủ tịch Hội đồng (chủ nhiệm khoa hoặc phó chủ nhiệm khoa được chủ nhiệm khoa uỷ quyền), các uỷ viên (trợ lý công tác sinh viên, trợ lý đào tạo, giáo viên chủ nhiệm, đại diện liên chi Đoàn, liên chi Hội Sinh viên);
-    b) Hội đồng cấp đơn vị: Chủ tịch Hội đồng (thủ trưởng đơn vị hoặc cấp phó được thủ trưởng ủy quyền), thường trực Hội đồng (Trưởng phòng Chính trị và Công tác Sinh viên), các ủy viên (đại diện lãnh đạo các khoa, phòng/ban có liên quan, đại diện Đoàn Thanh niên Cộng sản Hồ Chí Minh, Hội Sinh viên cấp đơn vị).
-    c) Thủ trưởng đơn vị xem xét và công nhận kết quả rèn luyện của từng sinh viên trên cơ sở đề nghị của Hội đồng cấp đơn vị.
+a) Hội đồng cấp khoa: Chủ tịch Hội đồng (chủ nhiệm khoa hoặc phó chủ nhiệm khoa được chủ nhiệm khoa uỷ quyền), các uỷ viên (trợ lý công tác sinh viên, trợ lý đào tạo, giáo viên chủ nhiệm, đại diện liên chi Đoàn, liên chi Hội Sinh viên);
+b) Hội đồng cấp đơn vị: Chủ tịch Hội đồng (thủ trưởng đơn vị hoặc cấp phó được thủ trưởng uỷ quyền), thường trực Hội đồng (Trưởng phòng Chính trị và Công tác Sinh viên), các uỷ viên (đại diện lãnh đạo các khoa, phòng/ban có liên quan, đại diện Đoàn Thanh niên cộng sản Hồ Chí Minh, Hội Sinh viên cấp đơn vị).
+c) Thủ trưởng đơn vị xem xét và công nhận kết quả rèn luyện của từng sinh viên trên cơ sở đề nghị của Hội đồng cấp đơn vị.
 2. Đối với các đơn vị đào tạo trực thuộc
-    a) Hội đồng cấp bộ môn: Chủ tịch Hội đồng (chủ nhiệm bộ môn hoặc phó chủ nhiệm bộ môn được chủ nhiệm bộ môn uỷ quyền), các uỷ viên (trợ lý công tác sinh viên, trợ lý đào tạo, giáo viên chủ nhiệm, đại diện liên chi Đoàn, liên chi Hội Sinh viên);
-    b) Hội đồng cấp đơn vị: Chủ tịch Hội đồng (thủ trưởng đơn vị hoặc cấp phó được uỷ quyền), thường trực Hội đồng (trưởng phòng/bộ phận phụ trách Công tác sinh viên), các uỷ viên (chuyên viên phụ trách công tác sinh viên, công tác đào tạo, giáo viên chủ nhiệm, đại diện Đoàn Thanh niên Cộng sản Hồ Chí Minh, Hội Sinh viên cấp đơn vị);
-    c) Thủ trưởng đơn vị xem xét và công nhận kết quả rèn luyện của từng sinh viên trên cơ sở đề nghị của Hội đồng cấp đơn vị.
+a) Hội đồng cấp bộ môn: Chủ tịch Hội đồng (chủ nhiệm bộ môn hoặc phó chủ nhiệm bộ môn được chủ nhiệm bộ môn uỷ quyền), các uỷ viên (trợ lý công tác sinh viên, trợ lý đào tạo, giáo viên chủ nhiệm, đại diện chi Đoàn, liên chi Hội Sinh viên);
+b) Hội đồng cấp đơn vị: Chủ tịch Hội đồng (thủ trưởng đơn vị hoặc cấp phó được uỷ quyền), thường trực Hội đồng (trưởng phòng/bộ phận phụ trách Công tác sinh viên), các uỷ viên (chuyên viên phụ trách công tác sinh viên, công tác đào tạo, giáo viên chủ nhiệm, đại diện Đoàn Thanh niên Cộng sản Hồ Chí Minh, Hội Sinh viên cấp đơn vị);
+c) Thủ trưởng đơn vị xem xét và công nhận kết quả rèn luyện của từng sinh viên trên cơ sở đề nghị của Hội đồng cấp đơn vị.
 3. Kết quả rèn luyện được công bố công khai và thông báo cho sinh viên biết chậm nhất 20 ngày trước khi Thủ trưởng đơn vị đào tạo ban hành quyết định chính thức.
 
 ## Điều 27. Sử dụng kết quả rèn luyện
 1. Kết quả đánh giá rèn luyện từng học kỳ, năm học và toàn khóa học của sinh viên được lưu trong hồ sơ quản lý sinh viên của đơn vị, được sử dụng trong việc xét duyệt học bổng, xét khen thưởng - kỷ luật, xét thôi học, ngừng học, xét ưu tiên nội trú trong ký túc xá, tham gia các hoạt động giao lưu, trao đổi sinh viên quốc tế.
 2. Kết quả đánh giá rèn luyện toàn khóa học của sinh viên được lưu trong hồ sơ quản lý sinh viên, làm căn cứ để xét thi tốt nghiệp, làm khóa luận tốt nghiệp.
-3. Kết quả đánh giá rèn luyện toàn khóa học được ghi chung vào bảng điểm kết quả học tập và lưu trong hồ sơ của người học khi tốt nghiệp ra trường.
+3. Kết quả đánh giá rèn luyện toàn khóa học được ghi chung vào bảng điểm kết quả học tập của sinh viên hồ sơ của người học khi tốt nghiệp ra trường.
 4. Sinh viên đạt kết quả rèn luyện xuất sắc được đơn vị đào tạo biểu dương, khen thưởng.
 5. Sinh viên không tham gia đánh giá điểm rèn luyện tại học kỳ nào thì bị xếp kết quả rèn luyện loại kém tại học kỳ đó. Sinh viên bị xếp loại rèn luyện yếu, kém trong hai học kỳ liên tiếp thì phải tạm ngừng học ít nhất một học kỳ ở học kỳ tiếp theo và nếu bị xếp loại rèn luyện yếu, kém hai học kỳ liên tiếp lần thứ hai thì sẽ bị buộc thôi học.
 
@@ -364,23 +369,23 @@ Giáo viên chủ nhiệm, cố vấn học tập chỉ đạo họp lớp khóa
 Sinh viên có quyền khiếu nại lên thủ trưởng đơn vị nếu thấy việc đánh giá kết quả rèn luyện của mình chưa chính xác. Khi nhận được đơn khiếu nại, thủ trưởng đơn vị có trách nhiệm giải quyết, trả lời theo quy định của pháp luật về khiếu nại.
 
 # Chương VII
-KHEN THƯỞNG VÀ KỶ LUẬT
+# KHEN THƯỞNG VÀ KỶ LUẬT
 
 ## Điều 29. Nội dung và hình thức khen thưởng
 1. Khen thưởng thường xuyên, kịp thời đối với sinh viên và tập thể khóa học đạt thành tích xứng đáng để biểu dương, khen thưởng. Cụ thể:
-    a) Đạt giải trong các cuộc thi Olympic các môn học, nghiên cứu khoa học;
-    b) Đóng góp có hiệu quả trong công tác Đảng, Đoàn Thanh niên, Hội Sinh viên, trong hoạt động thanh niên xung kích, sinh viên tình nguyện, giữ gìn an ninh trật tự, các hoạt động trong lớp, khoa, trong ký túc xá, hoạt động xã hội, văn hóa, văn nghệ, thể thao;
-    c) Có thành tích trong việc thực hiện phong trào toàn dân bảo vệ an ninh tổ quốc, bảo đảm an ninh, trật tự trường học, phòng chống tội phạm, tệ nạn xã hội, dũng cảm cứu người bị nạn, chống tiêu cực, tham nhũng;
-    d) Có thành tích đặc biệt khác.
+a) Đạt giải trong các cuộc thi Olympic các môn học, nghiên cứu khoa học;
+b) Đóng góp có hiệu quả trong công tác Đảng, Đoàn Thanh niên, Hội Sinh viên, trong hoạt động thanh niên xung kích, sinh viên tình nguyện, giữ gìn an ninh trật tự, các hoạt động trong lớp, khoa, trong ký túc xá, hoạt động xã hội, văn hóa, văn nghệ, thể thao;
+c) Có thành tích trong việc thực hiện phong trào toàn dân bảo vệ an ninh tổ quốc, bảo đảm an ninh, trật tự trường học, phòng chống tội phạm, tệ nạn xã hội, dũng cảm cứu người bị nạn, chống tiêu cực, tham nhũng;
+d) Có thành tích đặc biệt khác.
 2. Việc khen thưởng toàn diện, định kỳ đối với cá nhân và tập thể lớp khóa học được tiến hành vào cuối năm học, khóa học. Cụ thể:
-    a) Đối với cá nhân:
-        Tặng danh hiệu “Sinh viên Xuất sắc” cho những cá nhân đạt kết quả học tập loại Xuất sắc và không có điểm từ F trở xuống; có điểm rèn luyện loại Xuất sắc.
-        Tặng danh hiệu “Sinh viên Giỏi” cho những cá nhân đạt kết quả học tập loại Giỏi và không có điểm từ F trở xuống; có điểm rèn luyện từ loại Tốt trở lên.
-        Tặng danh hiệu “Gương mặt trẻ tiêu biểu cấp cơ sở”, “Gương mặt trẻ tiêu biểu cấp ĐHQGHN” và tặng Bằng khen của Giám đốc ĐHQGHN cho sinh viên xuất sắc thực hiện theo Quy định hiện hành của Đại học Quốc gia Hà Nội.
-        Không xét khen thưởng đối với sinh viên bị kỷ luật hoặc có điểm kết thúc học phần trong năm học đó dưới mức trung bình.
-    b) Đối với tập thể lớp khóa học:
-        Được tặng danh hiệu “Tập thể Tiên tiến” nếu đạt các tiêu chuẩn sau: Có 25% sinh viên đạt kết quả học tập và rèn luyện loại Khá trở lên; Không có sinh viên xếp loại học tập Kém hoặc xếp loại rèn luyện Kém hoặc bị kỷ luật từ mức cảnh cáo trở lên; Tập thể đoàn kết, giúp đỡ lẫn nhau trong học tập, rèn luyện, tổ chức nhiều hoạt động thi đua và tích cực hưởng ứng phong trào thi đua trong nhà trường.
-        Được tặng danh hiệu “Tập thể Xuất sắc” nếu đạt các tiêu chuẩn của danh hiệu “Tập thể Tiên tiến” và có từ 10% sinh viên trở lên đạt danh hiệu “Sinh viên Giỏi” và có sinh viên đạt danh hiệu “Sinh viên Xuất sắc”.
+a) Đối với cá nhân:
+Tặng danh hiệu "Sinh viên Xuất sắc" cho những cá nhân đạt kết quả học tập loại Xuất sắc và không có điểm từ F trở xuống; có điểm rèn luyện loại Xuất sắc.
+Tặng danh hiệu "Sinh viên Giỏi" cho những cá nhân đạt kết quả học tập loại Giỏi và không có điểm từ F trở xuống; có điểm rèn luyện từ loại Tốt trở lên.
+Tặng danh hiệu "Gương mặt trẻ tiêu biểu cấp cơ sở", "Gương mặt trẻ tiêu biểu cấp ĐHQGHN" và tặng Bằng khen của Giám đốc ĐHQGHN cho sinh viên xuất sắc thực hiện hệ thống danh hiệu của Đại học Quốc gia Hà Nội.
+Không xét khen thưởng đối với sinh viên bị kỷ luật hoặc có điểm kết thúc học phần trong năm học đó dưới mức trung bình.
+b) Đối với tập thể lớp khóa học:
+Được tặng danh hiệu "Tập thể Tiên tiến" nếu đạt các tiêu chuẩn sau: Có 25% sinh viên đạt kết quả học tập và rèn luyện loại Khá trở lên; Không có sinh viên xếp loại học tập Kém hoặc xếp loại rèn luyện Kém hoặc bị kỷ luật từ mức cảnh cáo trở lên; Tập thể đoàn kết, giúp đỡ lẫn nhau trong học tập, rèn luyện, tổ chức nhiều hoạt động thi đua và tích cực hưởng ứng phong trào thi đua trong nhà trường.
+Được tặng danh hiệu "Tập thể Xuất sắc" nếu đạt các tiêu chuẩn của danh hiệu "Tập thể Tiên tiến" và có từ 10% sinh viên trở lên đạt danh hiệu "Sinh viên Giỏi" và có sinh viên đạt danh hiệu "Sinh viên Xuất sắc".
 3. Mức khen thưởng thường xuyên thực hiện theo quy định hiện hành của ĐHQGHN. Thủ trưởng các đơn vị quy định mức khen thưởng phù hợp với điều kiện, đặc thù của đơn vị và thông báo công khai cho sinh viên toàn đơn vị biết.
 
 ## Điều 30. Trình tự, thủ tục xét khen thưởng
@@ -395,26 +400,26 @@ Hội đồng thi đua, khen thưởng và kỷ luật sinh viên của đơn v�
 
 ## Điều 31. Hình thức kỷ luật và nội dung vi phạm
 1. Những sinh viên có hành vi vi phạm thì tuỳ theo tính chất, mức độ, hậu quả và thái độ nhận khuyết điểm, phải chịu hình thức kỷ luật, cụ thể:
-    a) Khiển trách: Áp dụng đối với sinh viên có hành vi vi phạm lần đầu nhưng ở mức độ nhẹ;
-    b) Cảnh cáo: Áp dụng đối với sinh viên đã bị khiển trách mà tái phạm hoặc vi phạm ở mức độ nhẹ nhưng hành vi vi phạm có tính chất thường xuyên hoặc mới vi phạm lần đầu nhưng mức độ tương đối nghiêm trọng;
-    c) Đình chỉ học tập có thời hạn: Áp dụng đối với những sinh viên đang trong thời gian bị cảnh cáo mà vẫn vi phạm kỷ luật hoặc vi phạm nghiêm trọng các hành vi sinh viên không được làm; sinh viên vi phạm pháp luật bị xử phạt tù nhưng cho hưởng án treo. Tùy từng trường hợp cụ thể, Thủ trưởng cơ sở giáo dục đại học căn cứ vào quy chế đào tạo để quyết định thời hạn đình chỉ học tập theo các mức: đình chỉ một học kỳ, đình chỉ một năm học hoặc đình chỉ theo thời gian sinh viên bị xử phạt tù nhưng cho hưởng án treo.
-    d) Buộc thôi học: Áp dụng đối với sinh viên đang trong thời gian bị đình chỉ học tập mà vẫn tiếp tục vi phạm kỷ luật hoặc vi phạm lần đầu nhưng có tính chất và mức độ vi phạm đặc biệt nghiêm trọng, gây ảnh hưởng xấu đến đơn vị đào tạo và xã hội; vi phạm pháp luật bị xử phạt tù giam.
+a) Khiển trách: Áp dụng đối với sinh viên có hành vi vi phạm lần đầu nhưng ở mức độ nhẹ;
+b) Cảnh cáo: Áp dụng đối với sinh viên đã bị khiển trách mà tái phạm hoặc vi phạm ở mức độ nhẹ nhưng hành vi vi phạm có tính chất thường xuyên hoặc mới vi phạm lần đầu nhưng mức độ tương đối nghiêm trọng;
+c) Đình chỉ học tập có thời hạn: Áp dụng đối với những sinh viên đang trong thời gian bị cảnh cáo mà vẫn vi phạm kỷ luật hoặc vi phạm nghiêm trọng các hành vi sinh viên không được làm; sinh viên vi phạm pháp luật bị xử phạt tù nhưng cho hưởng án treo. Tuỳ từng trường hợp cụ thể, Thủ trưởng cơ sở giáo dục đại học căn cứ vào quy chế đào tạo để quyết định thời hạn đình chỉ học tập theo các mức: đình chỉ một học kỳ, đình chỉ một năm học hoặc đình chỉ theo thời gian sinh viên bị xử phạt tù nhưng cho hưởng án treo.
+d) Buộc thôi học: Áp dụng đối với sinh viên đang trong thời gian bị đình chỉ học tập mà vẫn tiếp tục vi phạm kỷ luật hoặc vi phạm lần đầu nhưng có tính chất và mức độ vi phạm đặc biệt nghiêm trọng, gây ảnh hưởng xấu đến đơn vị đào tạo và xã hội; vi phạm pháp luật bị xử phạt tù giam.
 2. Hình thức kỷ luật của sinh viên từ cảnh cáo trở lên phải được lưu vào hồ sơ quản lý sinh viên và thông báo cho gia đình sinh viên. Trường hợp sinh viên bị kỷ luật mức đình chỉ học tập có thời hạn hoặc buộc thôi học, đơn vị đào tạo phải gửi thông báo cho địa phương và gia đình sinh viên biết để phối hợp quản lý, giáo dục.
-3. Nội dung vi phạm và khung xử lý kỷ luật thực hiện theo quy định Phụ lục kèm theo Quy chế này. Đối với trường hợp có đủ bằng chứng, căn cứ của việc vi phạm kỷ luật, thì Hội đồng kỷ luật sinh viên của đơn vị tiến hành họp xét và ra Quyết định kỷ luật sinh viên.
+3. Nội dung vi phạm và khung xử lý kỷ luật thực hiện theo quy định Phụ lục kèm theo Quy chế này. Đối với trường hợp có đủ bằng chứng, căn cứ của việc vi phạm kỷ luật, thi Hội đồng kỷ luật sinh viên của đơn vị tiến hành họp xét và ra Quyết định kỷ luật sinh viên.
 
 ## Điều 32. Trình tự, thủ tục và hồ sơ xét kỷ luật
 1. Thủ tục xét kỷ luật:
-    a) Sinh viên có hành vi vi phạm phải làm bản tự kiểm điểm và tự nhận hình thức kỷ luật. Trong trường hợp sinh viên không chấp hành làm bản tự kiểm điểm thì Hội đồng khen thưởng và kỷ luật sinh viên vẫn họp để xử lý trên cơ sở các chứng cứ thu thập được;
-    b) Chủ nhiệm lớp khóa học chủ trì họp với tập thể lớp khóa học, phân tích và đề nghị hình thức kỷ luật gửi khoa (đối với các đơn vị đào tạo thành viên) hay bộ môn (đối với đơn vị đào tạo trực thuộc) hoặc phòng/ bộ phận phụ trách Công tác sinh viên;
-    c) Khoa (đối với các đơn vị đào tạo thành viên) hay bộ môn (đối với đơn vị đào tạo trực thuộc) hoặc phòng/bộ phận phụ trách Công tác sinh viên xem xét, đề nghị Hội đồng thi đua, khen thưởng và kỷ luật sinh viên của đơn vị đào tạo;
-    d) Hội đồng thi đua, khen thưởng và kỷ luật sinh viên tổ chức họp để xét kỷ luật, thành phần bao gồm: các thành viên của Hội đồng, đại diện tập thể lớp khóa học có sinh viên vi phạm và sinh viên có hành vi vi phạm. Sinh viên vi phạm kỷ luật đã được mời mà không đến dự (nếu không có lý do chính đáng), không có bản tự kiểm điểm thì Hội đồng vẫn tiến hành họp và xét thêm khuyết điểm thiếu ý thức tổ chức kỷ luật.
-    e) Dừng xét tốt nghiệp đối với các sinh viên nếu hiệu lực của Quyết định kỷ luật sinh viên vẫn còn.
+a) Sinh viên có hành vi vi phạm phải làm bản tự kiểm điểm và tự nhận hình thức kỷ luật. Trong trường hợp sinh viên không chấp hành làm bản tự kiểm điểm thì Hội đồng khen thưởng và kỷ luật sinh viên vẫn họp để xử lý trên cơ sở các chứng cứ thu thập được;
+b) Chủ nhiệm lớp khóa học chủ trì họp với tập thể lớp khóa học, phân tích và đề nghị hình thức kỷ luật gửi khoa (đối với các đơn vị đào tạo thành viên) hay bộ môn (đối với đơn vị đào tạo trực thuộc) hoặc phòng/ bộ phận phụ trách Công tác sinh viên;
+c) Khoa (đối với các đơn vị đào tạo thành viên) hay bộ môn (đối với đơn vị đào tạo trực thuộc) hoặc phòng/bộ phận phụ trách Công tác sinh viên xem xét, đề nghị Hội đồng thi đua, khen thưởng và kỷ luật sinh viên của đơn vị đào tạo;
+d) Hội đồng thi đua, khen thưởng và kỷ luật sinh viên tổ chức họp để xét kỷ luật, thành phần bao gồm: các thành viên của Hội đồng, đại diện tập thể lớp khóa học có sinh viên vi phạm và sinh viên có hành vi vi phạm. Sinh viên vi phạm kỷ luật đã được mời mà không đến dự (nếu không có lý do chính đáng), không có bản tự kiểm điểm thì Hội đồng vẫn tiến hành họp và xét thêm khuyết điểm thiếu ý thức tổ chức kỷ luật. Hội đồng thảo luận và bỏ phiếu kín kiến nghị hình thức kỷ luật.
+e) Dừng xét tốt nghiệp đối với các sinh viên nếu hiệu lực của Quyết định kỷ luật sinh viên vẫn còn.
 2. Hồ sơ xử lý kỷ luật của sinh viên:
-    a) Bản tự kiểm điểm (nếu có);
-    b) Biên bản của tập thể lớp khóa học họp kiểm điểm sinh viên có hành vi vi phạm;
-    c) Biên bản của khoa (đối với các đơn vị đào tạo thành viên) hay bộ môn (đối với đơn vị đào tạo trực thuộc) hoặc phòng/ bộ phận phụ trách Công tác sinh viên;
-    d) Biên bản họp hội đồng khen thưởng và kỷ luật sinh viên của đơn vị đào tạo;
-    e) Các tài liệu có liên quan khác (nếu có).
+a) Bản tự kiểm điểm (nếu có);
+b) Biên bản của tập thể lớp khóa học họp kiểm điểm sinh viên có hành vi vi phạm;
+c) Biên bản của khoa (đối với các đơn vị đào tạo thành viên) hay bộ môn (đối với đơn vị đào tạo trực thuộc) hoặc phòng/ bộ phận phụ trách Công tác sinh viên;
+d) Biên bản họp Hội đồng khen thưởng và kỷ luật sinh viên của đơn vị đào tạo;
+e) Các tài liệu có liên quan khác (nếu có).
 
 ## Điều 33. Chấm dứt hiệu lực của quyết định kỷ luật
 1. Đối với sinh viên bị kỷ luật khiển trách: Sau 03 tháng kể từ ngày có quyết định kỷ luật, nếu sinh viên không tái phạm hoặc không có những vi phạm đến mức phải xử lý kỷ luật thì đương nhiên được chấm dứt hiệu lực của quyết định kỷ luật và được hưởng quyền lợi của sinh viên kể từ ngày quyết định kỷ luật chấm dứt hiệu lực.
@@ -424,11 +429,12 @@ Hội đồng thi đua, khen thưởng và kỷ luật sinh viên của đơn v�
 
 ## Điều 34. Hội đồng thi đua, khen thưởng và kỷ luật sinh viên
 1. Cơ cấu Hội đồng
-    a) Đối với các đơn vị đào tạo thành viên
-Thủ trưởng đơn vị ra quyết định thành lập Hội đồng thi đua, khen thưởng và kỷ luật sinh viên. Nhiệm kỳ của Hội đồng theo năm học. Thành phần của Hội đồng gồm Chủ tịch Hội đồng (thủ trưởng đơn vị hoặc cấp phó được uỷ quyền), Phó chủ tịch Hội đồng (Trưởng phòng Chính trị và Công tác Sinh viên), các Uỷ viên thường trực Hội đồng (đại diện lãnh đạo các phòng: Đào tạo, Thanh tra - Pháp chế cùng đại diện Đoàn Thanh niên Cộng sản Hồ Chí Minh, Hội Sinh viên), Ủy viên thư ký hội đồng (cán bộ phụ trách thi đua khen thưởng và kỷ luật sinh viên của đơn vị), các Ủy viên khác (đại diện lãnh đạo các Khoa/ Bộ môn trực thuộc, đại diện Ban cán sự lớp khóa học) tham dự khi Chủ tịch Hội đồng triệu tập.
-    b) Đối với các đơn vị đào tạo trực thuộc
-Thủ trưởng đơn vị ra quyết định thành lập Hội đồng thi đua, khen thưởng và kỷ luật sinh viên. Thành phần của Hội đồng gồm chủ tịch Hội đồng (thủ trưởng đơn vị hoặc cấp phó được uỷ quyền), thường trực Hội đồng (trưởng phòng/bộ phận phụ trách Công tác Sinh viên), các uỷ viên (trưởng phòng/ bộ phận Đào tạo, giáo viên chủ nhiệm, đại diện Đoàn Thanh niên Cộng sản Hồ Chí Minh, Hội Sinh viên).
-Hội đồng có thể mời đại diện lớp khoá học (lớp trưởng hoặc bí thư chi đoàn) và giáo viên chủ nhiệm của những lớp có sinh viên được khen thưởng hoặc bị kỷ luật. Các thành phần này được tham gia phát biểu ý kiến, đề xuất mức khen thưởng hoặc kỷ luật nhưng không được quyền biểu quyết.
+a) Đối với các đơn vị đào tạo thành viên
+Thủ trưởng đơn vị ra quyết định thành lập Hội đồng thi đua, khen thưởng và kỷ luật sinh viên. Nhiệm kỳ của Hội đồng theo năm học. Thành phần của Hội đồng gồm:
+Chủ tịch Hội đồng (thủ trưởng đơn vị hoặc cấp phó được uỷ quyền), Phó chủ tịch Hội đồng (Trưởng phòng Chính trị và Công tác Sinh viên), các Uỷ viên thường trực Hội đồng (đại diện lãnh đạo các phòng: Đào tạo, Thanh tra - Pháp chế cùng đại diện Đoàn Thanh niên Cộng sản Hồ Chí Minh, Hội Sinh viên), Uỷ viên thư ký Hội đồng (cán bộ phụ trách thi đua khen thưởng và kỷ luật sinh viên của đơn vị), các Ủy viên khác (đại diện lãnh đạo các Khoa/ Bộ môn trực thuộc, đại diện Ban cán sự lớp khóa học tham dự khi Chủ tịch Hội đồng triệu tập).
+b) Đối với các đơn vị đào tạo trực thuộc
+Thủ trưởng đơn vị ra quyết định thành lập Hội đồng thi đua, khen thưởng và kỷ luật sinh viên. Thành phần của Hội đồng gồm chủ tịch Hội đồng (thủ trưởng đơn vị hoặc cấp phó được uỷ quyền), thường trực Hội đồng (trưởng phòng/bộ phận phụ trách Công tác Sinh viên), các uỷ viên (trưởng phòng đào tạo, giáo viên chủ nhiệm, đại diện Đoàn Thanh niên Cộng sản Hồ Chí Minh, Hội Sinh viên).
+Hội đồng có thể mời đại diện lớp khóa học (lớp trưởng hoặc bí thư chi đoàn) và giáo viên chủ nhiệm của những lớp có sinh viên khen thưởng hoặc bị kỷ luật. Các thành phần này được tham gia phát biểu ý kiến, đề xuất mức khen thưởng hoặc kỷ luật nhưng không được quyền biểu quyết.
 2. Nhiệm vụ của Hội đồng
 Hội đồng thi đua, khen thưởng và kỷ luật sinh viên tư vấn giúp thủ trưởng đơn vị triển khai công tác khen thưởng, kỷ luật đối với sinh viên và chịu sự chỉ đạo trực tiếp của thủ trưởng đơn vị.
 Căn cứ vào các quy định hiện hành, trên cơ sở đề nghị của các đơn vị có liên quan, Hội đồng tiến hành xét danh sách cá nhân và tập thể sinh viên có thành tích, đề nghị thủ trưởng đơn vị khen thưởng hoặc đề nghị lên cấp trên khen thưởng; xét và đề nghị thủ trưởng đơn vị ra quyết định đối với những trường hợp vi phạm kỷ luật.
@@ -438,52 +444,59 @@ Hội đồng thi đua, khen thưởng và kỷ luật sinh viên mỗi học k�
 Cá nhân và tập thể nếu thấy các hình thức khen thưởng hoặc kỷ luật chưa thỏa đáng có quyền khiếu nại lên thủ trưởng đơn vị. Khi khiếu nại đã được thủ trưởng đơn vị xem xét và trả lời, nếu thấy vẫn chưa thỏa đáng thì có thể khiếu nại lên ĐHQGHN.
 
 # Chương VIII
-ĐIỀU KHOẢN THI HÀNH
+# ĐIỀU KHOẢN THI HÀNH
 
 ## Điều 36. Chế độ báo cáo
-1. Thủ trưởng các đơn vị đào tạo thành viên, trực thuộc có liên quan tổ chức tổng kết, đánh giá công tác sinh viên, kế hoạch công tác sinh viên năm học sau báo cáo ĐHQGHN vào cuối năm học (trước 20/7 hàng năm); gửi báo cáo đột xuất tới
+1. Thủ trưởng các đơn vị đào tạo thành viên, trực thuộc có liên quan tổ chức tổng kết, đánh giá công tác sinh viên, kế hoạch công tác sinh viên năm học sau báo cáo ĐHQGHN vào cuối năm học (trước 20/7 hàng năm); gửi báo cáo đột xuất tới ĐHQGHN khi có yêu cầu hoặc khi có các vụ việc quan trọng, đột xuất liên quan đến sinh viên để có sự chỉ đạo, phối hợp kịp thời.
+2. Ban Chính trị và Công tác Học sinh Sinh viên ĐHQGHN làm đầu mối thu nhận, tổng hợp báo cáo và tham mưu cho Giám đốc ĐHQGHN trong công tác điều hành, chỉ đạo, hướng dẫn triển khai công tác sinh viên trong toàn ĐHQGHN.
 
 ## Điều 37. Tổ chức thực hiện
 1. Quy chế này có 8 chương với 37 điều, có hiệu lực thi hành kể từ ngày ký và thay thế Quy chế Công tác sinh viên tại ĐHQGHN ban hành kèm theo Quyết định số 5248/QĐ-ĐHQGHN ngày 27 tháng 12 năm 2014 của Giám đốc ĐHQGHN.
-2. Các đơn vị cụ thể hóa và ban hành các hướng dẫn chi tiết về công tác sinh viên cho phù hợp với điều kiện thực tế của đơn vị, nhưng không được trái với Quy chế này.
+2. Các đơn vị cụ thể hóa và ban hành hướng dẫn chi tiết về công tác sinh viên cho phù hợp với điều kiện thực tế của đơn vị, nhưng không được trái với Quy chế này.
 3. Trong quá trình thực hiện Quy chế này, nếu có vướng mắc, phát sinh, các đơn vị và cá nhân có liên quan báo cáo Giám đốc ĐHQGHN (qua Ban Chính trị và Công tác Học sinh Sinh viên) xem xét, quyết định sửa đổi hoặc bổ sung cho phù hợp./.
 
-PHỤ LỤC
-MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN
-(Kèm theo Quyết định số 32/QĐ-ĐHQGHN, ngày 05/01/2017
-của Giám đốc ĐHQGHN)
+KT. GIÁM ĐỐC
+PHÓ GIÁM ĐỐC
+(Đã ký)
+Lê Quân
 
-| TT | Nội dung vi phạm | Khiển trách (Số lần vi phạm) | Cảnh cáo (Số lần vi phạm) | Đình chỉ có thời hạn (Số lần vi phạm) | Buộc thôi học (Số lần vi phạm) | Ghi chú |
-|----|------------------|------------------------------|---------------------------|---------------------------------------|---------------------------------|---------|
-| 1  | Đến muộn giờ học, giờ thực tập; nghỉ học không phép hoặc quá phép |                              |                           |                                       |                                 | Đơn vị đào tạo quy định cụ thể |
-| 2  | Mất trật tự, làm việc riêng trong giờ học, giờ thực tập và tự học |                              |                           |                                       |                                 | Đơn vị đào tạo quy định cụ thể |
-| 3  | Vô lễ với thầy, cô giáo và CBVC nhà trường |                              |                           |                                       |                                 | Tùy theo mức độ, xử lý từ khiển trách đến buộc thôi học |
-| 4  | Học thay hoặc nhờ người khác học thay |                              |                           |                                       |                                 | Tùy theo mức độ, xử lý từ khiển trách đến buộc thôi học |
-| 5  | Sử dụng văn bằng, chứng chỉ không hợp lệ/giả mạo để xét đạt chuẩn đầu ra về ngoại ngữ | Lần 1                        |                           | Lần 2                                 |                                 | Trường hợp nghiêm trọng chuyển tới cơ quan có thẩm quyền xem xét và truy tố trước pháp luật |
-| 6  | - Giả mạo chữ ký người khác để giải quyết công việc cá nhân <br> - Khai man hồ sơ, lý lịch để hưởng các loại học bổng hoặc sử dụng giấy tờ giả để hưởng chế độ miễn giảm học phí theo quy định của Nhà nước | Lần 1                        |                           | Lần 2                                 |                                 | Trường hợp nghiêm trọng chuyển tới cơ quan có thẩm quyền xem xét và truy tố trước pháp luật |
-| 7  | Mượn hoặc cho người khác mượn thẻ sinh viên |                              |                           |                                       |                                 | Đơn vị đào tạo quy định cụ thể |
-| 8  | Không chấp hành các quy định của đơn vị đào tạo (đăng ký thông tin sinh viên trên cổng thông tin, nộp bổ sung, hoàn thiện hồ sơ trong quá trình học, đăng ký tạm trú, tạm vắng...) |                              |                           |                                       |                                 | Đơn vị đào tạo quy định cụ thể |
-| 9  | Tự ý bỏ học, không đăng ký môn học |                              |                           |                                       |                                 | Đơn vị đào tạo quy định cụ thể |
-| 10 | Thi, kiểm tra thay, hoặc nhờ thi, kiểm tra thay; làm thay, nhờ làm hoặc sao chép tiểu luận, đồ án, khóa luận tốt nghiệp | Lần 1                        | Lần 2                     |                                       |                                 | Tùy theo mức độ có thể giao cho cơ quan chức năng xử lý theo quy định của pháp luật <br> Xử lý theo quy chế đào tạo tại phòng thi |
-| 11 | Tổ chức học, thi, kiểm tra thay; tổ chức làm thay tiểu luận, đồ án, khóa luận tốt nghiệp | Lần 1                        |                           |                                       |                                 | Xử lý theo quy chế đào tạo tại phòng thi |
-| 12 | Mang tài liệu vào phòng thi, đưa đề thi ra ngoài nhờ làm thay, ném tài liệu vào phòng thi, vẽ bậy vào bài thi; bỏ thi không có lý do chính đáng và các hình thức gian lận khác trong học tập, thi, kiểm tra |                              |                           |                                       |                                 | Tùy theo mức độ, xử lý từ nhắc nhở, khiển trách đến buộc thôi học |
-| 13 | Cố tình chậm nộp hoặc không nộp học phí, bảo hiểm y tế theo quy định của nhà trường mà không có lý do chính đáng. |                              |                           |                                       |                                 | Tùy theo mức độ, xử lý từ nhắc nhở, khiển trách đến buộc thôi học |
-| 14 | Làm hư hỏng tài sản trong KTX và các tài sản khác của cơ sở đào tạo |                              |                           |                                       |                                 | Tùy mức độ xử lý từ khiển trách đến buộc thôi học và phải bồi thường thiệt hại |
-| 15 | Uống rượu, bia trong giờ học; say rượu, bia khi đến lớp. | Lần 1                        | Lần 2                     | Lần 3                                 | Lần 4                           | Từ lần 3 trở lên, xử lý từ khiển trách đến cảnh cáo |
-| 16 | Hút thuốc lá trong giờ học, phòng họp, phòng thí nghiệm và địa điểm cấm hút thuốc theo quy định |                              |                           |                                       |                                 | Đơn vị quy định cụ thể |
-| 17 | Mang tài liệu ra khỏi phòng đọc của Trung tâm Thông tin Thư viện mà không làm thủ tục mượn |                              |                           |                                       |                                 | Đơn vị quy định cụ thể |
-| 18 | Đánh bạc dưới mọi hình thức | Lần 1                        | Lần 2                     | Lần 3                                 | Lần 4                           | Tùy mức độ có thể giao cho cơ quan chức năng xử lý theo quy định pháp luật |
-| 19 | Tàng trữ, lưu hành, truy cập, sử dụng sản phẩm văn hóa đồi trụy hoặc tham gia các hoạt động mê tín dị đoan, hoạt động tôn giáo trái phép | Lần 1                        | Lần 2                     | Lần 3                                 | Lần 4                           | Nếu nghiêm trọng giao cho cơ quan chức năng xử lý theo quy định của pháp luật |
-| 20 | Buôn bán, vận chuyển, tàng trữ, lôi kéo người khác sử dụng ma túy | Lần 1                        |                           |                                       |                                 | Giao cho cơ quan chức năng xử lý theo quy định của pháp luật |
-| 21 | Sử dụng ma túy |                              |                           |                                       |                                 | Xử lý theo quy định về xử lý sinh viên liên quan đến ma túy. |
-| 22 | Chứa chấp, môi giới mại dâm | Lần 1                        |                           |                                       |                                 | Giao cho cơ quan chức năng xử lý theo quy định của pháp luật |
-| 23 | Lấy cắp tài sản, chứa chấp, tiêu thụ tài sản do lấy cắp mà có |                              |                           |                                       |                                 | Tùy theo mức độ xử lý từ cảnh cáo đến buộc thôi học. Nếu nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của pháp luật |
-| 24 | Chứa chấp, buôn bán vũ khí, chất nổ và hàng cấm theo quy định của Nhà nước. | Lần 1                        |                           |                                       |                                 | Giao cho cơ quan chức năng xử lý theo quy định của pháp luật |
-| 25 | Đưa phần tử xấu vào trong trường, KTX gây ảnh hưởng xấu đến an ninh, trật tự trong nhà trường. |                              |                           |                                       |                                 | Tùy theo mức độ xử lý từ cảnh cáo đến buộc thôi học |
-| 26 | Đánh nhau, tổ chức hoặc tham gia tổ chức đánh nhau | Lần 1                        | Lần 2                     | Lần 3                                 |                                 | Nếu nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của pháp luật |
-| 27 | Kích động, lôi kéo người khác biểu tình, viết truyền đơn, áp phích trái pháp luật | Lần 1                        | Lần 2                     |                                       |                                 | Nếu nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của pháp luật |
-| 28 | Tham gia biểu tình, tụ tập đông người, khiếu kiện trái quy định của pháp luật | Lần 1                        | Lần 2                     | Lần 3                                 | Lần 4                           | Nếu nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của pháp luật |
-| 29 | Đăng tải, bình luận, chia sẻ bài viết, hình ảnh có nội dung dung tục, bạo lực, đồi trụy, xâm phạm an ninh quốc gia, chống phá Đảng và Nhà nước, xuyên tạc, vu khống, xúc phạm uy tín của tổ chức, danh dự và nhân phẩm của cá nhân trên mạng Internet. |                              |                           |                                       |                                 | Tùy theo mức độ, xử lý từ khiển trách đến buộc thôi học. Nếu nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của pháp luật |
-| 30 | Có hành động quấy rối, dâm ô, xâm phạm nhân phẩm, đời tư của người khác |                              |                           |                                       |                                 | Tùy theo mức độ, xử lý từ khiển trách đến buộc thôi học. Nếu nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của pháp luật. |
-| 31 | Vi phạm các quy định về an toàn giao thông |                              |                           |                                       |                                 | Tùy theo mức độ, xử lý từ khiển trách đến buộc thôi học |
-| 32 | Các vi phạm khác |                              |                           |                                       |                                 | Tùy theo mức độ, đơn vị đào tạo xem xét, nhắc nhở, phê bình, trừ điểm rèn luyện hoặc xử lý kỷ luật từ khiển trách đến buộc thôi học. |
+---
+
+# PHỤ LỤC
+# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN
+(Kèm theo Quyết định số 32/QĐ-ĐHQGHN, ngày 05/01/2017 của Giám đốc ĐHQGHN)
+
+| TT | Nội dung vi phạm | Khiển trách | Cảnh cáo | Đình chỉ có thời hạn | Buộc thôi học | Ghi chú |
+| :--- | :--- | :---: | :---: | :---: | :---: | :--- |
+| 1 | Đến muộn giờ học, giờ thực tập; nghỉ học không phép hoặc quá phép | | | | | Đơn vị đào tạo quy định cụ thể |
+| 2 | Mất trật tự, làm việc riêng trong giờ học, giờ thực tập và tự học | | | | | Đơn vị đào tạo quy định cụ thể |
+| 3 | Vô lễ với thầy, cô giáo và CBVC nhà trường | | | | | Tùy theo mức độ, xử lý từ khiển trách đến buộc thôi học |
+| 4 | Học thay hoặc nhờ người khác học thay | | | | | Tùy theo mức độ, xử lý từ khiển trách đến buộc thôi học |
+| 5 | Sử dụng văn bằng, chứng chỉ không hợp lệ/giả mạo để xét đạt chuẩn đầu ra về ngoại ngữ | | | | Lần 1 | Trường hợp nghiêm trọng chuyển tới cơ quan có thẩm quyền xem xét và truy tố trước pháp luật |
+| 6 | Giả mạo chữ ký người khác để giải quyết công việc cá nhân. Khai man hồ sơ, lý lịch để hưởng các loại học bổng hoặc sử dụng giấy tờ giả để hưởng chế độ miễn giảm học phí theo quy định của Nhà nước | | | Lần 1 | Lần 2 | Trường hợp nghiêm trọng chuyển tới cơ quan có thẩm quyền xem xét và truy tố trước pháp luật |
+| 7 | Mượn hoặc cho người khác mượn thẻ sinh viên | | | | | Đơn vị đào tạo quy định cụ thể |
+| 8 | Không chấp hành các quy định của đơn vị đào tạo (đăng ký thông tin sinh viên trên cổng thông tin, nộp bổ sung, hoàn thiện hồ sơ trong quá trình học, đăng ký tạm trú, tạm vắng...) | | | | | Đơn vị đào tạo quy định cụ thể |
+| 9 | Tự ý bỏ học, không đăng ký môn học | | | | | Đơn vị đào tạo quy định cụ thể |
+| 10 | Thi, kiểm tra thay; hoặc nhờ thi, kiểm tra thay; làm thay, nhờ làm hộ sao chép tiểu luận, đồ án, khóa luận tốt nghiệp | | Lần 1 | Lần 2 | | |
+| 11 | Tổ chức học, thi, kiểm tra thay; tổ chức làm thay tiểu luận, đồ án, khóa luận tốt nghiệp | | | Lần 1 | | Tùy theo mức độ có thể giao cho cơ quan chức năng xử lý theo quy định của pháp luật |
+| 12 | Mang tài liệu vào phòng thi, đưa đề thi ra ngoài nhờ làm thay, ném tài liệu vào phòng thi, vẽ bậy vào bài thi; bỏ thi không có lý do chính đáng và các hình thức gian lận khác trong học tập, thi, kiểm tra | | | | | Xử lý theo quy chế đào tạo tại phòng thi |
+| 13 | Cố tình chậm nộp hoặc không nộp học phí, bảo hiểm y tế theo quy định của nhà trường mà không có lý do chính đáng | | | | | Tùy theo mức độ, xử lý từ nhắc nhở, khiển trách đến buộc thôi học |
+| 14 | Làm hư hỏng tài sản trong KTX và các tài sản khác của cơ sở đào tạo | | | | | Tùy mức độ xử lý từ khiển trách đến buộc thôi học và phải bồi thường thiệt hại |
+| 15 | Uống rượu, bia trong giờ học; say rượu, bia khi đến lớp | Lần 1 | Lần 2 | Lần 3 | Lần 4 | |
+| 16 | Hút thuốc lá trong giờ học, phòng học, phòng thí nghiệm và địa điểm cấm hút thuốc theo quy định | | | | | Từ lần 3 trở lên, xử lý từ khiển trách đến cảnh cáo |
+| 17 | Mang tài liệu ra khỏi phòng đọc của Trung tâm Thông tin Thư viện mà không làm thủ tục mượn | | | | | Đơn vị quy định cụ thể |
+| 18 | Đánh bạc dưới mọi hình thức | Lần 1 | Lần 2 | Lần 3 | Lần 4 | Tùy mức độ có thể giao cho cơ quan chức năng xử lý theo quy định pháp luật |
+| 19 | Tàng trữ, lưu hành, truy cập, sử dụng sản phẩm văn hóa đồi trụy hoặc tham gia các hoạt động mê tín dị đoan, hoạt động tôn giáo trái phép | Lần 1 | Lần 2 | Lần 3 | Lần 4 | Nếu nghiêm trọng giao cho cơ quan chức năng xử lý theo quy định của pháp luật |
+| 20 | Buôn bán, vận chuyển, tàng trữ, lôi kéo người khác sử dụng ma túy | | | | Lần 1 | Giao cho cơ quan chức năng xử lý theo quy định của pháp luật |
+| 21 | Sử dụng ma túy | | | | | Xử lý theo quy định về xử lý sinh viên liên quan đến ma túy |
+| 22 | Chứa chấp, môi giới mại dâm | | | | Lần 1 | Giao cho cơ quan chức năng xử lý theo quy định của pháp luật |
+| 23 | Lấy cắp tài sản, chứa chấp, tiêu thụ tài sản do lấy cắp mà có | | | | | Tùy theo mức độ xử lý từ cảnh cáo đến buộc thôi học. Nếu nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của pháp luật |
+| 24 | Chứa chấp, buôn bán vũ khí, chất nổ và hàng cấm theo quy định của Nhà nước | | | Lần 1 | | Giao cho cơ quan chức năng xử lý theo quy định của pháp luật |
+| 25 | Đưa phần tử xấu vào trong trường, KTX gây ảnh hưởng xấu đến an ninh, trật tự trong nhà trường | | | | | Tùy theo mức độ xử lý từ cảnh cáo đến buộc thôi học |
+| 26 | Đánh nhau, tổ chức hoặc tham gia tổ chức đánh nhau | | Lần 1 | Lần 2 | Lần 3 | Nếu nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của pháp luật |
+| 27 | Kích động, lôi kéo người khác biểu tình, viết truyền đơn, áp phích trái pháp luật | | Lần 1 | Lần 2 | | Nếu nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của pháp luật |
+| 28 | Tham gia biểu tình, tụ tập đông người, khiếu kiện trái quy định của pháp luật | Lần 1 | Lần 2 | Lần 3 | Lần 4 | Nếu nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của pháp luật |
+| 29 | Đăng tải, bình luận, chia sẻ bài viết, hình ảnh có nội dung dung tục, bạo lực, đồi trụy, xâm phạm an ninh quốc gia, chống phá Đảng và Nhà nước, xuyên tạc, vu khống, xúc phạm uy tín của tổ chức, danh dự và nhân phẩm của cá nhân trên mạng Internet | | | | | Tùy theo mức độ, xử lý từ khiển trách đến buộc thôi học. Nếu nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của pháp luật |
+| 30 | Có hành động quấy rối, dâm ô, xâm phạm nhân phẩm, đời tư của người khác | | | | | Tùy theo mức độ, xử lý từ khiển trách đến buộc thôi học. Nếu nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của pháp luật |
+| 31 | Vi phạm các quy định về an toàn giao thông | | | | | Tùy theo mức độ, xử lý từ khiển trách đến buộc thôi học |
+| 32 | Các vi phạm khác | | | | | Tùy theo mức độ, đơn vị đào tạo xem xét, nhắc nhở, phê bình, trừ điểm rèn luyện hoặc xử lý kỷ luật từ khiển trách đến buộc thôi học |

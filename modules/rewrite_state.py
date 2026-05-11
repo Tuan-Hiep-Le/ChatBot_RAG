@@ -51,11 +51,13 @@ def save_chat_to_file(user_query, rewritten_query,bot_response,client,LOG_DIR):
         st.session_state.has_real_title = False
     print("Has Real Title 1: ", st.session_state.has_real_title)
 
+    just_renamed = False
     if not st.session_state.has_real_title and config.get("filter") is not None: #Nếu chưa có tên xịn và filter không phải None thì tạo tên xịn
         clean_title = re.sub(r'[^\w\s]', '', user_query)[:30].strip().replace(" ", "_") # Làm sạch câu hỏi để tạo tên file, giữ tối đa 30 ký tự
         print("Clean Title: ", clean_title)
         st.session_state.chat_title = f"{datetime.now().strftime('%m%d')}_{clean_title}" # Tạo tên file dựa trên ngày và câu hỏi đã làm sạch
         st.session_state.has_real_title = True # Đánh dấu: Đã có tên xịn, không đổi nữa
+        just_renamed = True
     
     print("Has Real Title 2: ", st.session_state.has_real_title)
 
@@ -70,7 +72,7 @@ def save_chat_to_file(user_query, rewritten_query,bot_response,client,LOG_DIR):
         "rewritten_query": rewritten_query,
         "user": user_query,
         "bot": bot_response,
-        "filter": config.get("filter")  # Lưu thêm thông tin filter để dễ dàng phân loại sau này
+        "filter": config.get("filter")  
     }
 
     history = []
@@ -86,6 +88,7 @@ def save_chat_to_file(user_query, rewritten_query,bot_response,client,LOG_DIR):
     with open(file_path, "w", encoding="utf-8") as f:
         json.dump(history, f, ensure_ascii=False, indent=4)
     
+    return just_renamed
      
 def select_history_chat(LOG_DIR):
 
