@@ -66,6 +66,7 @@ YÊU CẦU KỸ THUẬT:
 - Bạn phải sử dụng chính xác 100% các tên trường mục I, II.
 - Phần Bảng (Structured): Trích xuất chính xác 100% danh mục môn học ở mục III.2. Đây là dữ liệu dùng cho tra cứu mã học phần và tín chỉ.
 - Trong mỗi ô 'Học phần', thường có cả tiếng Việt và tiếng Anh (dòng trên/dòng dưới). Bạn phải trích xuất cả hai và tách tên tiếng Anh ra trường 'ten_hp_en'.
+- Với phần khối kiến thức, hãy phân tích tiêu đề của nhóm hoặc ghi chú trong bảng để xác định định mức tín chỉ của khối kiến thức đó và ghi theo kiểu "tên khối kiến thức (định mức)".
 - Chỉ trả về mã JSON nguyên khối, không giải thích gì thêm.
 """
 
