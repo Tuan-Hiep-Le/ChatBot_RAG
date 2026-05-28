@@ -8,7 +8,21 @@ import uuid
 import re
 import os
 from modules.router import get_retrieval_config_hybrid
+
+try:
+    from google.genai import errors as genai_errors
+except Exception:
+    genai_errors = None
+
 load_dotenv()
+
+def _is_quota_error(exc):
+    if exc is None:
+        return False
+    if genai_errors is not None and isinstance(exc, getattr(genai_errors, "ClientError", Exception)):
+        return getattr(exc, "status", "").upper() == "RESOURCE_EXHAUSTED"
+    text = str(exc).lower()
+    return any(token in text for token in ["quota", "resource_exhausted", "429", "free_tier_requests"])
 
 # --- BƯỚC 1: KHỞI TẠO SESSION STATE ---
 
@@ -28,7 +42,7 @@ def rewrite_query_with_context(user_query, chat_history, client,model_name):
 
     prompt = f"""
     Dựa trên lịch sử trò chuyện và câu hỏi mới của sinh viên, hãy viết lại câu hỏi đó thành một câu hoàn chỉnh, 
-    chứa đầy đủ tên ngành học hoặc khối kiến thức nếu chúng đã được nhắc đến ở trên.
+    chứa đầy đủ tên ngành học hoặc khối kiến thức nếu chúng đã ++được nhắc đến ở trên.
     
     Lịch sử:
     {history_text}
@@ -38,8 +52,14 @@ def rewrite_query_with_context(user_query, chat_history, client,model_name):
     Chỉ trả về câu hỏi đã viết lại, không giải thích gì thêm.
     """
     
-    response = client.models.generate_content(model=model_name, contents=prompt)
-    return response.text.strip()
+    try:
+        response = client.models.generate_content(model=model_name, contents=prompt)
+        return response.text.strip()
+    except Exception as e:
+        if _is_quota_error(e):
+            raise
+        print(f"Lỗi rewrite query: {e}")
+        return user_query
 
 
 

@@ -1,10 +1,23 @@
 from dotenv import load_dotenv
 import os
 
+try:
+    from google.genai import errors as genai_errors
+except Exception:
+    genai_errors = None
+
 load_dotenv()
 
 API_KEY = os.getenv("GOOGLE_API_KEY")
 MODEL_NAME = os.getenv("MODEL_NAME")
+
+def _is_quota_error(exc):
+    if exc is None:
+        return False
+    if genai_errors is not None and isinstance(exc, getattr(genai_errors, "ClientError", Exception)):
+        return getattr(exc, "status", "").upper() == "RESOURCE_EXHAUSTED"
+    text = str(exc).lower()
+    return any(token in text for token in ["quota", "resource_exhausted", "429", "free_tier_requests"])
 
 def get_hybrid_intent(user_query, client):
     query_lower = user_query.lower()
@@ -36,7 +49,9 @@ def get_hybrid_intent(user_query, client):
         response = client.models.generate_content(model=MODEL_NAME, contents=prompt)
         intent = response.text.strip().upper()
         return intent if intent in ["MAJOR_TOTAL", "MAJOR_SUBJECT", "MAJOR_CAREER", "POLICY", "GENERAL"] else "POLICY"
-    except:
+    except Exception as e:
+        if _is_quota_error(e):
+            raise
         return "POLICY"
 
 def get_retrieval_config_hybrid(user_query, client):

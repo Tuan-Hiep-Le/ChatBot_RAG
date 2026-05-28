@@ -2,13 +2,26 @@ from dotenv import load_dotenv
 from modules.router import get_retrieval_config_hybrid
 import os
 
+try:
+    from google.genai import errors as genai_errors
+except Exception:
+    genai_errors = None
+
 load_dotenv()
 
 API_KEY = os.getenv("GOOGLE_API_KEY")
 MODEL_NAME = os.getenv("MODEL_NAME")
 
-    
 
+def _is_quota_error(exc):
+    if exc is None:
+        return False
+    if genai_errors is not None and isinstance(exc, getattr(genai_errors, "ClientError", Exception)):
+        return getattr(exc, "status", "").upper() == "RESOURCE_EXHAUSTED"
+    text = str(exc).lower()
+    return any(token in text for token in ["quota", "resource_exhausted", "429", "free_tier_requests"])
+
+    
 def rag_pipeline(user_query, collection, client):
     """
     Pipeline RAG tối ưu:
@@ -126,6 +139,7 @@ Lưu ý:
 3. Nếu không có thông tin, hãy trả lời: "Tôi không tìm thấy thông tin cụ thể trong tài liệu quy chế.
 4. Nếu câu hỏi mang tính khái quát, hãy tóm tắt ý chính.
 5. Nếu sinh viên chào hỏi, hãy trả lời một cách thân thiện mà không cần trích ra quy chế.
+6. Khi nêu điều kiện tiên quyết của một học phần, hãy nêu cả tên môn học và mã học phần (ví dụ: Giải tích 2 (MAT2502)) nếu có thông tin trong nội dung cung cấp.
 
 
 Nội dung quy chế:
@@ -161,7 +175,15 @@ Câu hỏi của sinh viên: {user_query}
         # Làm sạch chuỗi trả về để đảm bảo chỉ lấy phần JSON
         return response.text.strip()
     except Exception as e:
-        return {"error": f"Lỗi xử lý dữ liệu: {str(e)}", "raw_response": response.text if 'response' in locals() else ""}
+        if _is_quota_error(e):
+            return "Hết quota"
+        error_str = str(e)
+        if "503" in error_str:
+            return "Lưu lượng truy cập máy chủ quá nhiều. Vui lòng thử lại"
+        elif "209" in error_str or "quota" in error_str.lower():
+            return "Hết quota"
+        else:
+            return f"Lỗi xử lý dữ liệu: {error_str}"
 
 def rag_answer(user_query, collection, client):
     try:
