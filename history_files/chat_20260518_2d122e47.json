@@ -1,0 +1,34 @@
+[
+    {
+        "timestamp": "2026-05-18T22:05:22.708962",
+        "chat_title": "0518_Cuoc_tro_chuyen",
+        "rewritten_query": "xin chào",
+        "user": "xin chào",
+        "bot": "Chào bạn! Rất vui được hỗ trợ bạn. Tôi là trợ lý tư vấn quy chế đào tạo, bạn có thắc mắc gì về các quy định liên quan đến ngoại ngữ hay các vấn đề đào tạo khác không? Hãy đặt câu hỏi để tôi có thể giúp bạn nhé!",
+        "filter": null
+    },
+    {
+        "timestamp": "2026-05-18T22:05:56.729232",
+        "chat_title": "0518_ngành_khoa_học_máy_tính_có_bao",
+        "rewritten_query": "Ngành Khoa học máy tính có tổng cộng bao nhiêu tín chỉ?",
+        "user": "ngành khoa học máy tính có bao nhiêu tín chỉ",
+        "bot": "Chào bạn! Rất vui được hỗ trợ bạn tìm hiểu về quy chế đào tạo của ngành Khoa học máy tính và thông tin.\n\nDựa trên nội dung quy chế bạn cung cấp, tổng số tín chỉ của ngành này như sau:\n\n*   **Tổng số tín chỉ:** 129 tín chỉ.\n*   **Lưu ý:** Con số này chưa bao gồm các học phần: Giáo dục thể chất, Giáo dục quốc phòng - an ninh và các kỹ năng bổ trợ.\n\nNếu bạn cần tìm hiểu chi tiết hơn về số tín chỉ của từng khối kiến thức cụ thể, đừng ngần ngại đặt câu hỏi nhé!",
+        "filter": "tong_quan_tin_chi"
+    },
+    {
+        "timestamp": "2026-05-18T22:06:26.594025",
+        "chat_title": "0518_ngành_khoa_học_máy_tính_có_bao",
+        "rewritten_query": "Ngành Khoa học máy tính yêu cầu chuẩn đầu ra là gì?",
+        "user": "ngành này yêu cầu đầu ra là gì",
+        "bot": "Chào bạn, dựa trên quy chế của ngành **Khoa học máy tính và thông tin**, tôi xin tóm tắt các chuẩn đầu ra mà sinh viên cần đạt được như sau:\n\n### 1. Chuẩn đầu ra về Kiến thức (PK)\n*   **Kiến thức đại cương (PK1):** Vận dụng kiến thức về khoa học xã hội, chính trị, pháp luật, văn hóa, quốc phòng - an ninh, khoa học trái đất và sự sống vào nghề nghiệp và đời sống.\n*   **Phát triển phần mềm (PK2):** Thiết kế, cài đặt và kiểm thử phần mềm ứng dụng; sử dụng kiến thức về lập trình, hệ điều hành, kiến trúc máy tính và mạng máy tính.\n*   **Hệ cơ sở dữ liệu (PK3):** Thiết kế, tổ chức và quản trị các hệ cơ sở dữ liệu dựa trên kiến thức toán học và lập trình.\n*   **Trí tuệ nhân tạo và Xử lý thông tin (PK4):** Mô hình hóa, thiết kế và tối ưu hóa các giải pháp xử lý thông tin, đặc biệt là trong lĩnh vực trí tuệ nhân tạo, học máy và khai phá dữ liệu.\n*   **An toàn thông tin (PK5):** Vận dụng kiến thức toán học và tổ chức máy tính để bảo đảm an toàn thông tin.\n*   **Quản lý và Nghiên cứu (PK6):** Lập kế hoạch, giám sát xây dựng hệ thống thông tin và thực hiện các hoạt động nghiên cứu phát triển khoa học công nghệ.\n\n### 2. Chuẩn đầu ra về Kỹ năng (PS)\n*   **Kỹ năng chuyên môn (PS4):** Phát hiện, phân tích và tối ưu hóa giải pháp cho các bài toán thực tế trong Công nghệ phần mềm; tổ chức xử lý thông tin và phát hiện tri thức từ kho dữ liệu lớn.\n*   **Kỹ năng thực hành:** Có khả năng thích ứng với môi trường làm việc, ứng dụng các thành tựu khoa học tiên tiến vào thực tiễn.\n*   **Kỹ năng Ngoại ngữ:** Đạt trình độ Tiếng Anh tối thiểu **bậc 3** theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam; có khả năng giao tiếp và sử dụng tiếng Anh chuyên ngành.\n\n### 3. Năng lực tự chủ và chịu trách nhiệm\n*   Có khả năng làm việc độc lập và làm việc nhóm hiệu quả.\n*   Sáng tạo trong học tập và nghiên cứu, sẵn sàng chia sẻ kiến thức và hỗ trợ cộng đồng.\n*   Tuân thủ đạo đức xã hội và đạo đức nghề nghiệp, chịu trách nhiệm cá nhân trước tập thể.\n\nNếu bạn cần tìm hiểu kỹ hơn về một học phần cụ thể nào đó, đừng ngần ngại đặt câu hỏi nhé!",
+        "filter": "quy_che_van_ban"
+    },
+    {
+        "timestamp": "2026-05-18T22:06:47.608687",
+        "chat_title": "0518_ngành_khoa_học_máy_tính_có_bao",
+        "rewritten_query": "Yêu cầu chuẩn đầu ra về ngoại ngữ của ngành Khoa học máy tính và thông tin là gì?",
+        "user": "đầu ra ngoại ngữ của ngành này là gì",
+        "bot": "Tôi không tìm thấy thông tin liên quan trong cơ sở dữ liệu.",
+        "filter": "quy_che_chung"
+    }
+]

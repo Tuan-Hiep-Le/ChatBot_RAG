@@ -1,0 +1,18 @@
+[
+    {
+        "timestamp": "2026-05-14T08:58:33.696258",
+        "chat_title": "0514_Liệt_kê_tất_cả_môn_học_của_ngà",
+        "rewritten_query": "Liệt kê tất cả môn học của ngành khoa học máy tính cho tôi",
+        "user": "Liệt kê tất cả môn học của ngành khoa học máy tính cho tôi",
+        "bot": "Chào bạn, dưới đây là danh sách các môn học của ngành Khoa học máy tính và thông tin được trích xuất từ tài liệu quy chế mà bạn đã cung cấp:\n\n*   **Chủ nghĩa xã hội khoa học (PHI1002)**\n    *   Số tín chỉ: 2\n    *   Điều kiện tiên quyết: PHI1006\n*   **Xác suất - Thống kê (MAT2323)**\n    *   Số tín chỉ: 4\n    *   Điều kiện tiên quyết: MAT2502\n*   **Nhập môn Internet kết nối vạn vật (HUS1022)**\n    *   Số tín chỉ: 2\n    *   Điều kiện tiên quyết: Không có\n*   **Tư tưởng Hồ Chí Minh (POL1001)**\n    *   Số tín chỉ: 2\n    *   Điều kiện tiên quyết: Không có\n*   **Toán rời rạc (MAT3500)**\n    *   Số tín chỉ: 4\n    *   Điều kiện tiên quyết: Không có\n*   **Thiết kế và đánh giá thuật toán (MAT3552E)**\n    *   Số tín chỉ: 3\n    *   Điều kiện tiên quyết: MAT3514\n*   **Lịch sử Đảng Cộng sản Việt Nam (HIS1001)**\n    *   Số tín chỉ: 2\n    *   Điều kiện tiên quyết: Không có\n*   **Xây dựng hệ thống nhúng (MAT1208)**\n    *   Số tín chỉ: 2\n    *   Điều kiện tiên quyết: MAT1202 hoặc MAT3505\n*   **Nhập môn an toàn máy tính (MAT3373E)**\n    *   Số tín chỉ: 3\n    *   Điều kiện tiên quyết: MAT2505\n*   **Cơ sở văn hóa Việt Nam (HIS1056)**\n    *   Số tín chỉ: 3\n    *   Điều kiện tiên quyết: Không có\n\nHy vọng thông tin này giúp ích cho lộ trình học tập của bạn!",
+        "filter": "hoc_phan_dao_tao"
+    },
+    {
+        "timestamp": "2026-05-14T08:59:33.206320",
+        "chat_title": "0514_Liệt_kê_tất_cả_môn_học_của_ngà",
+        "rewritten_query": "Hãy liệt kê tất cả các học phần thuộc ngành Khoa học máy tính và thông tin.",
+        "user": "gọi ra tất cả học phần thuộc ngành khoa họ máy tính và thông tin",
+        "bot": "Chào em! Dưới đây là danh sách các học phần thuộc ngành **Khoa học máy tính và thông tin** được tổng hợp từ tài liệu quy chế mà em cung cấp:\n\n*   **Chủ nghĩa xã hội khoa học (PHI1002)**\n    *   Số tín chỉ: 2\n    *   Điều kiện tiên quyết: PHI1006\n*   **Nhập môn Internet kết nối vạn vật (HUS1022)**\n    *   Số tín chỉ: 2\n    *   Điều kiện tiên quyết: Không có\n*   **Xác suất - Thống kê (MAT2323)**\n    *   Số tín chỉ: 4\n    *   Điều kiện tiên quyết: MAT2502\n*   **Tư tưởng Hồ Chí Minh (POL1001)**\n    *   Số tín chỉ: 2\n    *   Điều kiện tiên quyết: Không có\n*   **Giáo dục thể chất (PES1000)**\n    *   Số tín chỉ: 4\n    *   Điều kiện tiên quyết: Không có\n*   **Thiết kế và đánh giá thuật toán (MAT3552E)**\n    *   Số tín chỉ: 3\n    *   Điều kiện tiên quyết: MAT3514\n*   **Lịch sử Đảng Cộng sản Việt Nam (HIS1001)**\n    *   Số tín chỉ: 2\n    *   Điều kiện tiên quyết: Không có\n*   **Một số vấn đề chọn lọc về Trí tuệ nhân tạo (MAT3377)**\n    *   Số tín chỉ: 3\n    *   Điều kiện tiên quyết: MAT1206E\n*   **Tìm kiếm thông tin (MAT3535)**\n    *   Số tín chỉ: 3\n    *   Điều kiện tiên quyết: MAT3514 hoặc Xác suất - Thống kê (MAT2323)\n*   **Nhập môn phân tích dữ liệu (HUS1023)**\n    *   Số tín chỉ: 2\n    *   Điều kiện tiên quyết: Không có\n\nHy vọng danh sách này sẽ giúp em trong việc lập kế hoạch học tập! Nếu cần thêm thông tin gì khác, đừng ngần ngại đặt câu hỏi nhé.",
+        "filter": "hoc_phan_dao_tao"
+    }
+]

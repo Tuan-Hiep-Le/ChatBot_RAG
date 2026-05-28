@@ -1,0 +1,58 @@
+[
+    {
+        "timestamp": "2026-05-11T16:02:13.307936",
+        "chat_title": "0511_Cuoc_tro_chuyen",
+        "rewritten_query": "xin chào ",
+        "user": "xin chào ",
+        "bot": "Xin chào! Rất vui được hỗ trợ bạn.\n\nTôi là trợ lý tư vấn quy chế đào tạo của trường. Bạn có thắc mắc hay cần tìm hiểu thông tin gì về quy chế ngoại ngữ hoặc các vấn đề liên quan đến bài thi VSTEP không? Hãy đặt câu hỏi, tôi sẽ giải đáp giúp bạn.",
+        "filter": null
+    },
+    {
+        "timestamp": "2026-05-11T16:03:22.984844",
+        "chat_title": "0511_tổng_quan_về_ngành_khoa_học_má",
+        "rewritten_query": "Hãy cho tôi biết thông tin tổng quan về ngành khoa học máy tính.",
+        "user": "tổng quan về ngành khoa học máy tính",
+        "bot": "Chào bạn! Dưới đây là thông tin tổng quan về khung chương trình đào tạo ngành **Khoa học máy tính và thông tin** dựa trên quy chế của trường:\n\n**1. Tổng số tín chỉ:**\n*   Tổng cộng: **129 tín chỉ**.\n*   *Lưu ý:* Con số này chưa bao gồm các học phần Giáo dục thể chất, Giáo dục quốc phòng - an ninh và kỹ năng bổ trợ.\n\n**2. Cấu trúc khối lượng kiến thức:**\n*   **Khối kiến thức chung:** 21 tín chỉ.\n*   **Khối kiến thức theo lĩnh vực:** 5 tín chỉ.\n*   **Khối kiến thức theo khối ngành:** 3 tín chỉ.\n*   **Khối kiến thức theo nhóm ngành:** 28 tín chỉ.\n*   **Khối kiến thức ngành:** 72 tín chỉ, trong đó:\n    *   Bắt buộc: 49 tín chỉ.\n    *   Tự chọn: 16 tín chỉ.\n    *   Khóa luận tốt nghiệp (hoặc các học phần thay thế): 7 tín chỉ.\n\n**3. Cách tính tín chỉ và thời gian học tập:**\n*   **Định mức chung:** 1 tín chỉ tương đương với **50 giờ** học tập (bao gồm giờ giảng trên lớp, tự học, nghiên cứu, thực tập và kiểm tra).\n*   **Quy đổi giờ dạy trên lớp:**\n    *   1 tín chỉ lý thuyết: 15 giờ lý thuyết (mỗi giờ lý thuyết cần 2 giờ tự học tương ứng).\n    *   1 tín chỉ thực hành: 30 giờ thực hành (mỗi 2 giờ thực hành cần 1 giờ tự học tương ứng).\n    *   1 tín chỉ tự học: 90 giờ tự học.\n\nHy vọng những thông tin này giúp bạn nắm rõ hơn về lộ trình học tập của mình!",
+        "filter": "quy_che_chung"
+    },
+    {
+        "timestamp": "2026-05-11T16:04:12.892391",
+        "chat_title": "0511_tổng_quan_về_ngành_khoa_học_má",
+        "rewritten_query": "Ngành Khoa học máy tính và thông tin có yêu cầu đầu ra gì không?",
+        "user": "ngành này có yêu cầu đầu ra gì không?",
+        "bot": "Chào bạn, tôi là trợ lý tư vấn quy chế đào tạo. Dựa trên thông tin quy chế về ngành **Khoa học máy tính và thông tin**, tôi xin cung cấp các yêu cầu về chuẩn đầu ra và mục tiêu đào tạo của ngành như sau:\n\n### 1. Chuẩn đầu ra về Kiến thức\nSinh viên tốt nghiệp cần đạt được các khối kiến thức (PK) sau:\n*   **PK1:** Vận dụng được kiến thức cơ bản về khoa học xã hội, chính trị, pháp luật, văn hóa, quốc phòng - an ninh, khoa học trái đất và sự sống vào nghề nghiệp và đời sống.\n*   **PK5:** Vận dụng kiến thức cơ sở toán học và tổ chức máy tính trong việc bảo đảm an toàn thông tin.\n*   **PK6:** Có khả năng lập kế hoạch, tổ chức, giám sát thực hiện xây dựng hệ thống thông tin và nghiên cứu phát triển khoa học công nghệ; sử dụng thành thạo kiến thức về công nghệ phần mềm và phương pháp nghiên cứu khoa học.\n*   **Kiến thức chuyên môn khác:** Hiểu và thực hiện được việc phân tích, thiết kế, cài đặt và kiểm thử phần mềm; nắm vững nguyên lý thuật toán, trí tuệ nhân tạo để tối ưu hóa giải pháp quản lý và xử lý dữ liệu.\n\n### 2. Chuẩn đầu ra về Kỹ năng\n*   **Kỹ năng nghề nghiệp:** Có khả năng thực hành, nắm bắt và ứng dụng các thành tựu khoa học tiên tiến vào thực tiễn; có khả năng thích ứng tốt với môi trường làm việc thực tế.\n*   **Kỹ năng ngoại ngữ:** Đây là yêu cầu quan trọng. Sinh viên sau khi đào tạo phải có trình độ tiếng Anh tốt, tối thiểu đạt **chuẩn bậc 3** theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam. Có khả năng giao tiếp và sử dụng tiếng Anh trong chuyên môn.\n*   **Kỹ năng mềm:** Rèn luyện các kỹ năng làm việc để hội nhập quốc tế.\n\n### 3. Năng lực tự chủ và trách nhiệm\n*   Có khả năng làm việc độc lập và làm việc theo nhóm hiệu quả.\n*   Thể hiện sự tự chủ, sáng tạo trong học tập và nghiên cứu.\n*   Có đạo đức nghề nghiệp, đạo đức xã hội và tinh thần trách nhiệm trước tập thể, sẵn sàng hỗ trợ cộng đồng.\n\nNếu bạn cần tìm hiểu chi tiết hơn về từng học phần cụ thể, đừng ngần ngại đặt câu hỏi nhé!",
+        "filter": "quy_che_chung"
+    },
+    {
+        "timestamp": "2026-05-11T16:08:03.732289",
+        "chat_title": "0511_Cuoc_tro_chuyen",
+        "rewritten_query": "Học phần Giải tích 3 của ngành Khoa học máy tính và thông tin có những học phần tiên quyết nào?",
+        "user": "học phần tiên quyết của học phần giải tích 3",
+        "bot": "Tôi không tìm thấy thông tin liên quan trong cơ sở dữ liệu.",
+        "filter": "hoc_phan_dao_tao"
+    },
+    {
+        "timestamp": "2026-05-11T16:09:26.131574",
+        "chat_title": "0511_Cuoc_tro_chuyen",
+        "rewritten_query": "Hãy nêu một số học phần của ngành Khoa học máy tính và thông tin.",
+        "user": "nêu một số học phần của ngành này",
+        "bot": "Chào bạn, dựa trên quy chế đào tạo ngành **Khoa học máy tính và thông tin**, tôi xin liệt kê một số học phần tiêu biểu trong chương trình đào tạo như sau:\n\n*   **Khối kiến thức chung và theo lĩnh vực:**\n    *   **Chủ nghĩa xã hội khoa học** (Mã HP: PHI1002): 2 tín chỉ.\n    *   **Tư tưởng Hồ Chí Minh** (Mã HP: POL1001): 2 tín chỉ.\n    *   **Khoa học Trái Đất và sự sống** (Mã HP: HUS1021): 3 tín chỉ.\n    *   **Cơ sở văn hóa Việt Nam** (Mã HP: HIS1056): 3 tín chỉ.\n    *   **Nhập môn Internet kết nối vạn vật** (Mã HP: HUS1022): 2 tín chỉ.\n\n*   **Khối kiến thức ngành và chuyên sâu:**\n    *   **Nhập môn Trí tuệ nhân tạo** (Mã HP: MAT1206E): 3 tín chỉ (Học phần bắt buộc).\n    *   **Giải tích số** (Mã HP: MAT2034): 3 tín chỉ (Tự chọn về AI và phát triển phần mềm).\n    *   **Tìm kiếm thông tin** (Mã HP: MAT3535): 3 tín chỉ (Tự chọn về AI và phát triển phần mềm).\n    *   **Xây dựng hệ thống nhúng** (Mã HP: MAT1208): 2 tín chỉ (Tự chọn về kỹ năng phần mềm).\n\n*   **Học phần thay thế khóa luận tốt nghiệp:**\n    *   **Một số vấn đề chọn lọc về Trí tuệ nhân tạo** (Mã HP: MAT3377): 3 tín chỉ.\n\nNếu bạn cần thông tin chi tiết về mã học phần, thời lượng học hay điều kiện tiên quyết của từng môn cụ thể, đừng ngần ngại đặt câu hỏi nhé!",
+        "filter": "hoc_phan_dao_tao"
+    },
+    {
+        "timestamp": "2026-05-11T16:11:24.002462",
+        "chat_title": "0511_Cuoc_tro_chuyen",
+        "rewritten_query": "Học phần Giải tích số thuộc ngành Khoa học máy tính và thông tin có môn học tiên quyết nào không?",
+        "user": "học phần giải tích số có môn tiên quyết không",
+        "bot": "Dựa trên quy chế đào tạo của ngành Khoa học máy tính và thông tin, tôi xin giải đáp thắc mắc về học phần **Giải tích số** của bạn như sau:\n\nHọc phần **Giải tích số (Numerical Analysis)** có mã học phần là **MAT2034** yêu cầu các môn học tiên quyết là:\n\n*   **MAT2502** \n*   hoặc **MAT2403**\n\nBạn cần hoàn thành một trong hai môn học này trước khi đăng ký học phần Giải tích số.",
+        "filter": "hoc_phan_dao_tao"
+    },
+    {
+        "timestamp": "2026-05-11T16:13:41.173131",
+        "chat_title": "0511_Cuoc_tro_chuyen",
+        "rewritten_query": "Học phần Giải tích 3 trong chương trình đào tạo ngành Khoa học máy tính và thông tin có môn học tiên quyết không?",
+        "user": "thế còn giải tích 3 thì sao",
+        "bot": "Dựa trên quy chế đào tạo ngành Khoa học máy tính và thông tin mà bạn đã cung cấp, tôi xin giải đáp thắc mắc về học phần Giải tích 3 như sau:\n\nHọc phần **Giải tích 3** trong chương trình đào tạo này **có môn học tiên quyết**. Cụ thể:\n\n*   **Tên học phần:** Giải tích 3 (Calculus 3)\n*   **Mã học phần:** MAT2503\n*   **Điều kiện tiên quyết:** Học phần **MAT2502**\n\nNgoài ra, một số thông tin thêm về học phần này để bạn nắm rõ:\n*   **Số tín chỉ:** 2 tín chỉ.\n*   **Thời lượng:** 15 giờ lý thuyết, 30 giờ thực hành và 55 giờ tự học.\n*   **Nhóm kiến thức:** Khối kiến thức theo nhóm ngành.",
+        "filter": "hoc_phan_dao_tao"
+    }
+]
